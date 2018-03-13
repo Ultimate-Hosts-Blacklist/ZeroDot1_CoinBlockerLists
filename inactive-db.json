@@ -537,9 +537,7 @@
             "ws.ghash.io",
             "ws.hashnest.com",
             "ws.sandbox.coinbase.com",
-            "ws.xmrm.pw"
-        ],
-        "to_test": [
+            "ws.xmrm.pw",
             "ws3.bmnr.pw",
             "ws4.bmnr.pw",
             "wsm.ghash.io",
@@ -547,6 +545,7 @@
             "wss-2.monerise.com",
             "ww.pr0gramm.com",
             "www-tb7c.pr0gramm.com",
+            "www.ajcryptominer.com",
             "www.api.bitaccess.co",
             "www.api.changelly.com",
             "www.api.moneropool.nl",
@@ -579,7 +578,9 @@
             "www.map.bitaccess.co",
             "www.maps.bitaccess.co",
             "www.minr.pw",
-            "www.monero.crypto-pool.fr",
+            "www.monero.crypto-pool.fr"
+        ],
+        "to_test": [
             "www.mx.la.nocroom.com",
             "www.op.bitaccess.co",
             "www.orb.dnb.io",
