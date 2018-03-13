@@ -1,8 +1,10 @@
-# About [ZeroDot1_CoinBlockerLists]
+# About ZeroDot1_CoinBlockerLists
 
 [![Build Status](https://travis-ci.org/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists.svg?branch=master)](https://travis-ci.org/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists)
 
-[Description]
+```
+Simple lists that can help prevent cryptomining in the browser or other applications.
+```
 
 --------------------------------------------------------------------------------
 
