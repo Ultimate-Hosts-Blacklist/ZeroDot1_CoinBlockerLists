@@ -127,13 +127,12 @@
             "dash.poolmining.eu",
             "dashboard.minemonero.pro",
             "dashboard.monerise.com",
-            "dbix.coin-miners.info"
-        ],
-        "to_test": [
+            "dbix.coin-miners.info",
             "deals.hashflare.io",
             "decred.LOCATION.nicehash.com",
             "demo.webxmr.com",
             "dero.monerise.com",
+            "dev.fortrader.ru",
             "dev.miningrigrentals.com",
             "dev.multipool.us",
             "dev.prohashing.com",
@@ -163,6 +162,7 @@
             "equal.suprnova.cc",
             "esp.suprnova.cc",
             "etc-us.suprnova.cc",
+            "etc.minertopia.org",
             "etc.suprnova.cc",
             "eth-mine.suprnova.cc",
             "eth.fairpool.xyz",
@@ -186,7 +186,9 @@
             "europe.monerise.com",
             "ex-notify.coinbase.com",
             "exp.epool.io",
-            "exp.fairpool.xyz",
+            "exp.fairpool.xyz"
+        ],
+        "to_test": [
             "explorer.fairpool.xyz",
             "explorer.jsecoin.com",
             "explorersconvayencing.com.au",
