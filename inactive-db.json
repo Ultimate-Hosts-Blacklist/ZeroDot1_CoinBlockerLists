@@ -464,9 +464,7 @@
             "theonlineslots.bid",
             "theslots.ga",
             "theslots.gq",
-            "theslots.ml"
-        ],
-        "to_test": [
+            "theslots.ml",
             "tix.coinmine.pl",
             "tor.monerise.com",
             "toshi.bitaccess.co",
@@ -476,6 +474,7 @@
             "ubiq.fairpool.xyz",
             "ubq.epool.io",
             "ubq.fairpool.xyz",
+            "ubq.minertopia.org",
             "uk1.ghash.io",
             "uloma.xyz",
             "unh.suprnova.cc",
@@ -538,7 +537,9 @@
             "ws.ghash.io",
             "ws.hashnest.com",
             "ws.sandbox.coinbase.com",
-            "ws.xmrm.pw",
+            "ws.xmrm.pw"
+        ],
+        "to_test": [
             "ws3.bmnr.pw",
             "ws4.bmnr.pw",
             "wsm.ghash.io",
