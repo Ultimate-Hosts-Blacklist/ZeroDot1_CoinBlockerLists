@@ -554,9 +554,7 @@
             "ws.ghash.io",
             "ws.hashnest.com",
             "ws.sandbox.coinbase.com",
-            "ws.xmrm.pw"
-        ],
-        "to_test": [
+            "ws.xmrm.pw",
             "ws3.bmnr.pw",
             "ws4.bmnr.pw",
             "wsm.ghash.io",
@@ -590,7 +588,9 @@
             "www.forum.minergate.com",
             "www.forum.z.cash",
             "www.gitlab.bitpay.com",
-            "www.globe.suprnova.cc",
+            "www.globe.suprnova.cc"
+        ],
+        "to_test": [
             "www.live.prohashing.com",
             "www.madmining.club",
             "www.mail.nocroom.com",
