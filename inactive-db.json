@@ -588,9 +588,7 @@
             "www.forum.minergate.com",
             "www.forum.z.cash",
             "www.gitlab.bitpay.com",
-            "www.globe.suprnova.cc"
-        ],
-        "to_test": [
+            "www.globe.suprnova.cc",
             "www.live.prohashing.com",
             "www.madmining.club",
             "www.mail.nocroom.com",
@@ -664,7 +662,9 @@
             "ziftr.suprnova.cc",
             "zinterect.ga",
             "zmine.io",
-            "zrc-stratum.suprnova.cc",
+            "zrc-stratum.suprnova.cc"
+        ],
+        "to_test": [
             "10k.suprnova.cc"
         ]
     }
