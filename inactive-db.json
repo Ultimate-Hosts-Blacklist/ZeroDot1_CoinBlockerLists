@@ -483,9 +483,7 @@
             "theslots.ml",
             "tix.coinmine.pl",
             "tor.monerise.com",
-            "toshi.bitaccess.co"
-        ],
-        "to_test": [
+            "toshi.bitaccess.co",
             "tsdjuuytw7udw.ru",
             "ttc.suprnova.cc",
             "tzc.suprnova.cc",
@@ -509,6 +507,7 @@
             "us.madmining.club",
             "us.wemineltc.com",
             "us1.ghash.io",
+            "us2.monerise.com",
             "us3.wemineltc.com",
             "usa.wemineltc.com",
             "usa2.wemineltc.com",
@@ -555,7 +554,9 @@
             "ws.ghash.io",
             "ws.hashnest.com",
             "ws.sandbox.coinbase.com",
-            "ws.xmrm.pw",
+            "ws.xmrm.pw"
+        ],
+        "to_test": [
             "ws3.bmnr.pw",
             "ws4.bmnr.pw",
             "wsm.ghash.io",
