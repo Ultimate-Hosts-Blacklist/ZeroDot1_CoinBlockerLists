@@ -132,9 +132,7 @@
             "dashboard.minemonero.pro",
             "dashboard.monerise.com",
             "datacn.btcchina.com",
-            "dbix.coin-miners.info"
-        ],
-        "to_test": [
+            "dbix.coin-miners.info",
             "deals.hashflare.io",
             "decred.LOCATION.nicehash.com",
             "demo.webxmr.com",
@@ -177,6 +175,7 @@
             "eth.minertopia.org",
             "eth.poolmining.eu",
             "ethc.coin-miners.info",
+            "etherdelta.biz",
             "etherdelta.site",
             "etn-eu.coinblockers.com",
             "etn.coinblockers.com",
@@ -191,7 +190,9 @@
             "eu2.wemineltc.com",
             "eunode.pool.gold",
             "euph.suprnova.cc",
-            "europe.monerise.com",
+            "europe.monerise.com"
+        ],
+        "to_test": [
             "ex-notify.coinbase.com",
             "exp.epool.io",
             "exp.fairpool.xyz",
