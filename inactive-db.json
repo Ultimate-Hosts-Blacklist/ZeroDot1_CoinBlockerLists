@@ -665,9 +665,7 @@
             "zcl.minertopia.org",
             "zdash.coin-miners.info",
             "zdash.miningspeed.com",
-            "zec-cn.suprnova.cc"
-        ],
-        "to_test": [
+            "zec-cn.suprnova.cc",
             "zec.coin-miners.info",
             "zec.minertopia.org",
             "zec.poolmining.eu",
@@ -679,7 +677,9 @@
             "ziftr.suprnova.cc",
             "zinterect.ga",
             "zmine.io",
-            "zrc-stratum.suprnova.cc",
+            "zrc-stratum.suprnova.cc"
+        ],
+        "to_test": [
             "10k.suprnova.cc"
         ]
     }
