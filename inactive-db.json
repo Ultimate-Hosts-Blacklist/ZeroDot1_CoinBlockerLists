@@ -73,9 +73,7 @@
             "binm.cf",
             "binm.gq",
             "binm.ml",
-            "binm.xyz"
-        ],
-        "to_test": [
+            "binm.xyz",
             "bitbucket.prohashing.com",
             "bitcoin.coin-miners.info",
             "bittip.coinbase.com",
@@ -111,6 +109,7 @@
             "cfcnet.top",
             "chaintime.epool.io",
             "cheese.minertopia.org",
+            "cloudcoins.co",
             "clt.coin-miners.info",
             "clu.epool.io",
             "cn.dogecoin.dog",
@@ -133,7 +132,9 @@
             "dashboard.minemonero.pro",
             "dashboard.monerise.com",
             "datacn.btcchina.com",
-            "dbix.coin-miners.info",
+            "dbix.coin-miners.info"
+        ],
+        "to_test": [
             "deals.hashflare.io",
             "decred.LOCATION.nicehash.com",
             "demo.webxmr.com",
