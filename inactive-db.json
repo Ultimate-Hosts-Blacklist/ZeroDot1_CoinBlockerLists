@@ -468,9 +468,7 @@
             "store.coinbase.com",
             "store.minertopia.org",
             "straight.mycelium.com",
-            "stratum.bitcoin.inc.hk"
-        ],
-        "to_test": [
+            "stratum.bitcoin.inc.hk",
             "stratum.coinspool.cu.cc",
             "stratum.minertopia.org",
             "stratum.myBTCcoin.com",
@@ -565,7 +563,9 @@
             "wood.suprnova.cc",
             "woork.sbhmn-miner.com",
             "world.wemineltc.com",
-            "worm.suprnova.cc",
+            "worm.suprnova.cc"
+        ],
+        "to_test": [
             "ws.bitfinex.com",
             "ws.ghash.io",
             "ws.hashnest.com",
