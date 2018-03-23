@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1521461137": [
+        "1521808486": [
             "1beb2a44.space",
             "300ca0d0.space",
             "310ca263.space",
@@ -11,10 +11,12 @@
             "370cabd5.space",
             "3c0cb3b4.space",
             "3d0cb547.space",
+            "64uq73u7ug.webcam",
             "8bit.coin-miners.info",
             "a37ubfu6nmjxzcff.onion",
             "abc.suprnova.cc",
             "about.coinfirm.io",
+            "adzjzewsma.cf",
             "aleinvest.xyz",
             "alemoney.xyz",
             "amber.coin-miners.info",
@@ -59,6 +61,7 @@
             "bch.minertopia.org",
             "bco.coin-miners.info",
             "bcwfga5ssxh3jrlp.onion",
+            "be1.myzen.cash",
             "bella.suprnova.cc",
             "berserkpl.net.pl",
             "bestETNpool.com",
@@ -68,7 +71,9 @@
             "beta.prohashing.com",
             "beta.viaxmr.com",
             "bewhoyouare.gq",
-            "bic.crypto-coins.club",
+            "bic.crypto-coins.club"
+        ],
+        "to_test": [
             "binancie.online",
             "binm.cf",
             "binm.gq",
@@ -677,9 +682,7 @@
             "ziftr.suprnova.cc",
             "zinterect.ga",
             "zmine.io",
-            "zrc-stratum.suprnova.cc"
-        ],
-        "to_test": [
+            "zrc-stratum.suprnova.cc",
             "10k.suprnova.cc"
         ]
     }
