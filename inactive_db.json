@@ -726,9 +726,7 @@
             "xmr.new.lindon-pool.win",
             "xmr10.crypto-pool.fr",
             "xmrapib.alimabi.cn",
-            "xmrm.browsermine.com"
-        ],
-        "to_test": [
+            "xmrm.browsermine.com",
             "xn--mytherwalet-ms8e53d.com",
             "xrbc.minertopia.org",
             "xre.suprnova.cc",
@@ -758,7 +756,9 @@
             "ziftr.suprnova.cc",
             "zinterect.ga",
             "zmine.io",
-            "zrc-stratum.suprnova.cc",
+            "zrc-stratum.suprnova.cc"
+        ],
+        "to_test": [
             "10k.suprnova.cc"
         ]
     }
