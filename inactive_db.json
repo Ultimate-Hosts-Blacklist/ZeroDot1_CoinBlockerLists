@@ -604,9 +604,7 @@
             "v2.srv.eligius.st",
             "v3.srv.eligius.st",
             "vegas.xmrpool.net",
-            "veltor.suprnova.cc"
-        ],
-        "to_test": [
+            "veltor.suprnova.cc",
             "via.suprnova.cc",
             "vip.slushpool.com",
             "vip48.wemineltc.com",
@@ -645,8 +643,11 @@
             "ws.hashnest.com",
             "ws.sandbox.coinbase.com",
             "ws.xmrm.pw",
+            "ws1.ppoi.org",
             "ws3.bmnr.pw",
-            "ws4.bmnr.pw",
+            "ws4.bmnr.pw"
+        ],
+        "to_test": [
             "wsm.ghash.io",
             "wss-1.monerise.com",
             "wss-2.monerise.com",
