@@ -645,9 +645,7 @@
             "ws.xmrm.pw",
             "ws1.ppoi.org",
             "ws3.bmnr.pw",
-            "ws4.bmnr.pw"
-        ],
-        "to_test": [
+            "ws4.bmnr.pw",
             "wsm.ghash.io",
             "wss-1.monerise.com",
             "wss-2.monerise.com",
@@ -675,6 +673,7 @@
             "www.downloads.getmonero.org",
             "www.eac.suprnova.cc",
             "www.engineering.coinbase.com",
+            "www.etn.spacepools.org",
             "www.forum.bitcore.io",
             "www.forum.minergate.com",
             "www.forum.z.cash",
@@ -727,7 +726,9 @@
             "xmr.new.lindon-pool.win",
             "xmr10.crypto-pool.fr",
             "xmrapib.alimabi.cn",
-            "xmrm.browsermine.com",
+            "xmrm.browsermine.com"
+        ],
+        "to_test": [
             "xn--mytherwalet-ms8e53d.com",
             "xrbc.minertopia.org",
             "xre.suprnova.cc",
