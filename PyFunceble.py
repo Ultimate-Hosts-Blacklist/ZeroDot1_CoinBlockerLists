@@ -284,35 +284,42 @@ class PyFunceble(object):
             The domain to test.
         """
 
-        tabs = '\t'
-        space = ' '
+        if not extracted_domain.startswith('#'):
 
-        tabs_position, space_position = (
-            extracted_domain.find(tabs), extracted_domain.find(space))
+            if '#' in extracted_domain:
+                extracted_domain = extracted_domain[:extracted_domain.find(
+                    '#')].strip()
 
-        if tabs_position > -1 and space_position > -1:
-            if space_position < tabs_position:
+            tabs = '\t'
+            space = ' '
+
+            tabs_position, space_position = (
+                extracted_domain.find(tabs), extracted_domain.find(space))
+
+            if tabs_position > -1 and space_position > -1:
+                if space_position < tabs_position:
+                    separator = space
+                else:
+                    separator = tabs
+            elif tabs_position > -1:
+                separator = tabs
+            elif space_position > -1:
                 separator = space
             else:
-                separator = tabs
-        elif tabs_position > -1:
-            separator = tabs
-        elif space_position > -1:
-            separator = space
-        else:
-            separator = ''
+                separator = ''
 
-        if separator:
-            splited_line = extracted_domain.split(separator)
+            if separator:
+                splited_line = extracted_domain.split(separator)
 
-            index = 1
-            while index < len(splited_line):
-                if splited_line[index]:
-                    break
-                index += 1
+                index = 1
+                while index < len(splited_line):
+                    if splited_line[index]:
+                        break
+                    index += 1
 
-            return splited_line[index]
-        return extracted_domain
+                return splited_line[index]
+            return extracted_domain
+        return ""
 
     @classmethod
     def _format_adblock_decoded(cls, to_format, result=None):
@@ -407,7 +414,9 @@ class PyFunceble(object):
             with open(CONFIGURATION['file_to_test']) as file:
                 for line in file:
                     if not line.startswith('#'):
-                        result.append(line.rstrip('\n').strip())
+                        result.append(
+                            cls._format_domain(
+                                line.rstrip('\n').strip()))
         else:
             raise FileNotFoundError(CONFIGURATION['file_to_test'])
 
@@ -3410,6 +3419,15 @@ OUTPUTS = {}
 HTTP_CODE = {}
 LINKS = {}
 
+PYFUNCEBLE_LOGO = """
+██████╗ ██╗   ██╗███████╗██╗   ██╗███╗   ██╗ ██████╗███████╗██████╗ ██╗     ███████╗
+██╔══██╗╚██╗ ██╔╝██╔════╝██║   ██║████╗  ██║██╔════╝██╔════╝██╔══██╗██║     ██╔════╝
+██████╔╝ ╚████╔╝ █████╗  ██║   ██║██╔██╗ ██║██║     █████╗  ██████╔╝██║     █████╗
+██╔═══╝   ╚██╔╝  ██╔══╝  ██║   ██║██║╚██╗██║██║     ██╔══╝  ██╔══██╗██║     ██╔══╝
+██║        ██║   ██║     ╚██████╔╝██║ ╚████║╚██████╗███████╗██████╔╝███████╗███████╗
+╚═╝        ╚═╝   ╚═╝      ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝╚══════╝╚═════╝ ╚══════╝╚══════╝
+"""
+
 
 def load_configuration(path_to_config):
     """
@@ -3474,15 +3492,6 @@ if not path.isdir(CURRENT_DIRECTORY + OUTPUTS['parent_directory']):
 
 if __name__ == '__main__':
     initiate(autoreset=True)
-
-    PYFUNCEBLE_LOGO = """
-    ██████╗ ██╗   ██╗███████╗██╗   ██╗███╗   ██╗ ██████╗███████╗██████╗ ██╗     ███████╗
-    ██╔══██╗╚██╗ ██╔╝██╔════╝██║   ██║████╗  ██║██╔════╝██╔════╝██╔══██╗██║     ██╔════╝
-    ██████╔╝ ╚████╔╝ █████╗  ██║   ██║██╔██╗ ██║██║     █████╗  ██████╔╝██║     █████╗
-    ██╔═══╝   ╚██╔╝  ██╔══╝  ██║   ██║██║╚██╗██║██║     ██╔══╝  ██╔══██╗██║     ██╔══╝
-    ██║        ██║   ██║     ╚██████╔╝██║ ╚████║╚██████╗███████╗██████╔╝███████╗███████╗
-    ╚═╝        ╚═╝   ╚═╝      ╚═════╝ ╚═╝  ╚═══╝ ╚═════╝╚══════╝╚═════╝ ╚══════╝╚══════╝
-    """
 
     PARSER = argparse.ArgumentParser(
         description='A tool to check domains or IP availability \
@@ -3796,7 +3805,7 @@ if __name__ == '__main__':
         '-v',
         '--version',
         action='version',
-        version='%(prog)s 0.57.0-beta'
+        version='%(prog)s 0.58.3-beta'
     )
 
     ARGS = PARSER.parse_args()
