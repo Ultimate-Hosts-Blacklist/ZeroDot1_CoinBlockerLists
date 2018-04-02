@@ -1,7 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1522420004": [
+        "1522689463": [
             "1beb2a44.space",
+            "2giga.dowload",
             "300ca0d0.space",
             "310ca263.space",
             "320ca3f6.space",
@@ -11,7 +12,6 @@
             "370cabd5.space",
             "3c0cb3b4.space",
             "3d0cb547.space",
-            "64uq73u7ug.webcam",
             "8bit.coin-miners.info",
             "a37ubfu6nmjxzcff.onion",
             "abc.suprnova.cc",
@@ -28,6 +28,7 @@
             "ablen11.tk",
             "ablen12.tk",
             "about.coinfirm.io",
+            "adrenali.gq",
             "adzjzewsma.cf",
             "aeon-web.semipool.com",
             "aeon.spacepools.org",
@@ -71,7 +72,6 @@
             "api.itns.spacepools.org",
             "api.karbo.spacepools.org",
             "api.leviar.spacepools.org",
-            "api.masari.spacepools.org",
             "api.monero.hashvault.pro",
             "api.moneropro.com",
             "api.pool.bitcoin.com",
@@ -84,7 +84,6 @@
             "api.zec.spacepools.org",
             "api2.moriaxmr.com",
             "app.btcchina.com",
-            "app.zdash.cloud",
             "applest.gq",
             "applest.tk",
             "asc.coin-miners.info",
@@ -111,11 +110,12 @@
             "bestETNpool.com",
             "beta.bitfinex.com",
             "beta.madmining.club",
-            "beta.mining.bitcoin.cz",
             "beta.prohashing.com",
             "beta.viaxmr.com",
             "bewhoyouare.gq",
-            "bic.crypto-coins.club",
+            "bic.crypto-coins.club"
+        ],
+        "to_test": [
             "binancie.online",
             "binm.cf",
             "binm.gq",
@@ -756,9 +756,7 @@
             "ziftr.suprnova.cc",
             "zinterect.ga",
             "zmine.io",
-            "zrc-stratum.suprnova.cc"
-        ],
-        "to_test": [
+            "zrc-stratum.suprnova.cc",
             "10k.suprnova.cc"
         ]
     }
