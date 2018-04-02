@@ -523,9 +523,7 @@
             "slack.minertopia.org",
             "slg.coin-miners.info",
             "smart.suprnova.cc",
-            "smly.suprnova.cc"
-        ],
-        "to_test": [
+            "smly.suprnova.cc",
             "solid.mine-for.us",
             "solo.nicehash.com",
             "sprouts.suprnova.cc",
@@ -590,6 +588,7 @@
             "upload-center.byetho5t4.co",
             "uro.suprnova.cc",
             "us-east-1.multipool.us",
+            "us-stratum.viaxmr.com",
             "us.cfcnet.gdn",
             "us.exp.epool.io",
             "us.hashrefinery.com",
@@ -608,7 +607,9 @@
             "v2.srv.eligius.st",
             "v3.srv.eligius.st",
             "vegas.xmrpool.net",
-            "veltor.suprnova.cc",
+            "veltor.suprnova.cc"
+        ],
+        "to_test": [
             "via.suprnova.cc",
             "vip.slushpool.com",
             "vip48.wemineltc.com",
