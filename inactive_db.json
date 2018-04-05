@@ -1,17 +1,7 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1522689463": [
-            "1beb2a44.space",
+        "1522930572": [
             "2giga.dowload",
-            "300ca0d0.space",
-            "310ca263.space",
-            "320ca3f6.space",
-            "330ca589.space",
-            "340ca71c.space",
-            "360caa42.space",
-            "370cabd5.space",
-            "3c0cb3b4.space",
-            "3d0cb547.space",
             "8bit.coin-miners.info",
             "a37ubfu6nmjxzcff.onion",
             "abc.suprnova.cc",
@@ -54,6 +44,16 @@
             "amber.suprnova.cc",
             "america.monerise.com",
             "api-backup.viaxmr.com",
+            "api.1beb2a44.space",
+            "api.300ca0d0.space",
+            "api.310ca263.space",
+            "api.320ca3f6.space",
+            "api.330ca589.space",
+            "api.340ca71c.space",
+            "api.360caa42.space",
+            "api.370cabd5.space",
+            "api.3c0cb3b4.space",
+            "api.3d0cb547.space",
             "api.aeon.hashvault.pro",
             "api.aeon.semipool.com",
             "api.aeon.spacepools.org",
@@ -71,6 +71,7 @@
             "api.inwemo.com",
             "api.itns.spacepools.org",
             "api.karbo.spacepools.org",
+            "api.l33tsite.info",
             "api.leviar.spacepools.org",
             "api.monero.hashvault.pro",
             "api.moneropro.com",
@@ -113,7 +114,9 @@
             "beta.prohashing.com",
             "beta.viaxmr.com",
             "bewhoyouare.gq",
-            "bic.crypto-coins.club",
+            "bic.crypto-coins.club"
+        ],
+        "to_test": [
             "binancie.online",
             "binm.cf",
             "binm.gq",
@@ -788,9 +791,7 @@
             "ziftr.suprnova.cc",
             "zinterect.ga",
             "zmine.io",
-            "zrc-stratum.suprnova.cc"
-        ],
-        "to_test": [
+            "zrc-stratum.suprnova.cc",
             "10k.suprnova.cc"
         ]
     }
