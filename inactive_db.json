@@ -813,9 +813,7 @@
             "www.op.bitaccess.co",
             "www.orb.dnb.io",
             "www.pay.bithumb.com",
-            "www.preprod.changelly.com"
-        ],
-        "to_test": [
+            "www.preprod.changelly.com",
             "www.ru.cryptonator.com",
             "www.search.bitaccess.co",
             "www.staging.btcchina.com",
@@ -880,7 +878,9 @@
             "ziftr.suprnova.cc",
             "zinterect.ga",
             "zmine.io",
-            "zrc-stratum.suprnova.cc",
+            "zrc-stratum.suprnova.cc"
+        ],
+        "to_test": [
             "10k.suprnova.cc"
         ]
     }
