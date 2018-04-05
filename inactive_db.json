@@ -167,9 +167,7 @@
             "coinspool.cu.cc",
             "community.bitfinex.com",
             "comp.minertopia.org",
-            "confluence.prohashing.com"
-        ],
-        "to_test": [
+            "confluence.prohashing.com",
             "cpanel.bittank.club",
             "cpanel.graftpool.net",
             "cpanel.monerominer.rocks",
@@ -182,7 +180,6 @@
             "dashboard.minemonero.pro",
             "dashboard.monerise.com",
             "datacn.btcchina.com",
-            "datasecu.download",
             "dbix.coin-miners.info",
             "deals.hashflare.io",
             "decred.LOCATION.nicehash.com",
@@ -229,11 +226,12 @@
             "eth.minertopia.org",
             "eth.poolmining.eu",
             "ethc.coin-miners.info",
-            "etherdelta.biz",
             "etherdelta.site",
             "etn-eu.coinblockers.com",
             "etn.coinblockers.com",
-            "etn.cryptoxpool.com",
+            "etn.cryptoxpool.com"
+        ],
+        "to_test": [
             "etnold.semipool.com",
             "etnsafemode.semipool.com",
             "etnt.semipool.com",
