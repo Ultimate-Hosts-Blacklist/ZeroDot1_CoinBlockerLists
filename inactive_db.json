@@ -858,9 +858,7 @@
             "xrm.prohash.net",
             "xsecurity.fblaster.com",
             "xvc.suprnova.cc",
-            "xvg.suprnova.cc"
-        ],
-        "to_test": [
+            "xvg.suprnova.cc",
             "yac.coinmine.pl",
             "ybc.coinmine.pl",
             "ybh.ybcoin.com",
@@ -883,7 +881,9 @@
             "ziftr.suprnova.cc",
             "zinterect.ga",
             "zmine.io",
-            "zrc-stratum.suprnova.cc",
+            "zrc-stratum.suprnova.cc"
+        ],
+        "to_test": [
             "10k.suprnova.cc"
         ]
     }
