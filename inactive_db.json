@@ -813,9 +813,7 @@
             "www.map.bitaccess.co",
             "www.maps.bitaccess.co",
             "www.minr.pw",
-            "www.monero.crypto-pool.fr"
-        ],
-        "to_test": [
+            "www.monero.crypto-pool.fr",
             "www.mutuza.win",
             "www.mx.la.nocroom.com",
             "www.op.bitaccess.co",
@@ -871,7 +869,9 @@
             "yoc.minertopia.org",
             "youronionlink.onion",
             "yowl2ugopitfzzwb.onion",
+            "zcash-ssl.pool.ethfans.org",
             "zcash.nicehash.com",
+            "zcl.cloudpools.net",
             "zcl.minertopia.org",
             "zdash.coin-miners.info",
             "zdash.miningspeed.com",
@@ -887,7 +887,9 @@
             "ziftr.suprnova.cc",
             "zinterect.ga",
             "zmine.io",
-            "zrc-stratum.suprnova.cc",
+            "zrc-stratum.suprnova.cc"
+        ],
+        "to_test": [
             "10k.suprnova.cc"
         ]
     }
