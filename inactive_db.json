@@ -560,9 +560,7 @@
             "staging.hitbtc.com",
             "static.hitbtc.com",
             "static.reasedoper.pw",
-            "stats.miningrigrentals.com"
-        ],
-        "to_test": [
+            "stats.miningrigrentals.com",
             "ster.suprnova.cc",
             "sto.suprnova.cc",
             "stonk.suprnova.cc",
@@ -570,8 +568,11 @@
             "store.coinsecure.in",
             "store.minertopia.org",
             "straight.mycelium.com",
+            "stratum-us08.coinmine.pl",
+            "stratum-us10.coinmine.pl",
             "stratum.bitcoin.inc.hk",
             "stratum.f2xtpool.com",
+            "stratum.gbminers.com",
             "stratum.minertopia.org",
             "stratum.myBTCcoin.com",
             "stratum.solo.nicehash.com",
@@ -624,7 +625,9 @@
             "us.exp.epool.io",
             "us.hashrefinery.com",
             "us.madmining.club",
-            "us.wemineltc.com",
+            "us.wemineltc.com"
+        ],
+        "to_test": [
             "us1.ghash.io",
             "us2.monerise.com",
             "us3.monerise.com",
