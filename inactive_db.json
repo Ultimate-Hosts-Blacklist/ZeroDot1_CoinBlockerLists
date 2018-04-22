@@ -165,9 +165,7 @@
             "clt.coin-miners.info",
             "clu.epool.io",
             "cm1.xmrminingproxy.com",
-            "cn.dogecoin.dog"
-        ],
-        "to_test": [
+            "cn.dogecoin.dog",
             "cnd.suprnova.cc",
             "cnt.coin-miners.info",
             "cnwww.btcchina.com",
@@ -209,6 +207,7 @@
             "dev.prohashing.com",
             "dev2.minertopia.org",
             "devel.nicehash.com",
+            "devnew.unimining.net",
             "digger.cryptobara.com",
             "dinasty.spacepools.org",
             "dl.omfg.pw",
@@ -239,7 +238,9 @@
             "esp.suprnova.cc",
             "etc-us.suprnova.cc",
             "etc.minertopia.org",
-            "etc.suprnova.cc",
+            "etc.suprnova.cc"
+        ],
+        "to_test": [
             "eth-est.pool.ethfans.org",
             "eth-mine.suprnova.cc",
             "eth.fairpool.xyz",
