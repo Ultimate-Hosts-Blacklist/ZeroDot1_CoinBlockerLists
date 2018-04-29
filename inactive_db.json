@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1524745260": [
+        "1525004838": [
             "2giga.dowload",
             "2ledhenone.com",
             "8bit.coin-miners.info",
@@ -46,6 +46,7 @@
             "amber.suprnova.cc",
             "america.monerise.com",
             "api-backup.viaxmr.com",
+            "api-xmr.foreverpool.org",
             "api.1beb2a44.space",
             "api.300ca0d0.space",
             "api.310ca263.space",
@@ -63,6 +64,7 @@
             "api.btcchina.com",
             "api.byte.spacepools.org",
             "api.coal.spacepools.org",
+            "api.collusion.tech",
             "api.demo.cryptokitties.co",
             "api.dinasty.spacepools.org",
             "api.dyn.spacepools.org",
@@ -121,7 +123,9 @@
             "beta.prohashing.com",
             "beta.viaxmr.com",
             "bewhoyouare.gq",
-            "bic.crypto-coins.club",
+            "bic.crypto-coins.club"
+        ],
+        "to_test": [
             "binancie.online",
             "binm.cf",
             "binm.gq",
@@ -935,9 +939,7 @@
             "zinterect.ga",
             "zmine.io",
             "zrc-stratum.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "10k.suprnova.cc"
         ]
     }
