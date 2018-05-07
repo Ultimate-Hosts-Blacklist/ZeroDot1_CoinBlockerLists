@@ -883,9 +883,7 @@
             "www.drowningpool.net",
             "www.eac.suprnova.cc",
             "www.engineering.coinbase.com",
-            "www.etn.spacepools.org"
-        ],
-        "to_test": [
+            "www.etn.spacepools.org",
             "www.forum.bitcore.io",
             "www.forum.minergate.com",
             "www.forum.z.cash",
@@ -906,6 +904,7 @@
             "www.op.bitaccess.co",
             "www.orb.dnb.io",
             "www.pay.bithumb.com",
+            "www.pool.cryptonoter.com",
             "www.preprod.changelly.com",
             "www.ru.cryptonator.com",
             "www.search.bitaccess.co",
@@ -938,7 +937,6 @@
             "xmr.-eu1.nanopool.org",
             "xmr.coinmine.pl",
             "xmr.crypto-coins.club",
-            "xmr.cryptonoter.com",
             "xmr.fairpool.xyz",
             "xmr.hashinvest.net",
             "xmr.miningspeed.com",
@@ -970,7 +968,9 @@
             "zdash.coin-miners.info",
             "zdash.miningspeed.com",
             "zec-cn.suprnova.cc",
-            "zec.coin-miners.info",
+            "zec.coin-miners.info"
+        ],
+        "to_test": [
             "zec.minertopia.org",
             "zec.poolmining.eu",
             "zelcash.miningspeed.com",
