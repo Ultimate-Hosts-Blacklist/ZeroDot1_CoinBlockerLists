@@ -182,9 +182,7 @@
             "cnd.suprnova.cc",
             "cnt.coin-miners.info",
             "cnwww.btcchina.com",
-            "coal.spacepools.org"
-        ],
-        "to_test": [
+            "coal.spacepools.org",
             "coinpirate.cf",
             "coins.arstechnica.com",
             "community.bitfinex.com",
@@ -240,6 +238,8 @@
             "down.mys2016.info",
             "drk.ghash.io",
             "dronml.ml",
+            "dsh.extremepool.org",
+            "duck.extremepool.org",
             "dyn.spacepools.org",
             "eac.suprnova.cc",
             "ecurie.io",
@@ -254,7 +254,9 @@
             "eqt.suprnova.cc",
             "equal.suprnova.cc",
             "esp.suprnova.cc",
-            "etc-us.suprnova.cc",
+            "etc-us.suprnova.cc"
+        ],
+        "to_test": [
             "etc.minertopia.org",
             "etc.suprnova.cc",
             "eth-est.pool.ethfans.org",
