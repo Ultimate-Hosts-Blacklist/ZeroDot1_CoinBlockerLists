@@ -946,10 +946,7 @@
             "xmr.riefly.id",
             "xmr10.crypto-pool.fr",
             "xmr9.crypto-pool.fr",
-            "xmrapib.alimabi.cn"
-        ],
-        "to_test": [
-            "leafapi.minemonero.pro",
+            "xmrapib.alimabi.cn",
             "xmrm.browsermine.com",
             "xrbc.minertopia.org",
             "xre.suprnova.cc",
@@ -983,7 +980,10 @@
             "zinterect.ga",
             "zmine.io",
             "zrc-stratum.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
+            "leafapi.minemonero.pro",
             "10k.suprnova.cc"
         ]
     }
