@@ -964,9 +964,7 @@
             "zec.minertopia.org",
             "zec.poolmining.eu",
             "zelcash.miningspeed.com",
-            "zeltest.miningspeed.com"
-        ],
-        "to_test": [
+            "zeltest.miningspeed.com",
             "zen.fairpool.xyz",
             "zen.minertopia.org",
             "zennode.miningspeed.com",
@@ -974,7 +972,9 @@
             "zinterect.ga",
             "zmine.io",
             "zrc-stratum.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
             "10k.suprnova.cc"
         ]
     }
