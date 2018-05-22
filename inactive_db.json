@@ -619,9 +619,7 @@
             "store.coinbase.com",
             "store.coinsecure.in",
             "store.minertopia.org",
-            "straight.mycelium.com"
-        ],
-        "to_test": [
+            "straight.mycelium.com",
             "stratum-eu01.coinmine.pl",
             "stratum-eu02.coinmine.pl",
             "stratum-eu03.coinmine.pl",
@@ -706,7 +704,9 @@
             "usa.myzen.cash",
             "usa.wemineltc.com",
             "usa2.wemineltc.com",
-            "usa4.wemineltc.com",
+            "usa4.wemineltc.com"
+        ],
+        "to_test": [
             "v1.srv.eligius.st",
             "v2.srv.eligius.st",
             "v3.srv.eligius.st",
