@@ -531,9 +531,7 @@
             "pool.cloudcoins.co",
             "pool.cryptonoter.com",
             "pool.ekanembtc.com",
-            "pool.hws.ru"
-        ],
-        "to_test": [
+            "pool.hws.ru",
             "pool.kosmoplovci.org",
             "pool.minertopia.org",
             "pool.minerxmr.com",
@@ -621,7 +619,9 @@
             "store.coinbase.com",
             "store.coinsecure.in",
             "store.minertopia.org",
-            "straight.mycelium.com",
+            "straight.mycelium.com"
+        ],
+        "to_test": [
             "stratum-eu01.coinmine.pl",
             "stratum-eu02.coinmine.pl",
             "stratum-eu03.coinmine.pl",
