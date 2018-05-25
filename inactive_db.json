@@ -609,10 +609,7 @@
             "stafftest.firewall-gateway.com",
             "stage.cross.coinone.co.kr",
             "staging.community.coinbase.com",
-            "staging.hitbtc.com"
-        ],
-        "to_test": [
-            "api.3d0cb547.space",
+            "staging.hitbtc.com",
             "static.hitbtc.com",
             "stats.miningrigrentals.com",
             "status.collusion.tech",
@@ -649,6 +646,7 @@
             "sumo.coinwire.eu",
             "sumo.cryptonoter.com",
             "sumo.hashvault.pro",
+            "sumo.us.soyminero.es",
             "sunnyjuly.gq",
             "support.minertopia.org",
             "support.scryptpool.com",
@@ -698,7 +696,10 @@
             "us.cfcnet.gdn",
             "us.exp.epool.io",
             "us.hashrefinery.com",
-            "us.madmining.club",
+            "us.madmining.club"
+        ],
+        "to_test": [
+            "api.3d0cb547.space",
             "us.wemineltc.com",
             "us1.ghash.io",
             "us2.monerise.com",
