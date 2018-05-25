@@ -1,8 +1,9 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1526993068": [
+        "1527251872": [
             "2giga.dowload",
             "2ledhenone.com",
+            "340ca71c.space",
             "8bit.coin-miners.info",
             "a37ubfu6nmjxzcff.onion",
             "abc.suprnova.cc",
@@ -60,7 +61,9 @@
             "api.340ca71c.space",
             "api.360caa42.space",
             "api.370cabd5.space",
-            "api.3c0cb3b4.space",
+            "api.3c0cb3b4.space"
+        ],
+        "to_test": [
             "api.3d0cb547.space",
             "api.aeon.hashvault.pro",
             "api.aeon.semipool.com",
@@ -972,9 +975,7 @@
             "zinterect.ga",
             "zmine.io",
             "zrc-stratum.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "10k.suprnova.cc"
         ]
     }
