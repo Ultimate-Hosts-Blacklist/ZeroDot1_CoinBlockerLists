@@ -525,10 +525,7 @@
             "pirl.minertopia.org",
             "pit.deepbit.net",
             "play.video.estream.nu/",
-            "polis.coin-miners.info"
-        ],
-        "to_test": [
-            "api.3d0cb547.space",
+            "polis.coin-miners.info",
             "pool.cloudcoins.co",
             "pool.cryptonoter.com",
             "pool.ekanembtc.com",
@@ -537,7 +534,9 @@
             "pool.minertopia.org",
             "pool.minerxmr.com",
             "pool.moneropool.com",
+            "pool.moneropool.nl",
             "pool.moneropro.com",
+            "pool.nocroom.com",
             "pool1.minergate.com",
             "pooling.cf",
             "pop.pools.triplehexxx.net",
@@ -548,6 +547,7 @@
             "pritunl.sandbox-eu-west.cryptopay.me",
             "pritunl.staging-eu-west.cryptopay.me",
             "private.equihash.usa.nicehash.com",
+            "proj2018.xyz",
             "promo.hashflare.io",
             "proxy01.eu.nicehash.com",
             "proxy01.usa.nicehash.com",
@@ -609,7 +609,10 @@
             "stafftest.firewall-gateway.com",
             "stage.cross.coinone.co.kr",
             "staging.community.coinbase.com",
-            "staging.hitbtc.com",
+            "staging.hitbtc.com"
+        ],
+        "to_test": [
+            "api.3d0cb547.space",
             "static.hitbtc.com",
             "stats.miningrigrentals.com",
             "status.collusion.tech",
