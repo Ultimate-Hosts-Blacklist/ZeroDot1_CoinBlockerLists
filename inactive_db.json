@@ -606,13 +606,11 @@
             "server.com:1234",
             "sgl.suprnova.cc",
             "sia.suprnova.cc",
-            "sib.fairpool.xyz"
-        ],
-        "to_test": [
-            "ws1.340ca71c.space",
+            "sib.fairpool.xyz",
             "sigt-api.suprnova.cc",
             "sigt.suprnova.cc",
             "site.flashx.cc",
+            "siteverification.online",
             "slack.bittrex.com",
             "slack.minertopia.org",
             "slg.coin-miners.info",
@@ -634,6 +632,7 @@
             "ster.suprnova.cc",
             "sto.suprnova.cc",
             "stonk.suprnova.cc",
+            "storage.hashcoins.com",
             "store.coinbase.com",
             "store.coinsecure.in",
             "store.minertopia.org",
@@ -686,6 +685,7 @@
             "tix.coinmine.pl",
             "tor.monerise.com",
             "toshi.bitaccess.co",
+            "trackingsecond.pro",
             "tsdjuuytw7udw.ru",
             "ttc.suprnova.cc",
             "tzc.suprnova.cc",
@@ -693,7 +693,10 @@
             "ubiq.fairpool.xyz",
             "ubq.epool.io",
             "ubq.fairpool.xyz",
-            "ubq.minertopia.org",
+            "ubq.minertopia.org"
+        ],
+        "to_test": [
+            "ws1.340ca71c.space",
             "ui2ulh.xyz",
             "uk1.ghash.io",
             "uloma.xyz",
