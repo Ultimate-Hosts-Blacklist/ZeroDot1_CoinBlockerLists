@@ -1,9 +1,8 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1527251872": [
+        "1527597570": [
             "2giga.dowload",
             "2ledhenone.com",
-            "340ca71c.space",
             "8bit.coin-miners.info",
             "a37ubfu6nmjxzcff.onion",
             "abc.suprnova.cc",
@@ -27,6 +26,7 @@
             "adrenali.gq",
             "adzjzewsma.cf",
             "aeon-web.semipool.com",
+            "aeon.minecraftpool.com",
             "aeon.spacepools.org",
             "aeonold.semipool.com",
             "aeont.semipool.com",
@@ -62,6 +62,7 @@
             "api.360caa42.space",
             "api.370cabd5.space",
             "api.3c0cb3b4.space",
+            "api.3d0cb547.space",
             "api.aeon.hashvault.pro",
             "api.aeon.semipool.com",
             "api.aeon.spacepools.org",
@@ -109,6 +110,7 @@
             "asianode.pool.gold",
             "asicshack",
             "aster18prx.nl",
+            "auto.hashcoins.com",
             "auto.monerise.com",
             "avatar.pr0gramm.com",
             "avualrhg9p0.bid",
@@ -129,7 +131,10 @@
             "beta.prohashing.com",
             "beta.viaxmr.com",
             "bewhoyouare.gq",
-            "bic.crypto-coins.club",
+            "bic.crypto-coins.club"
+        ],
+        "to_test": [
+            "ws1.340ca71c.space",
             "binancie.online",
             "binm.cf",
             "binm.gq",
@@ -982,11 +987,7 @@
             "zinterect.ga",
             "zmine.io",
             "zrc-stratum.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "api.3d0cb547.space",
-            "ws1.340ca71c.space",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "10k.suprnova.cc"
         ]
     }
