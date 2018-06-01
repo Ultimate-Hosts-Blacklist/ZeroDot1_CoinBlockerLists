@@ -998,9 +998,7 @@
             "xmr10.crypto-pool.fr",
             "xmr9.crypto-pool.fr",
             "xmrapib.alimabi.cn",
-            "xmrm.browsermine.com"
-        ],
-        "to_test": [
+            "xmrm.browsermine.com",
             "xrbc.minertopia.org",
             "xre.suprnova.cc",
             "xrm.prohash.net",
@@ -1034,8 +1032,9 @@
             "zinterect.ga",
             "zmine.io",
             "zrc-stratum.suprnova.cc",
-            "zsw8.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
             "10k.suprnova.cc"
         ]
     }
