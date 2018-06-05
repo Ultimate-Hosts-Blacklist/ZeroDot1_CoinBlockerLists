@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1527856867": [
+        "1528202657": [
             "2giga.dowload",
             "2ledhenone.com",
             "8bit.coin-miners.info",
@@ -46,6 +46,7 @@
             "ak.cdn-jquery.host",
             "aleinvest.xyz",
             "alemoney.xyz",
+            "alloy.labbinarymining.com",
             "alloy.spacepools.org",
             "am9ozs.xyz",
             "amber.coin-miners.info",
@@ -102,6 +103,7 @@
             "applest.gq",
             "applest.tk",
             "argo.coin-miners.info",
+            "arto.labbinarymining.com",
             "asc.coin-miners.info",
             "asc.suprnova.cc",
             "asia.madmining.club",
@@ -115,8 +117,10 @@
             "avatar.pr0gramm.com",
             "avualrhg9p0.bid",
             "axiom.suprnova.cc",
+            "balkancoin.labbinarymining.com",
             "bbr.crypto-coins.club",
             "bbr.suprnova.cc",
+            "bbscoin.labbinarymining.com",
             "bcc.coin-miners.info",
             "bccprop.coin-miners.info",
             "bch.minertopia.org",
@@ -128,8 +132,11 @@
             "beta.bitfinex.com",
             "beta.madmining.club",
             "beta.mining.bitcoin.cz",
+            "beta.p2pool.io",
             "beta.prohashing.com",
-            "beta.viaxmr.com",
+            "beta.viaxmr.com"
+        ],
+        "to_test": [
             "bewhoyouare.gq",
             "bic.crypto-coins.club",
             "binancie.online",
@@ -1032,9 +1039,7 @@
             "zinterect.ga",
             "zmine.io",
             "zrc-stratum.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "10k.suprnova.cc"
         ]
     }
