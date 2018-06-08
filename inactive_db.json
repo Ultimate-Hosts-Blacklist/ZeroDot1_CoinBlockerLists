@@ -843,9 +843,7 @@
             "ws008.hemnes.win",
             "ws009.hemnes.win",
             "ws010.hemnes.win",
-            "ws011.hemnes.win"
-        ],
-        "to_test": [
+            "ws011.hemnes.win",
             "ws012.hemnes.win",
             "ws013.hemnes.win",
             "ws014.hemnes.win",
@@ -977,7 +975,9 @@
             "www.blog.coinbase.com",
             "www.blog.hashflare.io",
             "www.blog.slushpool.com",
-            "www.cash.bitaccess.co",
+            "www.cash.bitaccess.co"
+        ],
+        "to_test": [
             "www.cid005.la.nocroom.com",
             "www.cloudcdn.gdn",
             "www.cloudcoins.co",
