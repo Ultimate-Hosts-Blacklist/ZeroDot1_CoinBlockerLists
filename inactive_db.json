@@ -192,16 +192,14 @@
             "clt.coin-miners.info",
             "clu.epool.io",
             "cm1.xmrminingproxy.com",
-            "cn.dogecoin.dog"
-        ],
-        "to_test": [
-            "mine.test.fairpool.xyz",
+            "cn.dogecoin.dog",
             "cnd.suprnova.cc",
             "cnt.coin-miners.info",
             "cnwww.btcchina.com",
             "coal.spacepools.org",
             "coinpirate.cf",
             "coins.arstechnica.com",
+            "coinspool.cu.cc",
             "community.bitfinex.com",
             "comp.minertopia.org",
             "confluence.prohashing.com",
@@ -263,7 +261,10 @@
             "doubleclick5.xyz",
             "doubleclick6.xyz",
             "drk.ghash.io",
-            "dronml.ml",
+            "dronml.ml"
+        ],
+        "to_test": [
+            "mine.test.fairpool.xyz",
             "dyn.spacepools.org",
             "eac.suprnova.cc",
             "ecurie.io",
