@@ -658,9 +658,7 @@
             "serv0100.blacktds.com",
             "server.com:1234",
             "sgl.suprnova.cc",
-            "sia.suprnova.cc"
-        ],
-        "to_test": [
+            "sia.suprnova.cc",
             "sib.fairpool.xyz",
             "sigt-api.suprnova.cc",
             "sigt.suprnova.cc",
@@ -669,6 +667,7 @@
             "slack.minertopia.org",
             "slg.coin-miners.info",
             "smart.suprnova.cc",
+            "smectapop12.pl",
             "smly.suprnova.cc",
             "soldi.labbinarymining.com",
             "solid.mine-for.us",
@@ -708,6 +707,7 @@
             "stratum-us08.coinmine.pl",
             "stratum-us10.coinmine.pl",
             "stratum.bitcoin.inc.hk",
+            "stratum.coinspool.cu.cc",
             "stratum.f2xtpool.com",
             "stratum.gbminers.com",
             "stratum.litepool.ru",
@@ -752,7 +752,9 @@
             "ubiq.fairpool.xyz",
             "ubq.epool.io",
             "ubq.fairpool.xyz",
-            "ubq.minertopia.org",
+            "ubq.minertopia.org"
+        ],
+        "to_test": [
             "ui2ulh.xyz",
             "uk1.ghash.io",
             "uloma.xyz",
