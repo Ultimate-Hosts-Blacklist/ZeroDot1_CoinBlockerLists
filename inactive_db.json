@@ -586,11 +586,7 @@
             "play.video.estream.nu/",
             "playerhd2.pw",
             "plura.labbinarymining.com",
-            "polis.coin-miners.info"
-        ],
-        "to_test": [
-            "drk.ghash.io",
-            "mar.suprnova.cc",
+            "polis.coin-miners.info",
             "pool.cloudcoins.co",
             "pool.cryptonoter.com",
             "pool.ekanembtc.com",
@@ -670,8 +666,8 @@
             "slack.minertopia.org",
             "slg.coin-miners.info",
             "smart.suprnova.cc",
-            "smectapop12.pl",
             "smly.suprnova.cc",
+            "socialextensions.top",
             "soldi.labbinarymining.com",
             "solid.mine-for.us",
             "solo.nicehash.com",
@@ -708,7 +704,11 @@
             "stratum-sg14.coinmine.pl",
             "stratum-sg15.coinmine.pl",
             "stratum-us08.coinmine.pl",
-            "stratum-us10.coinmine.pl",
+            "stratum-us10.coinmine.pl"
+        ],
+        "to_test": [
+            "drk.ghash.io",
+            "mar.suprnova.cc",
             "stratum.bitcoin.inc.hk",
             "stratum.coinspool.cu.cc",
             "stratum.f2xtpool.com",
