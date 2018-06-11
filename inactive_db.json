@@ -704,11 +704,7 @@
             "stratum-sg14.coinmine.pl",
             "stratum-sg15.coinmine.pl",
             "stratum-us08.coinmine.pl",
-            "stratum-us10.coinmine.pl"
-        ],
-        "to_test": [
-            "drk.ghash.io",
-            "mar.suprnova.cc",
+            "stratum-us10.coinmine.pl",
             "stratum.bitcoin.inc.hk",
             "stratum.coinspool.cu.cc",
             "stratum.f2xtpool.com",
@@ -741,6 +737,7 @@
             "testbcc.bitconnect.co",
             "thenewgamer.fun",
             "theonlineslots.bid",
+            "theshoppingoffers.top",
             "theslots.ga",
             "theslots.gq",
             "theslots.ml",
@@ -778,6 +775,7 @@
             "us.madmining.club",
             "us.wemineltc.com",
             "us1.ghash.io",
+            "us1.monerise.com",
             "us2.monerise.com",
             "us3.monerise.com",
             "us3.wemineltc.com",
@@ -785,7 +783,11 @@
             "usa.myzen.cash",
             "usa.wemineltc.com",
             "usa2.wemineltc.com",
-            "usa4.wemineltc.com",
+            "usa4.wemineltc.com"
+        ],
+        "to_test": [
+            "drk.ghash.io",
+            "mar.suprnova.cc",
             "v1.srv.eligius.st",
             "v2.srv.eligius.st",
             "v3.srv.eligius.st",
