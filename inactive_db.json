@@ -190,9 +190,7 @@
             "cfcnet.top",
             "chaintime.epool.io",
             "cheese.minertopia.org",
-            "cif.coin-miners.info"
-        ],
-        "to_test": [
+            "cif.coin-miners.info",
             "clt.coin-miners.info",
             "clu.epool.io",
             "cm1.xmrminingproxy.com",
@@ -263,7 +261,9 @@
             "doubleclick3.xyz",
             "doubleclick4.xyz",
             "doubleclick5.xyz",
-            "doubleclick6.xyz",
+            "doubleclick6.xyz"
+        ],
+        "to_test": [
             "drk.ghash.io",
             "dronml.ml",
             "dyn.spacepools.org",
