@@ -1036,9 +1036,7 @@
             "cfcnet.top",
             "chaintime.epool.io",
             "cheese.minertopia.org",
-            "cif.coin-miners.info"
-        ],
-        "to_test": [
+            "cif.coin-miners.info",
             "clt.coin-miners.info",
             "clu.epool.io",
             "cm1.xmrminingproxy.com",
@@ -1089,6 +1087,7 @@
             "depttake.ga",
             "dero.monerise.com",
             "dev.2miners.com",
+            "dev.coinlab.biz",
             "dev.fortrader.ru",
             "dev.miningrigrentals.com",
             "dev.multipool.us",
@@ -1110,10 +1109,11 @@
             "doubleclick4.xyz",
             "doubleclick5.xyz",
             "doubleclick6.xyz",
-            "ws2.3c0cb3b4.space",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
-            "dev.coinlab.biz",
             "drk.ghash.io"
+        ],
+        "to_test": [
+            "ws2.3c0cb3b4.space",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
         ]
     }
 }
