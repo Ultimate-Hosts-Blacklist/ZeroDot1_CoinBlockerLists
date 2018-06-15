@@ -1129,10 +1129,7 @@
             "zdash.miningspeed.com",
             "zec-cn.suprnova.cc",
             "zec.coin-miners.info",
-            "zec.minertopia.org"
-        ],
-        "to_test": [
-            "mailout.bitcoin.de",
+            "zec.minertopia.org",
             "zec.poolmining.eu",
             "zelcash.miningspeed.com",
             "zeltest.miningspeed.com",
@@ -1143,7 +1140,10 @@
             "zinterect.ga",
             "zmine.io",
             "zrc-stratum.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
+            "mailout.bitcoin.de",
             "10k.suprnova.cc"
         ]
     }
