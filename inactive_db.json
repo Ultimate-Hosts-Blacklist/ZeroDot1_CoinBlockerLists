@@ -1640,12 +1640,7 @@
             "xmr-tmp4.crypto-pool.fr",
             "xmr-tmp6.crypto-pool.fr",
             "xmr-tmp7.crypto-pool.fr",
-            "xmr-tmp8.crypto-pool.fr"
-        ],
-        "to_test": [
-            "chock.suprnova.cc",
-            "greece.suprnova.cc",
-            "greed.suprnova.cc",
+            "xmr-tmp8.crypto-pool.fr",
             "xmr.-eu1.nanopool.org",
             "xmr.coinlab.biz",
             "xmr.coinmine.pl",
@@ -1722,7 +1717,12 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
+            "chock.suprnova.cc",
+            "greece.suprnova.cc",
+            "greed.suprnova.cc",
             "007.suprnova.cc"
         ]
     }
