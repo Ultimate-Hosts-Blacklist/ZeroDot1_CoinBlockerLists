@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1529326940": [
+        "1529585553": [
             "10k.suprnova.cc",
             "1337.suprnova.cc",
             "16bit.suprnova.cc",
@@ -39,7 +39,6 @@
             "adrenali.gq",
             "adzjzewsma.cf",
             "aeon-web.semipool.com",
-            "aeon.cryptoserb.com",
             "aeon.minecraftpool.com",
             "aeon.spacepools.org",
             "aeonold.semipool.com",
@@ -163,7 +162,9 @@
             "bbscoin.labbinarymining.com",
             "bcc.coin-miners.info",
             "bccprop.coin-miners.info",
-            "bch.minertopia.org",
+            "bch.minertopia.org"
+        ],
+        "to_test": [
             "bco.coin-miners.info",
             "bcwfga5ssxh3jrlp.onion",
             "bdg.suprnova.cc",
@@ -1722,9 +1723,7 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "007.suprnova.cc"
         ]
     }
