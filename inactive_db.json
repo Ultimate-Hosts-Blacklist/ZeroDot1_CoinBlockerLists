@@ -1522,12 +1522,7 @@
             "wsm.ghash.io",
             "wss-1.monerise.com",
             "wss-2.monerise.com",
-            "wtf.suprnova.cc"
-        ],
-        "to_test": [
-            "chock.suprnova.cc",
-            "greece.suprnova.cc",
-            "greed.suprnova.cc",
+            "wtf.suprnova.cc",
             "ww.pr0gramm.com",
             "ww.suprnova.cc",
             "wwc.suprnova.cc",
@@ -1645,7 +1640,12 @@
             "xmr-tmp4.crypto-pool.fr",
             "xmr-tmp6.crypto-pool.fr",
             "xmr-tmp7.crypto-pool.fr",
-            "xmr-tmp8.crypto-pool.fr",
+            "xmr-tmp8.crypto-pool.fr"
+        ],
+        "to_test": [
+            "chock.suprnova.cc",
+            "greece.suprnova.cc",
+            "greed.suprnova.cc",
             "xmr.-eu1.nanopool.org",
             "xmr.coinlab.biz",
             "xmr.coinmine.pl",
