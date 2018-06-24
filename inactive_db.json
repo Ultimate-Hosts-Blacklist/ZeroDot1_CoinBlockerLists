@@ -1723,19 +1723,14 @@
             "xmr.miningspeed.com",
             "xmr.moneropro.com",
             "xmr.mypool.name",
-            "xmr.new.lindon-pool.win"
-        ],
-        "to_test": [
-            "cann-tx.hashing.space",
-            "ftc-il.hashing.space",
-            "mining.ghash.io",
-            "psy.suprnova.cc",
+            "xmr.new.lindon-pool.win",
             "xmr.riefly.id",
             "xmr10.crypto-pool.fr",
             "xmr11.crypto-pool.fr",
             "xmr9.crypto-pool.fr",
             "xmrapib.alimabi.cn",
             "xmrm.browsermine.com",
+            "xmrminerpro.com/",
             "xms.suprnova.cc",
             "xmt.suprnova.cc",
             "xnan.suprnova.cc",
@@ -1795,7 +1790,13 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
+            "cann-tx.hashing.space",
+            "ftc-il.hashing.space",
+            "mining.ghash.io",
+            "psy.suprnova.cc",
             "007.suprnova.cc"
         ]
     }
