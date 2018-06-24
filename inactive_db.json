@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1529585553": [
+        "1529846064": [
             "10k.suprnova.cc",
             "1337.suprnova.cc",
             "16bit.suprnova.cc",
@@ -69,6 +69,7 @@
             "america.monerise.com",
             "ams.suprnova.cc",
             "anal.suprnova.cc",
+            "anc.hash-to-coins.com",
             "angel.suprnova.cc",
             "api-backup.viaxmr.com",
             "api-xmr.foreverpool.org",
@@ -143,7 +144,12 @@
             "aura.epool.io",
             "auto.hashcoins.com",
             "auto.monerise.com",
-            "avatar.pr0gramm.com",
+            "avatar.pr0gramm.com"
+        ],
+        "to_test": [
+            "chock.suprnova.cc",
+            "greece.suprnova.cc",
+            "greed.suprnova.cc",
             "avualrhg9p0.bid",
             "axiom.suprnova.cc",
             "axr.suprnova.cc",
@@ -1717,12 +1723,7 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "chock.suprnova.cc",
-            "greece.suprnova.cc",
-            "greed.suprnova.cc",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "007.suprnova.cc"
         ]
     }
