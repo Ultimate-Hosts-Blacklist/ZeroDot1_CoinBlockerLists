@@ -545,12 +545,10 @@
             "eur1.ethermine.org",
             "europe.miningpoolhub.com",
             "europe.monerise.com",
-            "europe1.adzcoin.miningpoolhub.com"
-        ],
-        "to_test": [
-            "ftc-il.hashing.space",
-            "mining.ghash.io",
-            "psy.suprnova.cc",
+            "europe1.adzcoin.miningpoolhub.com",
+            "europe1.bitcoincoin.miningpoolhub.com",
+            "europe1.digitalcoin.miningpoolhub.com",
+            "europe1.jackpotcoin.miningpoolhub.com",
             "event.suprnova.cc",
             "evil.suprnova.cc",
             "ex-notify.coinbase.com",
@@ -561,6 +559,7 @@
             "exp.fairpool.xyz",
             "explorer.fairpool.xyz",
             "explorer.jsecoin.com",
+            "explorer2.expanse.tech",
             "explorersconvayencing.com.au",
             "extremeool.org",
             "f.pooling.cf",
@@ -588,7 +587,12 @@
             "flashplayer.nb6ret.xyz",
             "flashplayer.oi1ljg.xyz",
             "flax.suprnova.cc",
-            "flex.suprnova.cc",
+            "flex.suprnova.cc"
+        ],
+        "to_test": [
+            "ftc-il.hashing.space",
+            "mining.ghash.io",
+            "psy.suprnova.cc",
             "flophous.cf",
             "fly.suprnova.cc",
             "fonero.spacepools.org",
