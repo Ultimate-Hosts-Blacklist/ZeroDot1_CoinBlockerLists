@@ -2012,12 +2012,7 @@
             "xmr.crypto-coins.club",
             "xmr.fairpool.xyz",
             "xmr.hashing.space",
-            "xmr.minecraftpool.com"
-        ],
-        "to_test": [
-            "asia1.digitalcoin.miningpoolhub.com",
-            "ftc-il.hashing.space",
-            "pool.moneropro.com",
+            "xmr.minecraftpool.com",
             "xmr.miningspeed.com",
             "xmr.moneropro.com",
             "xmr.mypool.name",
@@ -2091,7 +2086,12 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
+            "asia1.digitalcoin.miningpoolhub.com",
+            "ftc-il.hashing.space",
+            "pool.moneropro.com",
             "007.suprnova.cc"
         ]
     }
