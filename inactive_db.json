@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1530104094": [
+        "1530363413": [
             "10k.suprnova.cc",
             "1337.suprnova.cc",
             "16bit.suprnova.cc",
@@ -138,7 +138,14 @@
             "asia.dwarfpool.com",
             "asia.lyra2z.miningpoolhub.com",
             "asia.madmining.club",
-            "asia.monerise.com",
+            "asia.monerise.com"
+        ],
+        "to_test": [
+            "ivory.suprnova.cc",
+            "mine.btcd.xpool.ca",
+            "mine.cc.st",
+            "mine.dark.xpool.ca",
+            "mine.dbix.fairpool.xyz",
             "asia1.digitalcoin.miningpoolhub.com",
             "asia1.miningpoolhub.com",
             "asia2.ethermine.org",
@@ -1886,14 +1893,7 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "ivory.suprnova.cc",
-            "mine.btcd.xpool.ca",
-            "mine.cc.st",
-            "mine.dark.xpool.ca",
-            "mine.dbix.fairpool.xyz",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "007.suprnova.cc"
         ]
     }
