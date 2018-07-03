@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1530363413": [
+        "1530622832": [
             "10k.suprnova.cc",
             "1337.suprnova.cc",
             "16bit.suprnova.cc",
@@ -57,6 +57,7 @@
             "aeros10.tk",
             "aeros11.tk",
             "aeros12.tk",
+            "aether.spacepools.org",
             "aiden.suprnova.cc",
             "ak.cdn-jquery.host",
             "aleinvest.xyz",
@@ -88,6 +89,7 @@
             "api.aeon.hashvault.pro",
             "api.aeon.semipool.com",
             "api.aeon.spacepools.org",
+            "api.aether.spacepools.org",
             "api.alloy.spacepools.org",
             "api.btcchina.com",
             "api.byte.spacepools.org",
@@ -95,6 +97,7 @@
             "api.coinsecure.in",
             "api.collusion.tech",
             "api.demo.cryptokitties.co",
+            "api.dero.spacepools.org",
             "api.dinasty.spacepools.org",
             "api.dyn.spacepools.org",
             "api.edollar.spacepools.org",
@@ -102,11 +105,14 @@
             "api.fonero.spacepools.org",
             "api.hellominer.com",
             "api.intense.hashvault.pro",
+            "api.intense.spacepools.org",
             "api.inwemo.com",
+            "api.ipbc.spacepools.org",
             "api.itns.spacepools.org",
             "api.karbo.spacepools.org",
             "api.l33tsite.info",
             "api.leviar.spacepools.org",
+            "api.masari.spacepools.org",
             "api.monero.hashvault.pro",
             "api.moneropool.nl",
             "api.moneropro.com",
@@ -114,8 +120,10 @@
             "api.pooldd.com",
             "api.sandbox.coinbase.com",
             "api.slushpool.com",
+            "api.stellite.spacepools.org",
             "api.sumo.hashvault.pro",
             "api.sumokoin.hashvault.pro",
+            "api.turtle.spacepools.org",
             "api.ultranote.spacepools.org",
             "api.xmr.spacepools.org",
             "api.zec.spacepools.org",
@@ -138,7 +146,12 @@
             "asia.dwarfpool.com",
             "asia.lyra2z.miningpoolhub.com",
             "asia.madmining.club",
-            "asia.monerise.com",
+            "asia.monerise.com"
+        ],
+        "to_test": [
+            "asia1.digitalcoin.miningpoolhub.com",
+            "ftc-il.hashing.space",
+            "pool.moneropro.com",
             "asia1.miningpoolhub.com",
             "asia2.ethermine.org",
             "asiacoin.miningpoolhub.com",
@@ -2086,12 +2099,7 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "asia1.digitalcoin.miningpoolhub.com",
-            "ftc-il.hashing.space",
-            "pool.moneropro.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "007.suprnova.cc"
         ]
     }
