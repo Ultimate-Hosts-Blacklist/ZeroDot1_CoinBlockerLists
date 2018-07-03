@@ -146,12 +146,8 @@
             "asia.dwarfpool.com",
             "asia.lyra2z.miningpoolhub.com",
             "asia.madmining.club",
-            "asia.monerise.com"
-        ],
-        "to_test": [
+            "asia.monerise.com",
             "asia1.digitalcoin.miningpoolhub.com",
-            "ftc-il.hashing.space",
-            "pool.moneropro.com",
             "asia1.miningpoolhub.com",
             "asia2.ethermine.org",
             "asiacoin.miningpoolhub.com",
@@ -218,7 +214,11 @@
             "bitly.wa4eri.xyz",
             "bitnote2.labbinarymining.com",
             "bitq.suprnova.cc",
-            "bittip.coinbase.com",
+            "bittip.coinbase.com"
+        ],
+        "to_test": [
+            "ftc-il.hashing.space",
+            "pool.moneropro.com",
             "bitz.suprnova.cc",
             "black.suprnova.cc",
             "blake.suprnova.cc",
