@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1530622832": [
+        "1530968530": [
             "10k.suprnova.cc",
             "1337.suprnova.cc",
             "16bit.suprnova.cc",
@@ -10,6 +10,7 @@
             "2chrup56.ru",
             "2giga.dowload",
             "2ledhenone.com",
+            "3d0cb547.spacebrony.dnb.io",
             "80-eth.suprnova.cc",
             "8bit.coin-miners.info",
             "8bit.suprnova.cc",
@@ -114,6 +115,7 @@
             "api.leviar.spacepools.org",
             "api.masari.spacepools.org",
             "api.monero.hashvault.pro",
+            "api.monero.miners.pro",
             "api.moneropool.nl",
             "api.moneropro.com",
             "api.pool.bitcoin.com",
@@ -147,7 +149,15 @@
             "asia.lyra2z.miningpoolhub.com",
             "asia.madmining.club",
             "asia.monerise.com",
-            "asia1.digitalcoin.miningpoolhub.com",
+            "asia1.digitalcoin.miningpoolhub.com"
+        ],
+        "to_test": [
+            "cpanel.graftpool.net",
+            "iota.moriaxmr.com",
+            "mine.etn.fairpool.xyz",
+            "mine.fibre.xpool.ca",
+            "mine.krb.fairpool.xyz",
+            "mine.moneropro.com",
             "asia1.miningpoolhub.com",
             "asia2.ethermine.org",
             "asiacoin.miningpoolhub.com",
@@ -1915,15 +1925,7 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "cpanel.graftpool.net",
-            "iota.moriaxmr.com",
-            "mine.etn.fairpool.xyz",
-            "mine.fibre.xpool.ca",
-            "mine.krb.fairpool.xyz",
-            "mine.moneropro.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "007.suprnova.cc"
         ]
     }
