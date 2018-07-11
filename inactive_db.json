@@ -2060,16 +2060,13 @@
             "xmr10.crypto-pool.fr",
             "xmr11.crypto-pool.fr",
             "xmr9.crypto-pool.fr",
-            "xmrapib.alimabi.cn"
-        ],
-        "to_test": [
-            "bittip.coinbase.com",
-            "ws3.340ca71c.space",
+            "xmrapib.alimabi.cn",
             "xmrigcc.com",
             "xmrm.browsermine.com",
             "xmrminerpro.com/",
             "xms.suprnova.cc",
             "xmt.suprnova.cc",
+            "xmv.minerhills.com",
             "xn--us-east-1fg.ethash-hub.miningpoolhub.com",
             "xnan.suprnova.cc",
             "xnn.suprnova.cc",
@@ -2084,6 +2081,8 @@
             "xrm.prohash.net",
             "xsecurity.fblaster.com",
             "xst.argakiig.us",
+            "xtl-us.minerhills.com",
+            "xtl.minerhills.com",
             "xtl.soyminero.es",
             "xtp.suprnova.cc",
             "xvc.suprnova.cc",
@@ -2100,6 +2099,7 @@
             "yoc.minertopia.org",
             "youronionlink.onion",
             "yowl2ugopitfzzwb.onion",
+            "yup.coin-miners.info",
             "zcash-ssl.pool.ethfans.org",
             "zcash.nicehash.com",
             "zcl.cloudpools.net",
@@ -2132,7 +2132,11 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
+            "bittip.coinbase.com",
+            "ws3.340ca71c.space",
             "007.suprnova.cc"
         ]
     }
