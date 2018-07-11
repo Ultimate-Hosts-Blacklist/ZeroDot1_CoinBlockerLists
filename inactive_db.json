@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1530968530": [
+        "1531314155": [
             "10k.suprnova.cc",
             "1337.suprnova.cc",
             "16bit.suprnova.cc",
@@ -42,6 +42,7 @@
             "adzjzewsma.cf",
             "aeon-web.semipool.com",
             "aeon.minecraftpool.com",
+            "aeon.minerhills.com",
             "aeon.spacepools.org",
             "aeonold.semipool.com",
             "aeont.semipool.com",
@@ -67,6 +68,7 @@
             "alleoncoin.miningpoolhub.com",
             "alloy.labbinarymining.com",
             "alloy.spacepools.org",
+            "altcom.coin-miners.info",
             "am9ozs.xyz",
             "amber.coin-miners.info",
             "amber.suprnova.cc",
@@ -97,6 +99,7 @@
             "api.coal.spacepools.org",
             "api.coinsecure.in",
             "api.collusion.tech",
+            "api.cryptopia.co.nz",
             "api.demo.cryptokitties.co",
             "api.dero.spacepools.org",
             "api.dinasty.spacepools.org",
@@ -148,7 +151,12 @@
             "asia.dwarfpool.com",
             "asia.lyra2z.miningpoolhub.com",
             "asia.madmining.club",
-            "asia.monerise.com",
+            "asia.monerise.com"
+        ],
+        "to_test": [
+            "minr.browsermine.com",
+            "nwo.suprnova.cc",
+            "ws1.300ca0d0.space",
             "asia1.digitalcoin.miningpoolhub.com",
             "asia1.miningpoolhub.com",
             "asia2.ethermine.org",
@@ -1999,12 +2007,7 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "minr.browsermine.com",
-            "nwo.suprnova.cc",
-            "ws1.300ca0d0.space",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "007.suprnova.cc"
         ]
     }
