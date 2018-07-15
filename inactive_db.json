@@ -2108,16 +2108,7 @@
             "zec.coin-miners.info",
             "zec.minertopia.org",
             "zec.miningpoolhub.com",
-            "zec.poolmining.eu"
-        ],
-        "to_test": [
-            "bittrex.finance",
-            "bittrex.life",
-            "bittrex.team",
-            "frost.suprnova.cc",
-            "mine.xmr.life",
-            "mine.xmr.unipool.pro",
-            "poloniex.limited",
+            "zec.poolmining.eu",
             "zecpool26.coinmine.pl",
             "zecpool27.coinmine.pl",
             "zecpool28.coinmine.pl",
@@ -2137,7 +2128,16 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
+            "bittrex.finance",
+            "bittrex.life",
+            "bittrex.team",
+            "frost.suprnova.cc",
+            "mine.xmr.life",
+            "mine.xmr.unipool.pro",
+            "poloniex.limited",
             "007.suprnova.cc"
         ]
     }
