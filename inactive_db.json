@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1531659811": [
+        "1531919138": [
             "10k.suprnova.cc",
             "1337.suprnova.cc",
             "16bit.suprnova.cc",
@@ -66,6 +66,7 @@
             "aether.spacepools.org",
             "aiden.suprnova.cc",
             "ak.cdn-jquery.host",
+            "akroma.chileminers.cl",
             "aleinvest.xyz",
             "alemoney.xyz",
             "ali.suprnova.cc",
@@ -78,9 +79,12 @@
             "amber.suprnova.cc",
             "america.monerise.com",
             "ams.suprnova.cc",
+            "amsterdam.majorminers.com",
             "anal.suprnova.cc",
             "anc.hash-to-coins.com",
+            "anc.majorminers.com",
             "angel.suprnova.cc",
+            "ant.majorminers.com",
             "api-backup.viaxmr.com",
             "api-xmr.foreverpool.org",
             "api.1beb2a44.space",
@@ -152,10 +156,20 @@
             "asc.coinmine.pl",
             "asc.suprnova.cc",
             "ash.miningpoolhub.com",
+            "asia-eth.chileminers.cl",
             "asia.dwarfpool.com",
             "asia.lyra2z.miningpoolhub.com",
             "asia.madmining.club",
-            "asia.monerise.com",
+            "asia.monerise.com"
+        ],
+        "to_test": [
+            "bittrex.finance",
+            "bittrex.life",
+            "bittrex.team",
+            "frost.suprnova.cc",
+            "mine.xmr.life",
+            "mine.xmr.unipool.pro",
+            "poloniex.limited",
             "asia1.digitalcoin.miningpoolhub.com",
             "asia1.miningpoolhub.com",
             "asia2.ethermine.org",
@@ -2128,16 +2142,7 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "bittrex.finance",
-            "bittrex.life",
-            "bittrex.team",
-            "frost.suprnova.cc",
-            "mine.xmr.life",
-            "mine.xmr.unipool.pro",
-            "poloniex.limited",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "007.suprnova.cc"
         ]
     }
