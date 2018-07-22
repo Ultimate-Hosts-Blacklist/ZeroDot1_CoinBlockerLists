@@ -1589,14 +1589,7 @@
             "stratum.litepool.ru",
             "stratum.minertopia.org",
             "stratum.myBTCcoin.com",
-            "stratum.profithash.com"
-        ],
-        "to_test": [
-            "bittrex.finance",
-            "ws3.370cabd5.space",
-            "fuzz.suprnova.cc",
-            "mine.xmr.life",
-            "mine.xmr.unipool.pro",
+            "stratum.profithash.com",
             "stratum.solo.nicehash.com",
             "stratum.solo.prohashing.com",
             "stratum.sye.host",
@@ -1717,7 +1710,14 @@
             "us-east1.heavycoin.miningpoolhub.com",
             "us-east1.icebergcoin.miningpoolhub.com",
             "us-east1.jackpotcoin.miningpoolhub.com",
-            "us-east1.miningpoolhub.com",
+            "us-east1.miningpoolhub.com"
+        ],
+        "to_test": [
+            "bittrex.finance",
+            "ws3.370cabd5.space",
+            "fuzz.suprnova.cc",
+            "mine.xmr.life",
+            "mine.xmr.unipool.pro",
             "us-east1.pontoon.miningpoolhub.com",
             "us-east1.wecoin.miningpoolhub.com",
             "us-ezcash.miningpoolhub.com",
