@@ -1324,14 +1324,7 @@
             "plus-api.btcchina.com",
             "plus-data.btcchina.com",
             "pod.majorminers.com",
-            "polis.coin-miners.info"
-        ],
-        "to_test": [
-            "bittrex.finance",
-            "ws3.370cabd5.space",
-            "fuzz.suprnova.cc",
-            "mine.xmr.life",
-            "mine.xmr.unipool.pro",
+            "polis.coin-miners.info",
             "pool-001.smartmining.net",
             "pool-002.smartmining.net",
             "pool.bottlecapspool.com",
@@ -1444,7 +1437,14 @@
             "s002.monerise.com",
             "s003.monerise.com",
             "s01.ppoi.org",
-            "s23.crypto-loot.com",
+            "s23.crypto-loot.com"
+        ],
+        "to_test": [
+            "bittrex.finance",
+            "ws3.370cabd5.space",
+            "fuzz.suprnova.cc",
+            "mine.xmr.life",
+            "mine.xmr.unipool.pro",
             "s3.gasolina.ml",
             "sa.monerise.com",
             "saas.webmine.pro",
