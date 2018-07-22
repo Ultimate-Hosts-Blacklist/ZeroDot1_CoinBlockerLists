@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1531919138": [
+        "1532264898": [
             "10k.suprnova.cc",
             "1337.suprnova.cc",
             "16bit.suprnova.cc",
@@ -141,6 +141,7 @@
             "api.xmr.spacepools.org",
             "api.zec.spacepools.org",
             "api2.moriaxmr.com",
+            "apk-bancodobrasil.com",
             "app.btcchina.com",
             "app.zdash.cloud",
             "applest.gq",
@@ -160,7 +161,18 @@
             "asia.dwarfpool.com",
             "asia.lyra2z.miningpoolhub.com",
             "asia.madmining.club",
-            "asia.monerise.com",
+            "asia.monerise.com"
+        ],
+        "to_test": [
+            "bittrex.finance",
+            "asia1.digitalcoin.miningpoolhub.com",
+            "cpanel.graftpool.net",
+            "freedom.wemineltc.com",
+            "mine.etn.fairpool.xyz",
+            "mine.fibre.xpool.ca",
+            "mine.krb.fairpool.xyz",
+            "mine.moneropro.com",
+            "ws3.370cabd5.space",
             "asia1.miningpoolhub.com",
             "asia2.ethermine.org",
             "asiacoin.miningpoolhub.com",
@@ -2215,18 +2227,7 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "bittrex.finance",
-            "asia1.digitalcoin.miningpoolhub.com",
-            "cpanel.graftpool.net",
-            "freedom.wemineltc.com",
-            "mine.etn.fairpool.xyz",
-            "mine.fibre.xpool.ca",
-            "mine.krb.fairpool.xyz",
-            "mine.moneropro.com",
-            "ws3.370cabd5.space",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "007.suprnova.cc"
         ]
     }
