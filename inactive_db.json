@@ -2196,14 +2196,7 @@
             "zdash.coin-miners.info",
             "zdash.miningspeed.com",
             "zebra.suprnova.cc",
-            "zec-cn.suprnova.cc"
-        ],
-        "to_test": [
-            "bittrex.finance",
-            "fuzz.suprnova.cc",
-            "mine.xmr.life",
-            "mine.xmr.unipool.pro",
-            "ws6.3c0cb3b4.space",
+            "zec-cn.suprnova.cc",
             "zec.coin-miners.info",
             "zec.minertopia.org",
             "zec.miningpoolhub.com",
@@ -2228,7 +2221,14 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
+            "bittrex.finance",
+            "fuzz.suprnova.cc",
+            "mine.xmr.life",
+            "mine.xmr.unipool.pro",
+            "ws6.3c0cb3b4.space",
             "007.suprnova.cc"
         ]
     }
