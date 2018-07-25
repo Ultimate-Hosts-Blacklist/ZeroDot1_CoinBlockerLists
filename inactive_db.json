@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1532264898": [
+        "1532525717": [
             "10k.suprnova.cc",
             "1337.suprnova.cc",
             "16bit.suprnova.cc",
@@ -11,23 +11,12 @@
             "2giga.dowload",
             "2ledhenone.com",
             "3d0cb547.spacebrony.dnb.io",
+            "6ow9rhxtolls.gq",
             "80-eth.suprnova.cc",
             "8bit.coin-miners.info",
             "8bit.suprnova.cc",
             "a37ubfu6nmjxzcff.onion",
             "abc.suprnova.cc",
-            "ablen01.tk",
-            "ablen02.tk",
-            "ablen03.tk",
-            "ablen04.tk",
-            "ablen05.tk",
-            "ablen06.tk",
-            "ablen07.tk",
-            "ablen08.tk",
-            "ablen09.tk",
-            "ablen10.tk",
-            "ablen11.tk",
-            "ablen12.tk",
             "about.coinfirm.io",
             "abun.suprnova.cc",
             "acc.suprnova.cc",
@@ -51,14 +40,6 @@
             "aeonold.semipool.com",
             "aeont.semipool.com",
             "aeonweb.semipool.com",
-            "aeros01.tk",
-            "aeros02.tk",
-            "aeros03.tk",
-            "aeros04.tk",
-            "aeros05.tk",
-            "aeros06.tk",
-            "aeros07.tk",
-            "aeros08.tk",
             "aeros09.tk",
             "aeros10.tk",
             "aeros11.tk",
@@ -86,6 +67,8 @@
             "angel.suprnova.cc",
             "ant.majorminers.com",
             "api-backup.viaxmr.com",
+            "api-etn-nicehash.easyhash.io",
+            "api-etnx.easyhash.io",
             "api-xmr.foreverpool.org",
             "api.1beb2a44.space",
             "api.300ca0d0.space",
@@ -161,7 +144,14 @@
             "asia.dwarfpool.com",
             "asia.lyra2z.miningpoolhub.com",
             "asia.madmining.club",
-            "asia.monerise.com",
+            "asia.monerise.com"
+        ],
+        "to_test": [
+            "bittrex.finance",
+            "fuzz.suprnova.cc",
+            "mine.xmr.life",
+            "mine.xmr.unipool.pro",
+            "ws6.3c0cb3b4.space",
             "asia1.digitalcoin.miningpoolhub.com",
             "asia1.miningpoolhub.com",
             "asia2.ethermine.org",
@@ -2221,14 +2211,7 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "bittrex.finance",
-            "fuzz.suprnova.cc",
-            "mine.xmr.life",
-            "mine.xmr.unipool.pro",
-            "ws6.3c0cb3b4.space",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "007.suprnova.cc"
         ]
     }
