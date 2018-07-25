@@ -228,15 +228,7 @@
             "bitcoin.inc.hk",
             "bitly.wa4eri.xyz",
             "bitnote2.labbinarymining.com",
-            "bitq.suprnova.cc"
-        ],
-        "to_test": [
-            "bittrex.finance",
-            "fuzz.suprnova.cc",
-            "mine.xmr.life",
-            "mine.xmr.unipool.pro",
-            "ws6.3c0cb3b4.space",
-            "bittip.coinbase.com",
+            "bitq.suprnova.cc",
             "bitz.suprnova.cc",
             "black.suprnova.cc",
             "blake.suprnova.cc",
@@ -369,7 +361,14 @@
             "coal.spacepools.org",
             "coi.suprnova.cc",
             "coinpirate.cf",
-            "coins.arstechnica.com",
+            "coins.arstechnica.com"
+        ],
+        "to_test": [
+            "fuzz.suprnova.cc",
+            "mine.xmr.life",
+            "mine.xmr.unipool.pro",
+            "ws6.3c0cb3b4.space",
+            "bittip.coinbase.com",
             "coinspool.co",
             "coinspool.cu.cc",
             "com.btcc.com",
