@@ -1696,11 +1696,7 @@
             "tzc.suprnova.cc",
             "ubiq.coin-miners.info",
             "ubiq.drowningpool.net",
-            "ubiq.fairpool.xyz"
-        ],
-        "to_test": [
-            "bitcoin.coin-miners.info",
-            "pod.majorminers.com",
+            "ubiq.fairpool.xyz",
             "ubq.epool.io",
             "ubq.fairpool.xyz",
             "ubq.minertopia.org",
@@ -1817,7 +1813,11 @@
             "vpe.suprnova.cc",
             "vps.btgpool.pro",
             "vta.coin-miners.info",
-            "vtc.coinmine.pl",
+            "vtc.coinmine.pl"
+        ],
+        "to_test": [
+            "bitcoin.coin-miners.info",
+            "pod.majorminers.com",
             "vtc.hash-to-coins.com",
             "vtc.hashing.space",
             "vtc.majorminers.com",
