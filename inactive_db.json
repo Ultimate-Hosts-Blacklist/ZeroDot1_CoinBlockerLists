@@ -2760,12 +2760,7 @@
             "xmr.mypool.name",
             "xmr.new.lindon-pool.win",
             "xmr.riefly.id",
-            "xmr.sumominer.com"
-        ],
-        "to_test": [
-            "bitcoin.coin-miners.info",
-            "pod.majorminers.com",
-            "ws1.ppoi.org",
+            "xmr.sumominer.com",
             "xmr10.crypto-pool.fr",
             "xmr11.crypto-pool.fr",
             "xmr9.crypto-pool.fr",
@@ -2846,7 +2841,12 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
+            "bitcoin.coin-miners.info",
+            "pod.majorminers.com",
+            "ws1.ppoi.org",
             "007.suprnova.cc"
         ]
     }
