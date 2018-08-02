@@ -148,12 +148,7 @@
             "asia.dwarfpool.com",
             "asia.lyra2z.miningpoolhub.com",
             "asia.madmining.club",
-            "asia.monerise.com"
-        ],
-        "to_test": [
-            "bitcoin.coin-miners.info",
-            "pod.majorminers.com",
-            "ws1.ppoi.org",
+            "asia.monerise.com",
             "asia1.digitalcoin.miningpoolhub.com",
             "asia1.miningpoolhub.com",
             "asia2.ethermine.org",
@@ -213,6 +208,7 @@
             "beta.haobtc.com",
             "beta.madmining.club",
             "beta.mining.bitcoin.cz",
+            "beta.monerise.com",
             "beta.p00l.org",
             "beta.p2pool.io",
             "beta.profithash.com",
@@ -223,7 +219,12 @@
             "bewhoyouare.gq/*",
             "bic.crypto-coins.club",
             "big.suprnova.cc",
-            "bill.suprnova.cc",
+            "bill.suprnova.cc"
+        ],
+        "to_test": [
+            "bitcoin.coin-miners.info",
+            "pod.majorminers.com",
+            "ws1.ppoi.org",
             "binancie.online",
             "binary-flash.xyz",
             "binm.cf",
