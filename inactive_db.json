@@ -433,11 +433,7 @@
             "de1.suprnova.cc",
             "de2.suprnova.cc",
             "deals.hashflare.io",
-            "decred.LOCATION.nicehash.com"
-        ],
-        "to_test": [
-            "pod.majorminers.com",
-            "ws1.ppoi.org",
+            "decred.LOCATION.nicehash.com",
             "deep.suprnova.cc",
             "delta-east.majorminers.com",
             "delta.majorminers.com",
@@ -577,7 +573,11 @@
             "eth-testnet.cncoin.farm",
             "eth.chileminers.cl",
             "eth.cncoin.farm",
-            "eth.coin-miners.info",
+            "eth.coin-miners.info"
+        ],
+        "to_test": [
+            "pod.majorminers.com",
+            "ws1.ppoi.org",
             "eth.fairpool.xyz",
             "eth.minerhills.com",
             "eth.minertopia.org",
