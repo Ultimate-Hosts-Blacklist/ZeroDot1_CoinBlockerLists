@@ -573,11 +573,7 @@
             "eth-testnet.cncoin.farm",
             "eth.chileminers.cl",
             "eth.cncoin.farm",
-            "eth.coin-miners.info"
-        ],
-        "to_test": [
-            "pod.majorminers.com",
-            "ws1.ppoi.org",
+            "eth.coin-miners.info",
             "eth.fairpool.xyz",
             "eth.minerhills.com",
             "eth.minertopia.org",
@@ -639,7 +635,11 @@
             "europe.monerise.com",
             "europe1.adzcoin.miningpoolhub.com",
             "europe1.bitcoincoin.miningpoolhub.com",
-            "europe1.digitalcoin.miningpoolhub.com",
+            "europe1.digitalcoin.miningpoolhub.com"
+        ],
+        "to_test": [
+            "pod.majorminers.com",
+            "ws1.ppoi.org",
             "europe1.jackpotcoin.miningpoolhub.com",
             "event.suprnova.cc",
             "evil.suprnova.cc",
