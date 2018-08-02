@@ -706,11 +706,7 @@
             "frac.miningpoolhub.com",
             "france.aeon.semipool.com",
             "france.etn.semipool.com",
-            "france.sumo.semipool.com"
-        ],
-        "to_test": [
-            "pod.majorminers.com",
-            "ws1.ppoi.org",
+            "france.sumo.semipool.com",
             "free4fraucet.com",
             "freedom.wemineltc.com",
             "fresh.suprnova.cc",
@@ -829,7 +825,6 @@
             "hkc-east.majorminers.com",
             "hkc-west.majorminers.com",
             "hkc.majorminers.com",
-            "hodl.hk.nicehash.com",
             "host.eclipsemc.com",
             "host2.eclipsemc.com",
             "hot.wemineltc.com",
@@ -864,7 +859,11 @@
             "infx.minertopia.org",
             "insight.bitcore.io",
             "int.suprnova.cc",
-            "intense.spacepools.org",
+            "intense.spacepools.org"
+        ],
+        "to_test": [
+            "pod.majorminers.com",
+            "ws1.ppoi.org",
             "interestingz.pw",
             "internal.poloniex.com",
             "internetresearch.is",
