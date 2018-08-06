@@ -2915,11 +2915,7 @@
             "zcash-ssl.pool.ethfans.org",
             "zcash.nicehash.com",
             "zcl.cloudpools.net",
-            "zcl.minertopia.org"
-        ],
-        "to_test": [
-            "krb.fairpool.xyz",
-            "ws4.3c0cb3b4.space",
+            "zcl.minertopia.org",
             "zdash.cloud",
             "zdash.coin-miners.info",
             "zdash.miningspeed.com",
@@ -2952,7 +2948,11 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
+            "krb.fairpool.xyz",
+            "ws4.3c0cb3b4.space",
             "007.suprnova.cc"
         ]
     }
