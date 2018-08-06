@@ -1747,11 +1747,7 @@
             "us-east1.bitcoincoin.miningpoolhub.com",
             "us-east1.bitlion.miningpoolhub.com",
             "us-east1.digitalcoin.miningpoolhub.com",
-            "us-east1.galleoncoin.miningpoolhub.com"
-        ],
-        "to_test": [
-            "ws2.320ca3f6.space",
-            "krb.fairpool.xyz",
+            "us-east1.galleoncoin.miningpoolhub.com",
             "us-east1.givepool.miningpoolhub.com",
             "us-east1.heavycoin.miningpoolhub.com",
             "us-east1.icebergcoin.miningpoolhub.com",
@@ -1862,7 +1858,11 @@
             "wasp.suprnova.cc",
             "water.suprnova.cc",
             "wave.suprnova.cc",
-            "wbb.suprnova.cc",
+            "wbb.suprnova.cc"
+        ],
+        "to_test": [
+            "ws2.320ca3f6.space",
+            "krb.fairpool.xyz",
             "wc3-soft.sbhmn-miner.com",
             "wckp.sbhmn-miner.com",
             "web-master.sbhmn-miner.com",
