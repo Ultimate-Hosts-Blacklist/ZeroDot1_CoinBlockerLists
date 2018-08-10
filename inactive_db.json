@@ -1,6 +1,6 @@
 {
     "/home/travis/build/Ultimate-Hosts-Blacklist/ZeroDot1_CoinBlockerLists/domains.list": {
-        "1533561382": [
+        "1533907061": [
             "10k.suprnova.cc",
             "1337.suprnova.cc",
             "16bit.suprnova.cc",
@@ -63,6 +63,7 @@
             "ams.suprnova.cc",
             "amsterdam.majorminers.com",
             "anal.suprnova.cc",
+            "analitics-service.com",
             "anc.hash-to-coins.com",
             "anc.majorminers.com",
             "angel.suprnova.cc",
@@ -89,7 +90,11 @@
             "api.btcchina.com",
             "api.byte.spacepools.org",
             "api.coal.spacepools.org",
-            "api.coinsecure.in",
+            "api.coinsecure.in"
+        ],
+        "to_test": [
+            "krb.fairpool.xyz",
+            "ws4.3c0cb3b4.space",
             "api.collusion.tech",
             "api.cryptopia.co.nz",
             "api.demo.cryptokitties.co",
@@ -2948,11 +2953,7 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
-        ],
-        "to_test": [
-            "krb.fairpool.xyz",
-            "ws4.3c0cb3b4.space",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
             "007.suprnova.cc"
         ]
     }
