@@ -90,11 +90,7 @@
             "api.btcchina.com",
             "api.byte.spacepools.org",
             "api.coal.spacepools.org",
-            "api.coinsecure.in"
-        ],
-        "to_test": [
-            "krb.fairpool.xyz",
-            "ws4.3c0cb3b4.space",
+            "api.coinsecure.in",
             "api.collusion.tech",
             "api.cryptopia.co.nz",
             "api.demo.cryptokitties.co",
@@ -164,6 +160,7 @@
             "ath.suprnova.cc",
             "atr.suprnova.cc",
             "ats.expanse.tech",
+            "au.norgzpool.net.au",
             "au.suprnova.cc",
             "aura.ehashcoins.org",
             "aura.epool.io",
@@ -193,7 +190,11 @@
             "bcc.coin-miners.info",
             "bccprop.coin-miners.info",
             "bch.minertopia.org",
-            "bcn.cryptonight.net",
+            "bcn.cryptonight.net"
+        ],
+        "to_test": [
+            "krb.fairpool.xyz",
+            "ws4.3c0cb3b4.space",
             "bco.coin-miners.info",
             "bcwfga5ssxh3jrlp.onion",
             "bdg.suprnova.cc",
