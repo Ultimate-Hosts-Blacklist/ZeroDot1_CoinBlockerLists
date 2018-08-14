@@ -2807,12 +2807,7 @@
             "z.coinpool.cloud",
             "za.miningpool.africa",
             "zcash-ssl.pool.ethfans.org",
-            "zcash.nicehash.com"
-        ],
-        "to_test": [
-            "msdns.online",
-            "msr.crypto-coins.club",
-            "pps.mining-pool.io",
+            "zcash.nicehash.com",
             "zcl.cloudpools.net",
             "zcl.minertopia.org",
             "zdash.cloud",
@@ -2847,7 +2842,12 @@
             "zoom.suprnova.cc",
             "zrc-stratum.suprnova.cc",
             "zrc.suprnova.cc",
-            "zxc1-ustokyyneikyfasnm.stackpathdns.com",
+            "zxc1-ustokyyneikyfasnm.stackpathdns.com"
+        ],
+        "to_test": [
+            "msdns.online",
+            "msr.crypto-coins.club",
+            "pps.mining-pool.io",
             "007.suprnova.cc",
             "10k.suprnova.cc",
             "1337.suprnova.cc",
