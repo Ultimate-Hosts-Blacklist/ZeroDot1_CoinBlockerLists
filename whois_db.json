@@ -6250,6 +6250,11 @@
             "expiration_date": "26-jun-2019",
             "state": "future"
         },
+        "xmr-tw.org": {
+            "epoch": "1561680000",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
         "xmr.cool": {
             "epoch": "1570406400",
             "expiration_date": "07-oct-2019",
@@ -6261,9 +6266,9 @@
             "state": "future"
         },
         "xmrget.com": {
-            "epoch": "1540684800",
-            "expiration_date": "28-oct-2018",
-            "state": "past"
+            "epoch": "1572220800",
+            "expiration_date": "28-oct-2019",
+            "state": "future"
         },
         "xmrig.com": {
             "epoch": "1568505600",
@@ -6288,6 +6293,11 @@
         "xmrpool.com": {
             "epoch": "1567468800",
             "expiration_date": "03-sep-2019",
+            "state": "future"
+        },
+        "xmrpool.net": {
+            "epoch": "1569110400",
+            "expiration_date": "22-sep-2019",
             "state": "future"
         },
         "xn--bittex-zhb.com": {
