@@ -3668,7 +3668,7 @@
         "livelyoffers.club": {
             "epoch": "1542067200",
             "expiration_date": "13-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "livestatsnet.services": {
             "epoch": "1567641600",
@@ -3969,6 +3969,11 @@
             "epoch": "1535500800",
             "expiration_date": "29-aug-2018",
             "state": "past"
+        },
+        "minerxmr.ru": {
+            "epoch": "1569801600",
+            "expiration_date": "30-sep-2019",
+            "state": "future"
         },
         "minescripts.info": {
             "epoch": "1548806400",
