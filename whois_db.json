@@ -1003,7 +1003,7 @@
         "c0i8h8ac7e.bid": {
             "epoch": "1543276800",
             "expiration_date": "27-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "c1d2.com": {
             "epoch": "1588118400",
@@ -1201,8 +1201,8 @@
             "state": "future"
         },
         "cloudflane.com": {
-            "epoch": "1543017600",
-            "expiration_date": "24-nov-2018",
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "cloudflare.solutions": {
@@ -1216,8 +1216,8 @@
             "state": "future"
         },
         "cloudmediacdn.com": {
-            "epoch": "1542844800",
-            "expiration_date": "22-nov-2018",
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "cloudpools.net": {
