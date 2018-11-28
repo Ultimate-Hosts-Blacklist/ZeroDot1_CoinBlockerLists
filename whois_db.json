@@ -2616,13 +2616,13 @@
             "state": "future"
         },
         "gdaxbtc.com": {
-            "epoch": "1542585600",
-            "expiration_date": "19-nov-2018",
+            "epoch": "1574121600",
+            "expiration_date": "19-nov-2019",
             "state": "future"
         },
         "gdaxibtc.com": {
-            "epoch": "1542931200",
-            "expiration_date": "23-nov-2018",
+            "epoch": "1574467200",
+            "expiration_date": "23-nov-2019",
             "state": "future"
         },
         "geekcash.org": {
@@ -2868,7 +2868,7 @@
         "hashcoin.co": {
             "epoch": "1543363200",
             "expiration_date": "28-nov-2018",
-            "state": "future"
+            "state": "past"
         },
         "hashcoin.io": {
             "epoch": "1557014400",
@@ -2896,8 +2896,8 @@
             "state": "future"
         },
         "hashfor.cash": {
-            "epoch": "1543190400",
-            "expiration_date": "26-nov-2018",
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
             "state": "future"
         },
         "hashforcash.us": {
@@ -3178,6 +3178,11 @@
         "intellecthosting.net": {
             "epoch": "1571788800",
             "expiration_date": "23-oct-2019",
+            "state": "future"
+        },
+        "internetresearch.is": {
+            "epoch": "1574553600",
+            "expiration_date": "24-nov-2019",
             "state": "future"
         },
         "investhash.com": {
