@@ -405,6 +405,21 @@
             "expiration_date": "07-dec-2018",
             "state": "future"
         },
+        "backup-pool.com": {
+            "epoch": "1557014400",
+            "expiration_date": "05-may-2019",
+            "state": "future"
+        },
+        "baiduccdn1.com": {
+            "epoch": "1549929600",
+            "expiration_date": "12-feb-2019",
+            "state": "future"
+        },
+        "bajarlo.net": {
+            "epoch": "1582156800",
+            "expiration_date": "20-feb-2020",
+            "state": "future"
+        },
         "bandaomodel.com": {
             "epoch": "1567641600",
             "expiration_date": "05-sep-2019",
@@ -503,11 +518,11 @@
         "biberukalap.com": {
             "epoch": "1543881600",
             "expiration_date": "04-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "big4u.org": {
-            "epoch": "1543708800",
-            "expiration_date": "02-dec-2018",
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
             "state": "future"
         },
         "bijo.style": {
