@@ -2360,15 +2360,20 @@
             "expiration_date": "15-jun-2019",
             "state": "future"
         },
+        "fairhash.org": {
+            "epoch": "1575244800",
+            "expiration_date": "02-dec-2019",
+            "state": "future"
+        },
         "fairpool.cloud": {
             "epoch": "1547596800",
             "expiration_date": "16-jan-2019",
             "state": "future"
         },
         "fastandcoolest.com": {
-            "epoch": "1543622400",
-            "expiration_date": "01-dec-2018",
-            "state": "past"
+            "epoch": "1575158400",
+            "expiration_date": "01-dec-2019",
+            "state": "future"
         },
         "fastlink.pl": {
             "epoch": "1569715200",
@@ -2913,7 +2918,7 @@
         "gridiogrid.com": {
             "epoch": "1544227200",
             "expiration_date": "08-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "guardcoin.trade": {
             "epoch": "1594684800",
