@@ -410,6 +410,11 @@
             "expiration_date": "05-may-2019",
             "state": "future"
         },
+        "bacm.ro": {
+            "epoch": "1660435200",
+            "expiration_date": "14-aug-2022",
+            "state": "future"
+        },
         "baiduccdn1.com": {
             "epoch": "1549929600",
             "expiration_date": "12-feb-2019",
@@ -571,8 +576,8 @@
             "state": "future"
         },
         "binance.express": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "binance.financial": {
@@ -726,8 +731,8 @@
             "state": "future"
         },
         "bitcore.io": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "bitcrush.info": {
@@ -821,8 +826,8 @@
             "state": "future"
         },
         "bittrex.finance": {
-            "epoch": "1544400000",
-            "expiration_date": "10-dec-2018",
+            "epoch": "1575936000",
+            "expiration_date": "10-dec-2019",
             "state": "future"
         },
         "bittrex.life": {
@@ -831,8 +836,8 @@
             "state": "future"
         },
         "bittrex.team": {
-            "epoch": "1544313600",
-            "expiration_date": "09-dec-2018",
+            "epoch": "1575849600",
+            "expiration_date": "09-dec-2019",
             "state": "future"
         },
         "bittrex.tools": {
@@ -841,8 +846,8 @@
             "state": "future"
         },
         "bittrexbtc.com": {
-            "epoch": "1544486400",
-            "expiration_date": "11-dec-2018",
+            "epoch": "1576022400",
+            "expiration_date": "11-dec-2019",
             "state": "future"
         },
         "bitzfree.com": {
@@ -898,7 +903,7 @@
         "blockchained.party": {
             "epoch": "1544400000",
             "expiration_date": "10-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "blockchaiun.biz": {
             "epoch": "1544659200",
