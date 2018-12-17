@@ -1986,8 +1986,8 @@
             "state": "future"
         },
         "digxmr.com": {
-            "epoch": "1544572800",
-            "expiration_date": "12-dec-2018",
+            "epoch": "1576108800",
+            "expiration_date": "12-dec-2019",
             "state": "future"
         },
         "directprimal.com": {
@@ -2018,6 +2018,11 @@
         "dogecoin.dog": {
             "epoch": "1570924800",
             "expiration_date": "13-oct-2019",
+            "state": "future"
+        },
+        "dpool.top": {
+            "epoch": "1574726400",
+            "expiration_date": "26-nov-2019",
             "state": "future"
         },
         "dreamitsystems.com": {
@@ -2058,7 +2063,7 @@
         "earncoins.club": {
             "epoch": "1544832000",
             "expiration_date": "15-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "easyhash.io": {
             "epoch": "1568764800",
@@ -2198,7 +2203,7 @@
         "etherdelta.biz": {
             "epoch": "1544832000",
             "expiration_date": "15-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "etherdelta.click": {
             "epoch": "1546646400",
