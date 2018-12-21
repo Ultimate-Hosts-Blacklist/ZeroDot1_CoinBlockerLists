@@ -5043,7 +5043,7 @@
         "pandaminer.co": {
             "epoch": "1545091200",
             "expiration_date": "18-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "pandapool.io": {
             "epoch": "1569024000",
@@ -5171,8 +5171,8 @@
             "state": "future"
         },
         "poloniex.international": {
-            "epoch": "1545177600",
-            "expiration_date": "19-dec-2018",
+            "epoch": "1576713600",
+            "expiration_date": "19-dec-2019",
             "state": "future"
         },
         "poloniex.investments": {
@@ -5216,9 +5216,9 @@
             "state": "future"
         },
         "poloniexbch.com": {
-            "epoch": "1545004800",
-            "expiration_date": "17-dec-2018",
-            "state": "past"
+            "epoch": "1576540800",
+            "expiration_date": "17-dec-2019",
+            "state": "future"
         },
         "pool-etn.com": {
             "epoch": "1552694400",
@@ -5263,7 +5263,7 @@
         "poolarchy.com": {
             "epoch": "1545350400",
             "expiration_date": "21-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "poolbt.com": {
             "epoch": "1668643200",
@@ -5278,6 +5278,11 @@
         "poolhost.com": {
             "epoch": "1592006400",
             "expiration_date": "13-jun-2020",
+            "state": "future"
+        },
+        "poolin.com": {
+            "epoch": "1621728000",
+            "expiration_date": "23-may-2021",
             "state": "future"
         },
         "poolisto.com": {
