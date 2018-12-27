@@ -2786,8 +2786,13 @@
             "state": "future"
         },
         "getcryptotab.com": {
-            "epoch": "1545782400",
-            "expiration_date": "26-dec-2018",
+            "epoch": "1608940800",
+            "expiration_date": "26-dec-2020",
+            "state": "future"
+        },
+        "geteth.io": {
+            "epoch": "1577232000",
+            "expiration_date": "25-dec-2019",
             "state": "future"
         },
         "getmonero.org": {
@@ -2871,8 +2876,8 @@
             "state": "future"
         },
         "googleanalytcs.com": {
-            "epoch": "1545523200",
-            "expiration_date": "23-dec-2018",
+            "epoch": "1577059200",
+            "expiration_date": "23-dec-2019",
             "state": "future"
         },
         "goredirect.party": {
@@ -2981,8 +2986,8 @@
             "state": "future"
         },
         "hashbook.net": {
-            "epoch": "1545609600",
-            "expiration_date": "24-dec-2018",
+            "epoch": "1577145600",
+            "expiration_date": "24-dec-2019",
             "state": "future"
         },
         "hashcoin.co": {
@@ -3073,7 +3078,7 @@
         "hashzone.io": {
             "epoch": "1545782400",
             "expiration_date": "26-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "hatcalter.com": {
             "epoch": "1548288000",
