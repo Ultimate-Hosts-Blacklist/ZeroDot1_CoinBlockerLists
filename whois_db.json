@@ -1228,12 +1228,12 @@
         "clickandbuy.review": {
             "epoch": "1545955200",
             "expiration_date": "28-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "clickandbuy.win": {
             "epoch": "1545955200",
             "expiration_date": "28-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "clickfight.net": {
             "epoch": "1571702400",
@@ -1516,8 +1516,8 @@
             "state": "future"
         },
         "coinminex.com": {
-            "epoch": "1545955200",
-            "expiration_date": "28-dec-2018",
+            "epoch": "1577491200",
+            "expiration_date": "28-dec-2019",
             "state": "future"
         },
         "coinminingonline.com": {
@@ -1581,8 +1581,8 @@
             "state": "future"
         },
         "coinsprofit.com": {
-            "epoch": "1546041600",
-            "expiration_date": "29-dec-2018",
+            "epoch": "1577577600",
+            "expiration_date": "29-dec-2019",
             "state": "future"
         },
         "cointrend.club": {
@@ -1903,7 +1903,7 @@
         "datasecu.download": {
             "epoch": "1546041600",
             "expiration_date": "29-dec-2018",
-            "state": "future"
+            "state": "past"
         },
         "dataservices.download": {
             "epoch": "1544832000",
