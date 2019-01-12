@@ -3718,7 +3718,7 @@
         "leak-hub.com": {
             "epoch": "1547251200",
             "expiration_date": "12-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "ledhenone.com": {
             "epoch": "1548288000",
@@ -3975,6 +3975,11 @@
             "expiration_date": "03-may-2019",
             "state": "future"
         },
+        "mibpool.com": {
+            "epoch": "1558656000",
+            "expiration_date": "24-may-2019",
+            "state": "future"
+        },
         "minandoando.com": {
             "epoch": "1585180800",
             "expiration_date": "26-mar-2020",
@@ -4016,8 +4021,8 @@
             "state": "future"
         },
         "minemoney.ca": {
-            "epoch": "1546819200",
-            "expiration_date": "07-jan-2019",
+            "epoch": "1578355200",
+            "expiration_date": "07-jan-2020",
             "state": "future"
         },
         "minemoney.co": {
@@ -4171,8 +4176,8 @@
             "state": "future"
         },
         "mining-pool.io": {
-            "epoch": "1546560000",
-            "expiration_date": "04-jan-2019",
+            "epoch": "1578096000",
+            "expiration_date": "04-jan-2020",
             "state": "future"
         },
         "mining-room.com": {
@@ -4193,6 +4198,11 @@
         "miningexpress.com": {
             "epoch": "1547424000",
             "expiration_date": "14-jan-2019",
+            "state": "future"
+        },
+        "miningfool.com": {
+            "epoch": "1575331200",
+            "expiration_date": "03-dec-2019",
             "state": "future"
         },
         "miningmania.net": {
@@ -4231,8 +4241,8 @@
             "state": "future"
         },
         "mixpools.org": {
-            "epoch": "1546905600",
-            "expiration_date": "08-jan-2019",
+            "epoch": "1578441600",
+            "expiration_date": "08-jan-2020",
             "state": "future"
         },
         "mmc.center": {
