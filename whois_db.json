@@ -2416,8 +2416,8 @@
             "state": "future"
         },
         "fairpool.cloud": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "fastandcoolest.com": {
@@ -2481,8 +2481,8 @@
             "state": "future"
         },
         "flare-analytics.com": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
             "state": "future"
         },
         "flashplayerd-4.com": {
@@ -2596,8 +2596,8 @@
             "state": "future"
         },
         "freecontent.bid": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "freecontent.com": {
@@ -2606,14 +2606,14 @@
             "state": "future"
         },
         "freecontent.date": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "freecontent.faith": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "freecontent.info": {
             "epoch": "1572912000",
@@ -2623,7 +2623,7 @@
         "freecontent.loan": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "freecontent.net": {
             "epoch": "1578441600",
@@ -2633,32 +2633,32 @@
         "freecontent.party": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "freecontent.racing": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "freecontent.science": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "freecontent.stream": {
-            "epoch": "1547856000",
-            "expiration_date": "19-jan-2019",
+            "epoch": "1579392000",
+            "expiration_date": "19-jan-2020",
             "state": "future"
         },
         "freecontent.trade": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "freecontent.win": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "freeyy.me": {
             "epoch": "1560643200",
@@ -2895,6 +2895,11 @@
             "expiration_date": "25-jan-2019",
             "state": "future"
         },
+        "gonspool.com": {
+            "epoch": "1581552000",
+            "expiration_date": "13-feb-2020",
+            "state": "future"
+        },
         "goodkino.biz": {
             "epoch": "1556928000",
             "expiration_date": "04-may-2019",
@@ -2911,8 +2916,8 @@
             "state": "past"
         },
         "gowk.me": {
-            "epoch": "1547769600",
-            "expiration_date": "18-jan-2019",
+            "epoch": "1579305600",
+            "expiration_date": "18-jan-2020",
             "state": "future"
         },
         "goxmrminer.com": {
@@ -3068,6 +3073,11 @@
         "hashinvest.net": {
             "epoch": "1560211200",
             "expiration_date": "11-jun-2019",
+            "state": "future"
+        },
+        "hashluck.net": {
+            "epoch": "1556928000",
+            "expiration_date": "04-may-2019",
             "state": "future"
         },
         "hashnest.com": {
