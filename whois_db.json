@@ -1320,6 +1320,11 @@
             "expiration_date": "22-nov-2019",
             "state": "future"
         },
+        "cloudminer.com": {
+            "epoch": "1607904000",
+            "expiration_date": "14-dec-2020",
+            "state": "future"
+        },
         "cloudpools.net": {
             "epoch": "1576800000",
             "expiration_date": "20-dec-2019",
@@ -1561,8 +1566,8 @@
             "state": "future"
         },
         "coinone.media": {
-            "epoch": "1547596800",
-            "expiration_date": "16-jan-2019",
+            "epoch": "1579132800",
+            "expiration_date": "16-jan-2020",
             "state": "future"
         },
         "coinotron.com": {
@@ -1658,6 +1663,11 @@
         "cool-pool.net": {
             "epoch": "1550793600",
             "expiration_date": "22-feb-2019",
+            "state": "future"
+        },
+        "coorp.io": {
+            "epoch": "1577664000",
+            "expiration_date": "30-dec-2019",
             "state": "future"
         },
         "copay.io": {
@@ -1883,7 +1893,7 @@
         "cryptoserb.com": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "cryptotab.net": {
             "epoch": "1577318400",
