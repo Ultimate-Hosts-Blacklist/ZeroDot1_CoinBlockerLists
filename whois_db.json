@@ -6598,7 +6598,7 @@
         "vzhjnorkudcxbiy.com": {
             "epoch": "1548201600",
             "expiration_date": "23-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "vzzexalcirfgrf.ru": {
             "epoch": "1557619200",
@@ -6633,6 +6633,11 @@
         "webassembly.stream": {
             "epoch": "1575936000",
             "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "webchain.live": {
+            "epoch": "1576886400",
+            "expiration_date": "21-dec-2019",
             "state": "future"
         },
         "webchain.network": {
