@@ -523,7 +523,7 @@
         "bhzejltg.info": {
             "epoch": "1548806400",
             "expiration_date": "30-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "biberukalap.com": {
             "epoch": "1575417600",
@@ -688,6 +688,11 @@
         "bitcoin.cz": {
             "epoch": "1604793600",
             "expiration_date": "08-nov-2020",
+            "state": "future"
+        },
+        "bitcoindark.ca": {
+            "epoch": "1567641600",
+            "expiration_date": "05-sep-2019",
             "state": "future"
         },
         "bitcoiner.win": {
