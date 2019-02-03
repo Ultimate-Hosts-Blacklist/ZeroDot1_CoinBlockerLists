@@ -6043,7 +6043,7 @@
         "stati.bid": {
             "epoch": "1549065600",
             "expiration_date": "02-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "stati.in": {
             "epoch": "1560729600",
@@ -6243,12 +6243,12 @@
         "theslotcat.bid": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "theslotmachina.bid": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "theslots.bid": {
             "epoch": "1548374400",
