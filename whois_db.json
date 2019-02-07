@@ -5903,17 +5903,17 @@
         "slotcat.bid": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "slotmach.bid": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "slotmachina.bid": {
             "epoch": "1548892800",
             "expiration_date": "31-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "slushpool.com": {
             "epoch": "1604102400",
@@ -6106,8 +6106,8 @@
             "state": "future"
         },
         "sumokoin.com": {
-            "epoch": "1549411200",
-            "expiration_date": "06-feb-2019",
+            "epoch": "1580947200",
+            "expiration_date": "06-feb-2020",
             "state": "future"
         },
         "sumominer.com": {
