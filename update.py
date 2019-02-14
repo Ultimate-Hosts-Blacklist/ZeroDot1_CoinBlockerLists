@@ -336,9 +336,11 @@ class PyFunceble:
             return_data=False,
             escape=False,
         ).match():
+            cls.clean()
             return True
 
-        if Settings.currently_under_test:
+        if not Settings.currently_under_test:
+            cls.clean()
             return True
 
         if Settings.days_until_next_test >= 1 and Settings.last_test != 0:
@@ -346,7 +348,7 @@ class PyFunceble:
                 24 * Settings.days_until_next_test * 3600
             )
 
-            if int(strftime("%s")) >= retest_date:
+            if int(strftime("%s")) >= retest_date or Settings.currently_under_test:
                 return True
 
             return False
@@ -438,8 +440,7 @@ class PyFunceble:
                         r"travis:.*": "travis: True",
                         r"travis_autosave_commit:.*": 'travis_autosave_commit: "[Autosave] Testing for Ultimate Hosts Blacklist"',  # pylint: disable=line-too-long
                         r"travis_autosave_final_commit:.*": 'travis_autosave_final_commit: "[Results] Testing for Ultimate Hosts Blacklist"',  # pylint: disable=line-too-long
-                        r"travis_branch:.*": "travis_branch: %s"
-                        % environ["GIT_BRANCH"],
+                        r"travis_branch:.*": "travis_branch: master",
                         r"travis_autosave_minutes:.*": "travis_autosave_minutes: %s"
                         % Settings.autosave_minutes,
                     }
@@ -561,20 +562,25 @@ class DomainsList:
         Construct or update the file we are going to test.
         """
 
-        restart = Helpers.Regex(
-            Helpers.Command("git log -1", False).execute(),
-            Settings.launch_test_marker,
-            return_data=False,
-            escape=False,
-        ).match()
+        restart = (
+            Helpers.Regex(
+                Helpers.Command("git log -1", False).execute(),
+                Settings.launch_test_marker,
+                return_data=False,
+                escape=False,
+            ).match()
+            or not Settings.currently_under_test
+        )
 
-        if restart or not Settings.currently_under_test:
+        if restart:
             if Settings.raw_link.endswith(".tar.gz"):
                 cls.generate_from_tar_gz()
             elif Helpers.Download(Settings.raw_link, Settings.file_to_test).link():
                 Helpers.Command("dos2unix " + Settings.file_to_test, False).execute()
 
-                formated_content = cls.extract_lines(Settings.file_to_test)
+                formated_content = Helpers.List(
+                    cls.extract_lines(Settings.file_to_test)
+                ).format()
 
                 Helpers.File(Settings.file_to_test).write(
                     "\n".join(formated_content), overwrite=True
@@ -1064,5 +1070,5 @@ class Helpers:  # pylint: disable=too-few-public-methods
 
 
 if __name__ == "__main__":
-    repository_content = Administration()
-    repository_content()
+    REPOSITORY_UPDATE = Administration()
+    REPOSITORY_UPDATE()

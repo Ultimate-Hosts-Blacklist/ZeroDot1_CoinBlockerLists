@@ -14,9 +14,10 @@ Contributors:
 
     @GitHubUsername, Name, Email (optional)
 """
-from update import Helpers, Settings, path, strftime
-from ultimate_hosts_blacklist_the_whitelist import clean_list_with_official_whitelist
 from PyFunceble import syntax_check
+from ultimate_hosts_blacklist_the_whitelist import clean_list_with_official_whitelist
+
+from update import Helpers, Settings, path, strftime
 
 INFO = {}
 
@@ -38,8 +39,7 @@ def update_adminisation_file():
     Update what should be updated.
     """
 
-    INFO.update({"currently_under_test": str(
-        int(False)), "last_test": strftime("%s")})
+    INFO.update({"currently_under_test": str(int(False)), "last_test": strftime("%s")})
 
 
 def save_administration_file():
@@ -66,8 +66,7 @@ def generate_clean_and_whitelisted_list():
 
         if path.isfile(active):
             temp_clean_list.extend(
-                Helpers.Regex(Helpers.File(active).to_list(),
-                              r"^#").not_matching_list()
+                Helpers.Regex(Helpers.File(active).to_list(), r"^#").not_matching_list()
                 + list_special_content
             )
 
@@ -76,7 +75,7 @@ def generate_clean_and_whitelisted_list():
         for element in temp_clean_list:
             if element:
                 if syntax_check(element):
-                    if element.startswith('www.'):
+                    if element.startswith("www."):
                         clean_list.append(element[4:])
                     else:
                         clean_list.append("www.%s" % element)
@@ -89,7 +88,9 @@ def generate_clean_and_whitelisted_list():
             "\n".join(clean_list), overwrite=True
         )
 
-        Helpers.File(Settings.whitelisted_list_file).write("\n".join(whitelisted), overwrite=True)
+        Helpers.File(Settings.whitelisted_list_file).write(
+            "\n".join(whitelisted), overwrite=True
+        )
 
         Helpers.File("whitelisting.py").delete()
 
