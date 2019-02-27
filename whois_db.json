@@ -1166,8 +1166,8 @@
             "state": "future"
         },
         "cdn-analytics.pl": {
-            "epoch": "1548460800",
-            "expiration_date": "26-jan-2019",
+            "epoch": "1552262400",
+            "expiration_date": "11-mar-2019",
             "state": "future"
         },
         "cdncounter.top": {
@@ -1238,7 +1238,7 @@
         "chmproxy.bid": {
             "epoch": "1549065600",
             "expiration_date": "02-feb-2019",
-            "state": "future"
+            "state": "past"
         },
         "cieh.mx": {
             "epoch": "1569110400",
@@ -1281,19 +1281,19 @@
             "state": "future"
         },
         "clicktrackerfast.pro": {
-            "epoch": "1547424000",
-            "expiration_date": "14-jan-2019",
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
             "state": "future"
         },
         "clickwith.bid": {
             "epoch": "1548806400",
             "expiration_date": "30-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "clickwith.date": {
             "epoch": "1548806400",
             "expiration_date": "30-jan-2019",
-            "state": "future"
+            "state": "past"
         },
         "clokin1.ru": {
             "epoch": "1543622400",
@@ -1326,8 +1326,8 @@
             "state": "future"
         },
         "cloudflare.solutions": {
-            "epoch": "1549843200",
-            "expiration_date": "11-feb-2019",
+            "epoch": "1581379200",
+            "expiration_date": "11-feb-2020",
             "state": "future"
         },
         "cloudmedia.gdn": {
@@ -1575,6 +1575,11 @@
             "expiration_date": "15-dec-2019",
             "state": "future"
         },
+        "coinone.co.kr": {
+            "epoch": "1623369600",
+            "expiration_date": "11-jun-2021",
+            "state": "future"
+        },
         "coinone.deals": {
             "epoch": "1576195200",
             "expiration_date": "13-dec-2019",
@@ -1775,6 +1780,11 @@
             "expiration_date": "01-mar-2019",
             "state": "future"
         },
+        "crypto-daio.co.uk": {
+            "epoch": "1556928000",
+            "expiration_date": "04-may-2019",
+            "state": "future"
+        },
         "crypto-loot.com": {
             "epoch": "1570147200",
             "expiration_date": "04-oct-2019",
@@ -1888,6 +1898,11 @@
         "cryptonotepool.org": {
             "epoch": "1577232000",
             "expiration_date": "25-dec-2019",
+            "state": "future"
+        },
+        "cryptonotepool.org.uk": {
+            "epoch": "1566864000",
+            "expiration_date": "27-aug-2019",
             "state": "future"
         },
         "cryptonoter.com": {
