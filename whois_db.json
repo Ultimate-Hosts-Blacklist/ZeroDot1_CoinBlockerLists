@@ -2525,6 +2525,11 @@
             "expiration_date": "20-mar-2019",
             "state": "future"
         },
+        "codpool.com": {
+            "epoch": "1555545600",
+            "expiration_date": "18-apr-2019",
+            "state": "future"
+        },
         "coihive.com": {
             "epoch": "1570665600",
             "expiration_date": "10-oct-2019",
@@ -2598,6 +2603,11 @@
         "coincheck.com": {
             "epoch": "1575936000",
             "expiration_date": "10-dec-2019",
+            "state": "future"
+        },
+        "coineasybuy.com": {
+            "epoch": "1583539200",
+            "expiration_date": "07-mar-2020",
             "state": "future"
         },
         "coinerra.com": {
@@ -2931,8 +2941,8 @@
             "state": "future"
         },
         "crypto-coins.net": {
-            "epoch": "1551398400",
-            "expiration_date": "01-mar-2019",
+            "epoch": "1583020800",
+            "expiration_date": "01-mar-2020",
             "state": "future"
         },
         "crypto-daio.co.uk": {
