@@ -6255,6 +6255,11 @@
             "expiration_date": "10-mar-2019",
             "state": "future"
         },
+        "netcodepool.org": {
+            "epoch": "1561161600",
+            "expiration_date": "22-jun-2019",
+            "state": "future"
+        },
         "never.ovh": {
             "epoch": "1581638400",
             "expiration_date": "14-feb-2020",
@@ -6313,7 +6318,7 @@
         "ningtoldrop.ru": {
             "epoch": "1551571200",
             "expiration_date": "03-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "nkxdyorwbt.com": {
             "epoch": "1581811200",
@@ -6338,7 +6343,7 @@
         "norespar.ru": {
             "epoch": "1551571200",
             "expiration_date": "03-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "notmining.org": {
             "epoch": "1576368000",
@@ -6583,7 +6588,7 @@
         "perrege.ru": {
             "epoch": "1551571200",
             "expiration_date": "03-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "pertholin.com": {
             "epoch": "1555027200",
