@@ -3975,6 +3975,11 @@
             "expiration_date": "19-jan-2019",
             "state": "past"
         },
+        "freecontent.review": {
+            "epoch": "1547856000",
+            "expiration_date": "19-jan-2019",
+            "state": "past"
+        },
         "freecontent.science": {
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
@@ -4305,6 +4310,11 @@
             "expiration_date": "13-apr-2019",
             "state": "future"
         },
+        "greenbtc.com": {
+            "epoch": "1561680000",
+            "expiration_date": "28-jun-2019",
+            "state": "future"
+        },
         "gridcash.net": {
             "epoch": "1560729600",
             "expiration_date": "17-jun-2019",
@@ -4600,7 +4610,32 @@
             "expiration_date": "04-apr-2019",
             "state": "future"
         },
+        "hostingcloud.party": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.racing": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
         "hostingcloud.science": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.stream": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.trade": {
+            "epoch": "1554336000",
+            "expiration_date": "04-apr-2019",
+            "state": "future"
+        },
+        "hostingcloud.win": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
             "state": "future"
@@ -4985,6 +5020,11 @@
             "expiration_date": "18-jan-2020",
             "state": "future"
         },
+        "kei.su": {
+            "epoch": "1562630400",
+            "expiration_date": "09-jul-2019",
+            "state": "future"
+        },
         "kho3au7l4z.me": {
             "epoch": "1576886400",
             "expiration_date": "21-dec-2019",
@@ -5258,7 +5298,7 @@
         "losital.ru": {
             "epoch": "1551571200",
             "expiration_date": "03-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "loudmining.com": {
             "epoch": "1558742400",
