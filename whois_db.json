@@ -185,6 +185,11 @@
             "expiration_date": "09-nov-2019",
             "state": "future"
         },
+        "1daybtc.com": {
+            "epoch": "1583798400",
+            "expiration_date": "10-mar-2020",
+            "state": "future"
+        },
         "1hash.com": {
             "epoch": "1568937600",
             "expiration_date": "20-sep-2019",
@@ -296,9 +301,9 @@
             "state": "future"
         },
         "24pays.com": {
-            "epoch": "1552003200",
-            "expiration_date": "08-mar-2019",
-            "state": "past"
+            "epoch": "1583625600",
+            "expiration_date": "08-mar-2020",
+            "state": "future"
         },
         "251coins.com": {
             "epoch": "1557964800",
