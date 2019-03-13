@@ -415,9 +415,7 @@
             "atlanta01.electroneum.hashvault.pro",
             "atlanta01.minemonero.pro",
             "atlanta01.sumokoin.hashvault.pro",
-            "atlanta02.minemonero.pro"
-        ],
-        "to_test": [
+            "atlanta02.minemonero.pro",
             "atlus-group.com",
             "atom-server.bluematt.me",
             "atom.otherb.com",
@@ -473,6 +471,7 @@
             "backend.freecontent.win",
             "backend.youpool.io",
             "backends.bid",
+            "backoffice.coinimp.com",
             "backup.803mine.com",
             "backup.sumo.semipool.com",
             "bad.suprnova.cc",
@@ -758,7 +757,6 @@
             "cdn.haobtc.com",
             "cdn.jquery-uim.download",
             "cdn.minescripts.info",
-            "cdn.monerominers.net",
             "cdn.p2pool.io",
             "cdn.static-cnt.bid",
             "cdn.streambeam.io",
@@ -775,6 +773,7 @@
             "ceti.suprnova.cc",
             "cf-protected.clona.ru",
             "cf.suprnova.cc",
+            "cfcdist.gdn",
             "cfcnet.gdn",
             "cfg.krunzy.com",
             "cga.lightninghash.com",
@@ -843,7 +842,9 @@
             "coin-price-skype-bot.uax.io",
             "coin1.pool.sexy",
             "coin2.pool.sexy",
-            "coin3.pool.sexy",
+            "coin3.pool.sexy"
+        ],
+        "to_test": [
             "coingen-seed-scrypt.bluematt.me",
             "coingen-seed.bluematt.me",
             "coingen.bluematt.me",
