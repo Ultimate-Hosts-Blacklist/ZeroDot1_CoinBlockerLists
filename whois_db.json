@@ -1068,7 +1068,7 @@
         "ambis.biz": {
             "epoch": "1553040000",
             "expiration_date": "20-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "amerty.cc": {
             "epoch": "1583020800",
@@ -1373,6 +1373,11 @@
         "asicminingequipment.com": {
             "epoch": "1572048000",
             "expiration_date": "26-oct-2019",
+            "state": "future"
+        },
+        "asiconminer.com": {
+            "epoch": "1584748800",
+            "expiration_date": "21-mar-2020",
             "state": "future"
         },
         "asicpool.co": {
