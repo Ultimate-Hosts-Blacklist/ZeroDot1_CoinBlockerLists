@@ -440,9 +440,7 @@
             "autobits.tr",
             "autoconfig.btcnos.com",
             "autoconfig.gntl.co.uk",
-            "autodiscover.btcnos.com"
-        ],
-        "to_test": [
+            "autodiscover.btcnos.com",
             "autodiscover.supportxmr.com",
             "autohash.tr",
             "autohourly.com",
@@ -757,7 +755,6 @@
             "cdjs.online",
             "cdn-code.host",
             "cdn-jquery.host",
-            "cdn.adless.io",
             "cdn.ajcryptominer.com",
             "cdn.bixin.com",
             "cdn.btc.com",
@@ -851,7 +848,9 @@
             "cochranizer613.poolarchy.com",
             "cockpit.ubiqpool.io",
             "cody.services",
-            "coi.suprnova.cc",
+            "coi.suprnova.cc"
+        ],
+        "to_test": [
             "coin-price-skype-bot.uax.io",
             "coin1.pool.sexy",
             "coin2.pool.sexy",
