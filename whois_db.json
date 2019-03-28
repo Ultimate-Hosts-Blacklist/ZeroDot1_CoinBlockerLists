@@ -5978,7 +5978,7 @@
         "msg-2.me": {
             "epoch": "1553731200",
             "expiration_date": "28-mar-2019",
-            "state": "future"
+            "state": "past"
         },
         "mtred.com": {
             "epoch": "1557360000",
@@ -6403,6 +6403,11 @@
         "nimiqtest.net": {
             "epoch": "1585526400",
             "expiration_date": "30-mar-2020",
+            "state": "future"
+        },
+        "ninaning.com": {
+            "epoch": "1564358400",
+            "expiration_date": "29-jul-2019",
             "state": "future"
         },
         "ningtoldrop.ru": {
