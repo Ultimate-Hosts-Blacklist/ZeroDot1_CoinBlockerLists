@@ -1675,6 +1675,11 @@
             "expiration_date": "26-apr-2027",
             "state": "future"
         },
+        "axtrades.com": {
+            "epoch": "1585267200",
+            "expiration_date": "27-mar-2020",
+            "state": "future"
+        },
         "aymcsx.ru": {
             "epoch": "1553817600",
             "expiration_date": "29-mar-2019",
@@ -1745,9 +1750,19 @@
             "expiration_date": "11-nov-2018",
             "state": "past"
         },
+        "beatingbytes.com": {
+            "epoch": "1578960000",
+            "expiration_date": "14-jan-2020",
+            "state": "future"
+        },
         "becanium.com": {
             "epoch": "1583452800",
             "expiration_date": "06-mar-2020",
+            "state": "future"
+        },
+        "beeppool.org": {
+            "epoch": "1555804800",
+            "expiration_date": "21-apr-2019",
             "state": "future"
         },
         "beetoken.com": {
@@ -2263,6 +2278,11 @@
         "blockchauin.info": {
             "epoch": "1576195200",
             "expiration_date": "13-dec-2019",
+            "state": "future"
+        },
+        "blockcooperation.com": {
+            "epoch": "1583884800",
+            "expiration_date": "11-mar-2020",
             "state": "future"
         },
         "blockmunch.club": {
