@@ -6095,6 +6095,11 @@
             "expiration_date": "22-oct-2019",
             "state": "future"
         },
+        "mining.best": {
+            "epoch": "1580169600",
+            "expiration_date": "28-jan-2020",
+            "state": "future"
+        },
         "mining4.co.uk": {
             "epoch": "1561248000",
             "expiration_date": "23-jun-2019",
@@ -6106,8 +6111,8 @@
             "state": "future"
         },
         "miningclub.cc": {
-            "epoch": "1554163200",
-            "expiration_date": "02-apr-2019",
+            "epoch": "1585785600",
+            "expiration_date": "02-apr-2020",
             "state": "future"
         },
         "miningexpress.com": {
@@ -6941,9 +6946,9 @@
             "state": "future"
         },
         "osdsoft.com": {
-            "epoch": "1554076800",
-            "expiration_date": "01-apr-2019",
-            "state": "past"
+            "epoch": "1585699200",
+            "expiration_date": "01-apr-2020",
+            "state": "future"
         },
         "osiamining.com": {
             "epoch": "1581811200",
