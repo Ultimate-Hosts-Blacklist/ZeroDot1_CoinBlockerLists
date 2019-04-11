@@ -467,10 +467,7 @@
             "autobit.cl",
             "autobitcoinminer.com",
             "autobits.tr",
-            "autoconfig.btcnos.com"
-        ],
-        "to_test": [
-            "autoconfig.gntl.co.uk",
+            "autoconfig.btcnos.com",
             "autodiscover.btcnos.com",
             "autodiscover.supportxmr.com",
             "autohash.tr",
@@ -573,6 +570,7 @@
             "beta.prohashing.com",
             "beta.xpool.ca",
             "beta.zpool.ca",
+            "betandwinornot.com",
             "bewhoyouare.gq",
             "bewhoyouare.gq/*",
             "bfl.lightninghash.com",
@@ -817,6 +815,7 @@
             "cdc.coinmine.pl",
             "cdc.suprnova.cc",
             "cdjs.online",
+            "cdn-code.host",
             "cdn-jquery.host",
             "cdn.ajcryptominer.com",
             "cdn.bixin.com",
@@ -848,6 +847,7 @@
             "cf.coin-miners.info",
             "cf.suprnova.cc",
             "cfcdist.gd",
+            "cfceu.duckdns.org",
             "cfcnet.gdn",
             "cfg.krunzy.com",
             "cga.lightninghash.com",
@@ -909,7 +909,10 @@
             "cmm.lambomoon.club",
             "cms.btcchina.com",
             "cn.btcchina.com",
-            "cn.dogecoin.dog",
+            "cn.dogecoin.dog"
+        ],
+        "to_test": [
+            "autoconfig.gntl.co.uk",
             "cncoin.farm",
             "cnd.suprnova.cc",
             "cndhit.xyz",
