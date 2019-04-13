@@ -5003,7 +5003,7 @@
         "greeenanalytics.com": {
             "epoch": "1555113600",
             "expiration_date": "13-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "greenbtc.com": {
             "epoch": "1561680000",
@@ -5315,6 +5315,11 @@
             "expiration_date": "10-dec-2018",
             "state": "past"
         },
+        "hostcontent.live": {
+            "epoch": "1585180800",
+            "expiration_date": "26-mar-2020",
+            "state": "future"
+        },
         "hostingcloud.accountant": {
             "epoch": "1554336000",
             "expiration_date": "04-apr-2019",
@@ -5568,7 +5573,7 @@
         "itgpll.com": {
             "epoch": "1555113600",
             "expiration_date": "13-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "ivuovhsn.ru": {
             "epoch": "1556841600",
