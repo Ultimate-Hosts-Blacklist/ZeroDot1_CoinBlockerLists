@@ -3143,7 +3143,7 @@
         "coin-services.info": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "coinbase.com": {
             "epoch": "1719878400",
@@ -3570,6 +3570,11 @@
             "expiration_date": "04-oct-2019",
             "state": "future"
         },
+        "crypto-mining-pool.com": {
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
+            "state": "future"
+        },
         "crypto-pool.fr": {
             "epoch": "1579996800",
             "expiration_date": "26-jan-2020",
@@ -3716,8 +3721,8 @@
             "state": "future"
         },
         "cryptopool.online": {
-            "epoch": "1556064000",
-            "expiration_date": "24-apr-2019",
+            "epoch": "1587686400",
+            "expiration_date": "24-apr-2020",
             "state": "future"
         },
         "cryptopool.org": {
@@ -3833,7 +3838,7 @@
         "de-mi-nis-ner2.info": {
             "epoch": "1556150400",
             "expiration_date": "25-apr-2019",
-            "state": "future"
+            "state": "past"
         },
         "de-ner-mi-nis4.info": {
             "epoch": "1562025600",
