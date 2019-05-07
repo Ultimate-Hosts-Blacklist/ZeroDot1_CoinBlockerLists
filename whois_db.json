@@ -7178,7 +7178,7 @@
         "multipool.com": {
             "epoch": "1557187200",
             "expiration_date": "07-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "multipool.us": {
             "epoch": "1557792000",
@@ -7199,6 +7199,11 @@
             "epoch": "1547856000",
             "expiration_date": "19-jan-2019",
             "state": "past"
+        },
+        "muxdux.com": {
+            "epoch": "1575676800",
+            "expiration_date": "07-dec-2019",
+            "state": "future"
         },
         "mwor.gq": {
             "epoch": "1572739200",
@@ -7843,7 +7848,7 @@
         "p2pool.co": {
             "epoch": "1557187200",
             "expiration_date": "07-may-2019",
-            "state": "future"
+            "state": "past"
         },
         "p2pool.in": {
             "epoch": "1566864000",
