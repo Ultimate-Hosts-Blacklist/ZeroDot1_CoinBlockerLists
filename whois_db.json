@@ -2951,9 +2951,9 @@
             "state": "future"
         },
         "ckpool.com": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
-            "state": "past"
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
+            "state": "future"
         },
         "ckpool.org": {
             "epoch": "1565827200",
@@ -3083,6 +3083,11 @@
         "cnhv.co": {
             "epoch": "1566518400",
             "expiration_date": "23-aug-2019",
+            "state": "future"
+        },
+        "cnpool.cc": {
+            "epoch": "1601769600",
+            "expiration_date": "04-oct-2020",
             "state": "future"
         },
         "cnt.st": {
@@ -3316,8 +3321,8 @@
             "state": "future"
         },
         "coinmine.pl": {
-            "epoch": "1557187200",
-            "expiration_date": "07-may-2019",
+            "epoch": "1588809600",
+            "expiration_date": "07-may-2020",
             "state": "future"
         },
         "coinmine.pw": {
@@ -3381,9 +3386,9 @@
             "state": "future"
         },
         "coinpot.co": {
-            "epoch": "1557014400",
-            "expiration_date": "05-may-2019",
-            "state": "past"
+            "epoch": "1588636800",
+            "expiration_date": "05-may-2020",
+            "state": "future"
         },
         "coinrail.io": {
             "epoch": "1569715200",
@@ -3615,6 +3620,11 @@
             "expiration_date": "16-dec-2019",
             "state": "future"
         },
+        "cryptoasiapool.com": {
+            "epoch": "1586563200",
+            "expiration_date": "11-apr-2020",
+            "state": "future"
+        },
         "cryptobara.com": {
             "epoch": "1588291200",
             "expiration_date": "01-may-2020",
@@ -3663,6 +3673,11 @@
         "cryptogrot.io": {
             "epoch": "1578182400",
             "expiration_date": "05-jan-2020",
+            "state": "future"
+        },
+        "cryptohispano.net": {
+            "epoch": "1585180800",
+            "expiration_date": "26-mar-2020",
             "state": "future"
         },
         "cryptokitties.co": {
@@ -3715,6 +3730,11 @@
             "expiration_date": "21-may-2019",
             "state": "future"
         },
+        "cryptonote.social": {
+            "epoch": "1579737600",
+            "expiration_date": "23-jan-2020",
+            "state": "future"
+        },
         "cryptonotemining.org": {
             "epoch": "1563753600",
             "expiration_date": "22-jul-2019",
@@ -3763,6 +3783,11 @@
         "cryptopool.ru": {
             "epoch": "1563235200",
             "expiration_date": "16-jul-2019",
+            "state": "future"
+        },
+        "cryptopool.space": {
+            "epoch": "1574380800",
+            "expiration_date": "22-nov-2019",
             "state": "future"
         },
         "cryptopool.xyz": {
