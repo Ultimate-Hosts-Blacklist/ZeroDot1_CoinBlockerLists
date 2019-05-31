@@ -1,630 +1,214 @@
 {
-    "1559341027.550188": {
-        "domain": "binance.express",
-        "extension": "express"
-    },
-    "1559341028.2516248": {
-        "domain": "binancie.online",
-        "extension": "online"
-    },
-    "1559341028.8648293": {
-        "domain": "bitcoin.inc.hk",
-        "extension": "hk"
-    },
-    "1559341030.2410426": {
-        "domain": "bittrex.finance",
-        "extension": "finance"
-    },
-    "1559341030.668724": {
-        "domain": "bjorksta.men",
-        "extension": "men"
-    },
-    "1559341032.1563883": {
-        "domain": "bloc.mo",
-        "extension": "mo"
-    },
-    "1559341032.7073765": {
-        "domain": "blockchained.party",
-        "extension": "party"
-    },
-    "1559341034.6840477": {
-        "domain": "bnm.ml",
-        "extension": "ml"
-    },
-    "1559341035.6408057": {
-        "domain": "bsyauqwerd.party",
-        "extension": "party"
-    },
-    "1559341037.780795": {
-        "domain": "carrel.services",
-        "extension": "services"
-    },
-    "1559341038.1214886": {
-        "domain": "cdjs.online",
-        "extension": "online"
-    },
-    "1559341038.4032984": {
-        "domain": "cdn-code.host",
-        "extension": "host"
-    },
-    "1559341038.605145": {
-        "domain": "cdncounter.top",
-        "extension": "top"
-    },
-    "1559341038.8626642": {
-        "domain": "centralcavern.uk",
-        "extension": "uk"
-    },
-    "1559341039.0775902": {
-        "domain": "cfcnet.gdn",
-        "extension": "gdn"
-    },
-    "1559341039.116183": {
-        "domain": "cfcnet.top",
-        "extension": "top"
-    },
-    "1559341040.1043324": {
-        "domain": "cib.bitcoin.inc.hk",
-        "extension": "hk"
-    },
-    "1559341041.131089": {
-        "domain": "cliggi.download",
-        "extension": "download"
-    },
-    "1559341041.4224997": {
-        "domain": "cloudflare.solutions",
-        "extension": "solutions"
-    },
-    "1559341041.52428": {
-        "domain": "cloudmedia.gdn",
-        "extension": "gdn"
-    },
-    "1559341042.2385902": {
-        "domain": "cnpool.cc",
-        "extension": "cc"
-    },
-    "1559341042.6615427": {
-        "domain": "cody.services",
-        "extension": "services"
-    },
-    "1559341043.0264132": {
-        "domain": "coin-miner.top",
-        "extension": "top"
-    },
-    "1559341043.2303529": {
-        "domain": "coinhive-proxy.party",
-        "extension": "party"
-    },
-    "1559341044.0454886": {
-        "domain": "coinmarketcat.top",
-        "extension": "top"
-    },
-    "1559341044.0986555": {
-        "domain": "coinone.deals",
-        "extension": "deals"
-    },
-    "1559341045.6542342": {
-        "domain": "crypto-daio.co.uk",
-        "extension": "uk"
-    },
-    "1559341046.0214972": {
-        "domain": "cryptocoins-digging.space",
-        "extension": "space"
-    },
-    "1559341048.3544545": {
-        "domain": "dataservices.download",
-        "extension": "download"
-    },
-    "1559341049.5632417": {
-        "domain": "deliveryclub-6589.download",
-        "extension": "download"
-    },
-    "1559341049.6022713": {
-        "domain": "delivery1class.download",
-        "extension": "download"
-    },
-    "1559341050.6551943": {
-        "domain": "dexceldesigns.co.uk",
-        "extension": "uk"
-    },
-    "1559341051.190265": {
-        "domain": "dloger.ml",
-        "extension": "ml"
-    },
-    "1559341051.6784954": {
-        "domain": "doge.pool.pm",
-        "extension": "pm"
-    },
-    "1559341051.892076": {
-        "domain": "dronml.ml",
-        "extension": "ml"
-    },
-    "1559341052.2533245": {
-        "domain": "dwp3ce9c.top",
-        "extension": "top"
-    },
-    "1559341052.492749": {
-        "domain": "e32sg.deliveryclub-6589.download",
-        "extension": "download"
-    },
-    "1559341052.5541544": {
-        "domain": "eac.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559341053.9483697": {
-        "domain": "enjoyableoffers.club",
-        "extension": "club"
-    },
-    "1559341056.1103463": {
-        "domain": "etherdelta.express",
-        "extension": "express"
-    },
-    "1559341057.6898012": {
-        "domain": "eu.turtlepool.space",
-        "extension": "space"
-    },
-    "1559341060.2536993": {
-        "domain": "ffjk.space",
-        "extension": "space"
-    },
-    "1559341061.2292025": {
-        "domain": "flashplayupashpool.club",
-        "extension": "club"
-    },
-    "1559341061.4488392": {
-        "domain": "flashpool.club",
-        "extension": "club"
-    },
-    "1559341063.147961": {
-        "domain": "freecontent.download",
-        "extension": "download"
-    },
-    "1559341063.410013": {
-        "domain": "freecontent.racing",
-        "extension": "racing"
-    },
-    "1559341064.449606": {
-        "domain": "gamestoredownload.download",
-        "extension": "download"
-    },
-    "1559341064.5331995": {
-        "domain": "gasolina.ml",
-        "extension": "ml"
-    },
-    "1559341064.7969832": {
-        "domain": "gdax.deals",
-        "extension": "deals"
-    },
-    "1559341064.8832366": {
-        "domain": "gdax.team",
-        "extension": "team"
-    },
-    "1559341065.209795": {
-        "domain": "gemini.express",
-        "extension": "express"
-    },
-    "1559341066.2659392": {
-        "domain": "globe.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559341066.4057202": {
-        "domain": "goldoffer.online",
-        "extension": "online"
-    },
-    "1559341068.3232195": {
-        "domain": "hellbacksoft.online",
-        "extension": "online"
-    },
-    "1559341069.287041": {
-        "domain": "hodlers.party",
-        "extension": "party"
-    },
-    "1559341069.7669404": {
-        "domain": "hostingcloud.download",
-        "extension": "download"
-    },
-    "1559341071.5825427": {
-        "domain": "imhard4.men",
-        "extension": "men"
-    },
-    "1559341073.1007135": {
-        "domain": "iwanttoearn.money",
-        "extension": "money"
-    },
-    "1559341073.8550165": {
-        "domain": "jqcdn.download",
-        "extension": "download"
-    },
-    "1559341074.2665944": {
-        "domain": "jquery-cdn.download",
-        "extension": "download"
-    },
-    "1559341074.543614": {
-        "domain": "jquery-uim.download",
-        "extension": "download"
-    },
-    "1559341075.8006785": {
-        "domain": "jurty.ml",
-        "extension": "ml"
-    },
-    "1559341076.0309324": {
-        "domain": "kalipasindra.online",
-        "extension": "online"
-    },
-    "1559341077.749633": {
-        "domain": "korbit.express",
-        "extension": "express"
-    },
-    "1559341077.890438": {
-        "domain": "korbit.ltd",
-        "extension": "ltd"
-    },
-    "1559341077.9723284": {
-        "domain": "korbit.top",
-        "extension": "top"
-    },
-    "1559341078.863748": {
-        "domain": "laferia.cr",
-        "extension": "cr"
-    },
-    "1559341079.020966": {
-        "domain": "latestpromotions.club",
-        "extension": "club"
-    },
-    "1559341080.7771232": {
-        "domain": "livelyoffers.club",
-        "extension": "club"
-    },
-    "1559341080.8068604": {
-        "domain": "livestatsnet.services",
-        "extension": "services"
-    },
-    "1559341081.5807056": {
-        "domain": "louhimo.club",
-        "extension": "club"
-    },
-    "1559341089.3720317": {
-        "domain": "msdns.online",
-        "extension": "online"
-    },
-    "1559341091.7129989": {
-        "domain": "myethereumwallet.express",
-        "extension": "express"
-    },
-    "1559341093.2439234": {
-        "domain": "myoffers.party",
-        "extension": "party"
-    },
-    "1559341095.706062": {
-        "domain": "nitsche.top",
-        "extension": "top"
-    },
-    "1559341097.6732917": {
-        "domain": "ockoy.deliveryclub-6589.download",
-        "extension": "download"
-    },
-    "1559341098.0784464": {
-        "domain": "okeyletsgo.ml",
-        "extension": "ml"
-    },
-    "1559341100.5550668": {
-        "domain": "pandou.top",
-        "extension": "top"
-    },
-    "1559341102.6352673": {
-        "domain": "pickaxe.online",
-        "extension": "online"
-    },
-    "1559341103.657897": {
-        "domain": "pocketgolf.host",
-        "extension": "host"
-    },
-    "1559341104.1987417": {
-        "domain": "poloniex.direct",
-        "extension": "direct"
-    },
-    "1559341104.364422": {
-        "domain": "poloniex.investments",
-        "extension": "investments"
-    },
-    "1559341105.8069062": {
-        "domain": "pool.ml",
-        "extension": "ml"
-    },
-    "1559341106.0691876": {
-        "domain": "pool.pm",
-        "extension": "pm"
-    },
-    "1559341106.1968942": {
-        "domain": "pool.ski",
-        "extension": "ski"
-    },
-    "1559341111.200346": {
-        "domain": "reservedoffers.club",
-        "extension": "club"
-    },
-    "1559341111.4963229": {
-        "domain": "rmawm7mw.top",
-        "extension": "top"
-    },
-    "1559341114.5492678": {
-        "domain": "seasonaloffers.club",
-        "extension": "club"
-    },
-    "1559341115.16773": {
-        "domain": "sen-to-zdrowie.ml",
-        "extension": "ml"
-    },
-    "1559341116.6363425": {
-        "domain": "siteverification.online",
-        "extension": "online"
-    },
-    "1559341118.0162206": {
-        "domain": "socialextensions.top",
-        "extension": "top"
-    },
-    "1559341119.7036667": {
-        "domain": "stardoge.cc",
-        "extension": "cc"
-    },
-    "1559341122.9143493": {
-        "domain": "swap.miningpool.online",
-        "extension": "online"
-    },
-    "1559341123.2430274": {
-        "domain": "systemlog.host",
-        "extension": "host"
-    },
-    "1559341123.7488513": {
-        "domain": "template-download.top",
-        "extension": "top"
-    },
-    "1559341125.2431514": {
-        "domain": "thenewgamer.club",
-        "extension": "club"
-    },
-    "1559341126.0705473": {
-        "domain": "theshoppingoffers.top",
-        "extension": "top"
-    },
-    "1559341126.1257067": {
-        "domain": "theshoppingoffers.men",
-        "extension": "men"
-    },
-    "1559341126.66259": {
-        "domain": "theslots.ml",
-        "extension": "ml"
-    },
-    "1559341129.3502529": {
-        "domain": "ullnot.download",
-        "extension": "download"
-    },
-    "1559341129.4826887": {
-        "domain": "ukp2pool.uk",
-        "extension": "uk"
-    },
-    "1559341131.4352129": {
-        "domain": "utc.pool.pm",
-        "extension": "pm"
-    },
-    "1559341133.758146": {
-        "domain": "vtc.pool.pm",
-        "extension": "pm"
-    },
-    "1559341136.398551": {
-        "domain": "whysoserius.club",
-        "extension": "club"
-    },
-    "1559341137.0548122": {
-        "domain": "wittyoffers.club",
-        "extension": "club"
-    },
-    "1559341139.1645074": {
-        "domain": "ws001.www.datasecu.download",
-        "extension": "download"
-    },
-    "1559341139.2713232": {
-        "domain": "ws002.www.jqwww.download",
-        "extension": "download"
-    },
-    "1559341139.340923": {
-        "domain": "ws002.www.datasecu.download",
-        "extension": "download"
-    },
-    "1559341139.4643874": {
-        "domain": "ws003.www.jqwww.download",
-        "extension": "download"
-    },
-    "1559341139.7649128": {
-        "domain": "ws004.www.datasecu.download",
-        "extension": "download"
-    },
-    "1559341139.7886305": {
-        "domain": "ws005.www.jqwww.download",
-        "extension": "download"
-    },
-    "1559341139.9266353": {
+    "1559342256.8269935": {
         "domain": "ws007.www.datasecu.download",
         "extension": "download"
     },
-    "1559341139.9899194": {
-        "domain": "ws006.www.datasecu.download",
-        "extension": "download"
-    },
-    "1559341140.033526": {
-        "domain": "ws007.www.jqwww.download",
-        "extension": "download"
-    },
-    "1559341140.4661267": {
+    "1559342257.118176": {
         "domain": "ws009.www.jqwww.download",
         "extension": "download"
     },
-    "1559341140.5468404": {
+    "1559342257.2782636": {
         "domain": "ws011.www.jqwww.download",
         "extension": "download"
     },
-    "1559341140.7806635": {
+    "1559342257.309035": {
         "domain": "ws012.www.datasecu.download",
         "extension": "download"
     },
-    "1559341140.9223785": {
+    "1559342257.597011": {
         "domain": "ws012.www.jqwww.download",
         "extension": "download"
     },
-    "1559341141.1726503": {
+    "1559342257.6535935": {
         "domain": "ws014.www.datasecu.download",
         "extension": "download"
     },
-    "1559341141.2419858": {
+    "1559342257.9374223": {
         "domain": "ws014.www.jqwww.download",
         "extension": "download"
     },
-    "1559341141.3715978": {
-        "domain": "ws016.www.datasecu.download",
-        "extension": "download"
-    },
-    "1559341141.4144986": {
+    "1559342257.9954891": {
         "domain": "ws016.www.jqwww.download",
         "extension": "download"
     },
-    "1559341141.7825909": {
+    "1559342258.0279076": {
+        "domain": "ws016.www.datasecu.download",
+        "extension": "download"
+    },
+    "1559342258.125058": {
         "domain": "ws017.www.datasecu.download",
         "extension": "download"
     },
-    "1559341141.9065807": {
-        "domain": "ws019.www.datasecu.download",
-        "extension": "download"
-    },
-    "1559341141.9289486": {
+    "1559342258.43341": {
         "domain": "ws018.www.datasecu.download",
         "extension": "download"
     },
-    "1559341142.260545": {
+    "1559342258.4821436": {
+        "domain": "ws019.www.datasecu.download",
+        "extension": "download"
+    },
+    "1559342258.7732902": {
         "domain": "ws019.www.jqwww.download",
         "extension": "download"
     },
-    "1559341142.3814793": {
+    "1559342258.8716": {
         "domain": "ws020.www.datasecu.download",
         "extension": "download"
     },
-    "1559341142.593374": {
+    "1559342259.0250149": {
         "domain": "ws021.www.datasecu.download",
         "extension": "download"
     },
-    "1559341142.7617376": {
+    "1559342259.1179094": {
         "domain": "ws023.www.jqwww.download",
         "extension": "download"
     },
-    "1559341142.8575583": {
+    "1559342259.4570951": {
         "domain": "ws026.www.jqwww.download",
         "extension": "download"
     },
-    "1559341143.0717607": {
+    "1559342259.543199": {
         "domain": "ws027.www.datasecu.download",
         "extension": "download"
     },
-    "1559341143.1993585": {
+    "1559342260.1215603": {
         "domain": "ws027.www.jqwww.download",
         "extension": "download"
     },
-    "1559341144.4947555": {
+    "1559342260.749189": {
         "domain": "ws0ws016.www.datasecu.download",
         "extension": "download"
     },
-    "1559341146.5061543": {
+    "1559342262.7947996": {
         "domain": "www1.2giga.link",
         "extension": "link"
     },
-    "1559341148.6232302": {
+    "1559342264.832249": {
         "domain": "xmg.cool",
         "extension": "cool"
     },
-    "1559341148.7310276": {
+    "1559342264.9743152": {
         "domain": "xmr.cool",
         "extension": "cool"
     },
-    "1559341151.025934": {
+    "1559342267.2953322": {
         "domain": "xn--gogle-281b.ml",
         "extension": "ml"
     },
-    "1559341153.0151494": {
+    "1559342268.8865411": {
         "domain": "yizaiwl.cc",
         "extension": "cc"
     },
-    "1559341153.7113717": {
+    "1559342269.595604": {
         "domain": "zarian.bitcoin.inc.hk",
         "extension": "hk"
     },
-    "1559341162.9696686": {
+    "1559342278.6743941": {
         "domain": "www.xmg.cool",
         "extension": "cool"
     },
-    "1559341170.936749": {
+    "1559342286.4197273": {
         "domain": "www.xn--gogle-281b.ml",
         "extension": "ml"
     },
-    "1559341201.4642563": {
+    "1559342316.5148306": {
         "domain": "www.1beb2a44.space",
         "extension": "space"
     },
-    "1559341202.5863726": {
+    "1559342317.5751777": {
         "domain": "www.1hourprofit.lt",
         "extension": "lt"
     },
-    "1559341203.200941": {
+    "1559342318.1413548": {
         "domain": "www.1q2w3.top",
         "extension": "top"
     },
-    "1559341207.514923": {
+    "1559342322.2780998": {
         "domain": "www.2x.mo",
         "extension": "mo"
     },
-    "1559341208.6456265": {
+    "1559342323.3956127": {
         "domain": "www.300ca0d0.space",
         "extension": "space"
     },
-    "1559341208.8395002": {
+    "1559342323.5848722": {
         "domain": "www.320ca3f6.space",
         "extension": "space"
     },
-    "1559341209.166604": {
+    "1559342323.8905323": {
         "domain": "www.330ca589.space",
         "extension": "space"
     },
-    "1559341209.379602": {
+    "1559342324.0770407": {
         "domain": "www.340ca71c.space",
         "extension": "space"
     },
-    "1559341209.5686913": {
+    "1559342324.300308": {
         "domain": "www.360caa42.space",
         "extension": "space"
     },
-    "1559341210.254747": {
+    "1559342324.934329": {
         "domain": "www.3c0cb3b4.space",
         "extension": "space"
     },
-    "1559341215.1543381": {
+    "1559342329.6756427": {
         "domain": "www.8282.space",
         "extension": "space"
     },
-    "1559341219.728248": {
+    "1559342334.0511868": {
         "domain": "www.accra.sy",
         "extension": "sy"
     },
-    "1559341230.8190863": {
+    "1559342344.7636945": {
         "domain": "www.airproxybay.ar",
         "extension": "ar"
     },
-    "1559341235.4760802": {
+    "1559342349.2692606": {
         "domain": "www.amerty.cc",
         "extension": "cc"
     },
-    "1559341258.217525": {
+    "1559342370.584502": {
         "domain": "www.aservices.party",
         "extension": "party"
     },
-    "1559341271.584857": {
+    "1559342383.4428515": {
         "domain": "www.axioninvestments.lt",
         "extension": "lt"
+    },
+    "1559342390.9013221": {
+        "domain": "www.beagamer.club",
+        "extension": "club"
+    },
+    "1559342396.0603297": {
+        "domain": "www.binancie.online",
+        "extension": "online"
+    },
+    "1559342396.63298": {
+        "domain": "www.binm.ml",
+        "extension": "ml"
+    },
+    "1559342398.2692754": {
+        "domain": "www.bitcoin.inc.hk",
+        "extension": "hk"
+    },
+    "1559342400.6458569": {
+        "domain": "www.bittrex.auction",
+        "extension": "auction"
+    },
+    "1559342400.834722": {
+        "domain": "www.bittrex.team",
+        "extension": "team"
+    },
+    "1559342401.833227": {
+        "domain": "www.bjorksta.men",
+        "extension": "men"
+    },
+    "1559342403.0259786": {
+        "domain": "www.bloc.mo",
+        "extension": "mo"
+    },
+    "1559342403.5236185": {
+        "domain": "www.blockchained.party",
+        "extension": "party"
     }
 }
