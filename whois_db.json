@@ -2654,6 +2654,11 @@
         "expiration_date": "13-sep-2019",
         "state": "future"
     },
+    "bluerockpools.net": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "bmcm.pw": {
         "epoch": "1582156800",
         "expiration_date": "20-feb-2020",
@@ -6010,7 +6015,7 @@
         "state": "past"
     },
     "jshosting.date": {
-        "epoch": "1555977600",
+        "epoch": 1555977600,
         "expiration_date": "23-apr-2019",
         "state": "past"
     },
@@ -7250,8 +7255,8 @@
         "state": "future"
     },
     "multipool.us": {
-        "epoch": "1557792000",
-        "expiration_date": "14-may-2019",
+        "epoch": 1715644800,
+        "expiration_date": "14-may-2024",
         "state": "future"
     },
     "multipooler.com": {
