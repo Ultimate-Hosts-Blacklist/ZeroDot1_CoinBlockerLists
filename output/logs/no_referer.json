@@ -1,382 +1,170 @@
 {
-    "1559436875.8923676": {
-        "domain": "www.bry.pool.mn",
-        "extension": "mn"
-    },
-    "1559436875.8992589": {
-        "domain": "bry.pool.mn",
-        "extension": "mn"
-    },
-    "1559436876.6008904": {
-        "domain": "ce.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559436884.2368429": {
-        "domain": "stx.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559436885.0544775": {
-        "domain": "zrc-stratum.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559436889.075337": {
-        "domain": "gbc.pool.mn",
-        "extension": "mn"
-    },
-    "1559436916.9880242": {
-        "domain": "rvn-api.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559436918.413364": {
-        "domain": "noah.pool.mn",
-        "extension": "mn"
-    },
-    "1559436918.4352884": {
-        "domain": "www.noah.pool.mn",
-        "extension": "mn"
-    },
-    "1559436926.5249968": {
-        "domain": "lyndsey.bitcoin.inc.hk",
-        "extension": "hk"
-    },
-    "1559436929.1004283": {
-        "domain": "stash.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438830.7882328": {
-        "domain": "lokalfed.ml",
-        "extension": "ml"
-    },
-    "1559438830.8117287": {
-        "domain": "www.lokalfed.ml",
-        "extension": "ml"
-    },
-    "1559438833.3056107": {
-        "domain": "www.poloniex.express",
-        "extension": "express"
-    },
-    "1559438833.317805": {
-        "domain": "poloniex.express",
-        "extension": "express"
-    },
-    "1559438840.7045457": {
-        "domain": "www.cpufan.club",
-        "extension": "club"
-    },
-    "1559438840.7247658": {
-        "domain": "cpufan.club",
-        "extension": "club"
-    },
-    "1559438858.7983646": {
-        "domain": "xvg.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438861.4692953": {
-        "domain": "enc.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438861.7511184": {
-        "domain": "mue-de.hashing.space",
-        "extension": "space"
-    },
-    "1559438875.176667": {
-        "domain": "wacc.pool.mn",
-        "extension": "mn"
-    },
-    "1559438875.2118156": {
-        "domain": "www.wacc.pool.mn",
-        "extension": "mn"
-    },
-    "1559438876.520038": {
-        "domain": "bcc.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438885.546329": {
-        "domain": "api.fno.cryptopool.space",
-        "extension": "space"
-    },
-    "1559438892.8564386": {
-        "domain": "wallet.ravencoin.world",
-        "extension": "world"
-    },
-    "1559438893.7534752": {
-        "domain": "ws007.www.datasecu.download",
-        "extension": "download"
-    },
-    "1559438893.7947056": {
-        "domain": "www.ws007.www.datasecu.download",
-        "extension": "download"
-    },
-    "1559438894.1108148": {
-        "domain": "www.atpool.party",
-        "extension": "party"
-    },
-    "1559438894.115725": {
-        "domain": "atpool.party",
-        "extension": "party"
-    },
-    "1559438895.2245193": {
-        "domain": "vtc.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438895.865525": {
-        "domain": "s2.play.vidzi.tv",
+    "1559441137.2859228": {
+        "domain": "video.stream.vidzi.tv",
         "extension": "tv"
     },
-    "1559438904.2333076": {
-        "domain": "xdb.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438905.2593136": {
-        "domain": "cdn.securepayment.cc",
-        "extension": "cc"
-    },
-    "1559438906.0155861": {
-        "domain": "ws1.300ca0d0.space",
-        "extension": "space"
-    },
-    "1559438909.881278": {
-        "domain": "www.d.cpufan.club",
-        "extension": "club"
-    },
-    "1559438909.8829615": {
-        "domain": "d.cpufan.club",
-        "extension": "club"
-    },
-    "1559438911.2920601": {
-        "domain": "arg-argon2d-wa.hashing.space",
-        "extension": "space"
-    },
-    "1559438922.2892475": {
-        "domain": "ws5.370cabd5.space",
-        "extension": "space"
-    },
-    "1559438924.7762184": {
-        "domain": "cache.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438930.4764895": {
-        "domain": "fr-db3b.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438939.8626533": {
-        "domain": "flyhash.cc",
-        "extension": "cc"
-    },
-    "1559438939.8927317": {
-        "domain": "www.flyhash.cc",
-        "extension": "cc"
-    },
-    "1559438953.9714453": {
-        "domain": "ltc-sg.hashing.space",
-        "extension": "space"
-    },
-    "1559438954.1584704": {
-        "domain": "btx.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438954.5099988": {
-        "domain": "etn.cryptopool.space",
-        "extension": "space"
-    },
-    "1559438955.2469687": {
-        "domain": "kuc.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438956.3402855": {
-        "domain": "www4.2giga.link",
-        "extension": "link"
-    },
-    "1559438970.0897863": {
-        "domain": "www.pandou.top",
-        "extension": "top"
-    },
-    "1559438970.1016226": {
-        "domain": "pandou.top",
-        "extension": "top"
-    },
-    "1559438971.5496845": {
-        "domain": "nkz.pool.mn",
-        "extension": "mn"
-    },
-    "1559438972.222102": {
-        "domain": "voot.pool.mn",
-        "extension": "mn"
-    },
-    "1559438973.8658028": {
-        "domain": "ws014.www.datasecu.download",
-        "extension": "download"
-    },
-    "1559438975.8491762": {
-        "domain": "bdg.pool.mn",
-        "extension": "mn"
-    },
-    "1559438976.0245855": {
-        "domain": "cloak.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438977.4041195": {
-        "domain": "zec-us.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438984.5140872": {
-        "domain": "fc.pool.mn",
-        "extension": "mn"
-    },
-    "1559438985.5979872": {
-        "domain": "www.sync.pool.mn",
-        "extension": "mn"
-    },
-    "1559438985.6148965": {
-        "domain": "sync.pool.mn",
-        "extension": "mn"
-    },
-    "1559438988.0552619": {
-        "domain": "qcn.mypool.online",
-        "extension": "online"
-    },
-    "1559438995.6721334": {
-        "domain": "ws4.330ca589.space",
-        "extension": "space"
-    },
-    "1559438998.5071719": {
-        "domain": "strp.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559438998.868761": {
-        "domain": "vape.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559439006.908286": {
-        "domain": "bc.crypto-daio.co.uk",
+    "1559441138.7342868": {
+        "domain": "pool.wemine.uk",
         "extension": "uk"
     },
-    "1559439008.068583": {
-        "domain": "mar.suprnova.cc",
-        "extension": "cc"
+    "1559441140.1254487": {
+        "domain": "aeon.pools.e-scavo.net.ar",
+        "extension": "ar"
     },
-    "1559439008.265944": {
-        "domain": "pools.securepayment.cc",
-        "extension": "cc"
+    "1559441164.3593335": {
+        "domain": "beta.cryptopool.party",
+        "extension": "party"
     },
-    "1559439009.1530783": {
-        "domain": "s3.play.vidzi.tv",
-        "extension": "tv"
-    },
-    "1559439009.3226063": {
-        "domain": "fud.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559439009.7273567": {
-        "domain": "www.uae.pool.mn",
-        "extension": "mn"
-    },
-    "1559439009.7797034": {
-        "domain": "uae.pool.mn",
-        "extension": "mn"
-    },
-    "1559439032.941967": {
-        "domain": "crop.minecrypto.top",
-        "extension": "top"
-    },
-    "1559439034.3934622": {
-        "domain": "dwp3ce9c.top",
-        "extension": "top"
-    },
-    "1559439034.4331014": {
-        "domain": "www.dwp3ce9c.top",
-        "extension": "top"
-    },
-    "1559439035.2823935": {
-        "domain": "qdos.suprnova.cc",
-        "extension": "cc"
-    },
-    "1559439042.6804547": {
-        "domain": "ipbc.ingest.cryptoknight.cc",
-        "extension": "cc"
-    },
-    "1559439042.8674653": {
-        "domain": "tin.pool.mn",
-        "extension": "mn"
-    },
-    "1559439043.592088": {
-        "domain": "secure.dev.gntl.co.uk",
+    "1559441164.706591": {
+        "domain": "daemon.nu.crypto-daio.co.uk",
         "extension": "uk"
     },
-    "1559439043.8782668": {
-        "domain": "www.lumanajaska.ml",
-        "extension": "ml"
+    "1559441171.8657727": {
+        "domain": "pool.gntl.co.uk",
+        "extension": "uk"
     },
-    "1559439044.7700872": {
-        "domain": "jqcdn.download",
+    "1559441172.332192": {
+        "domain": "lan.datasecu.download",
         "extension": "download"
     },
-    "1559439044.8087332": {
-        "domain": "www.jqcdn.download",
+    "1559441172.3532622": {
+        "domain": "www.lan.datasecu.download",
         "extension": "download"
     },
-    "1559439045.128589": {
-        "domain": "per.pool.mn",
+    "1559441172.9168518": {
+        "domain": "www.bdg.pool.mn",
         "extension": "mn"
     },
-    "1559439045.9696634": {
-        "domain": "dodge.pool.mn",
-        "extension": "mn"
-    },
-    "1559439046.0106547": {
-        "domain": "www.dodge.pool.mn",
-        "extension": "mn"
-    },
-    "1559439047.4393506": {
-        "domain": "msr.crypto-coins.club",
+    "1559441192.771813": {
+        "domain": "stratum-polis.multipools.club",
         "extension": "club"
     },
-    "1559439048.7846098": {
-        "domain": "ws3.310ca263.space",
+    "1559441192.918429": {
+        "domain": "ws004.www.jqwww.download",
+        "extension": "download"
+    },
+    "1559441194.7711985": {
+        "domain": "gpumining.cc",
+        "extension": "cc"
+    },
+    "1559441194.7724278": {
+        "domain": "www.gpumining.cc",
+        "extension": "cc"
+    },
+    "1559441198.115734": {
+        "domain": "gdax.team",
+        "extension": "team"
+    },
+    "1559441198.1584117": {
+        "domain": "www.gdax.team",
+        "extension": "team"
+    },
+    "1559441199.5355725": {
+        "domain": "bci.suprnova.cc",
+        "extension": "cc"
+    },
+    "1559441200.5331202": {
+        "domain": "bows.pool.mn",
+        "extension": "mn"
+    },
+    "1559441203.7701516": {
+        "domain": "kush.suprnova.cc",
+        "extension": "cc"
+    },
+    "1559441205.3347163": {
+        "domain": "start.suprnova.cc",
+        "extension": "cc"
+    },
+    "1559441218.4524653": {
+        "domain": "wownero.ingest.cryptoknight.cc",
+        "extension": "cc"
+    },
+    "1559441226.1033213": {
+        "domain": "xmr.pool.gntl.co.uk",
+        "extension": "uk"
+    },
+    "1559441227.9739196": {
+        "domain": "api.360caa42.space",
         "extension": "space"
     },
-    "1559439049.8396327": {
-        "domain": "reactor.cc",
+    "1559441228.7551513": {
+        "domain": "genx.suprnova.cc",
         "extension": "cc"
     },
-    "1559439049.8813627": {
-        "domain": "www.reactor.cc",
+    "1559441237.9397378": {
+        "domain": "gre.pool.mn",
+        "extension": "mn"
+    },
+    "1559441249.2861462": {
+        "domain": "sed.suprnova.cc",
         "extension": "cc"
     },
-    "1559439053.6079047": {
-        "domain": "rc.pool.mn",
+    "1559441249.2997022": {
+        "domain": "www.gdc.pool.mn",
         "extension": "mn"
     },
-    "1559439054.138956": {
-        "domain": "asr.pool.mn",
-        "extension": "mn"
-    },
-    "1559439054.1616395": {
-        "domain": "www.asr.pool.mn",
-        "extension": "mn"
-    },
-    "1559439054.3485897": {
-        "domain": "join.suprnova.cc",
+    "1559441250.0321467": {
+        "domain": "blake.suprnova.cc",
         "extension": "cc"
     },
-    "1559439059.3109012": {
-        "domain": "unc.pool.mn",
-        "extension": "mn"
-    },
-    "1559439069.632435": {
-        "domain": "www.pool.mn",
-        "extension": "mn"
-    },
-    "1559439069.6351688": {
-        "domain": "pool.mn",
-        "extension": "mn"
-    },
-    "1559439078.9315948": {
-        "domain": "www.ws020.www.jqwww.download",
+    "1559441250.2617557": {
+        "domain": "cdn.jquery-uim.download",
         "extension": "download"
     },
-    "1559439078.9443896": {
-        "domain": "ws020.www.jqwww.download",
+    "1559441250.966216": {
+        "domain": "rep.suprnova.cc",
+        "extension": "cc"
+    },
+    "1559441277.6965227": {
+        "domain": "www.ws028.www.jqwww.download",
         "extension": "download"
+    },
+    "1559441277.9237905": {
+        "domain": "coin-miner.top",
+        "extension": "top"
+    },
+    "1559441277.9414241": {
+        "domain": "www.coin-miner.top",
+        "extension": "top"
+    },
+    "1559441279.9439332": {
+        "domain": "ws011.www.jqwww.download",
+        "extension": "download"
+    },
+    "1559441279.968921": {
+        "domain": "www.ws011.www.jqwww.download",
+        "extension": "download"
+    },
+    "1559441283.7874422": {
+        "domain": "www.swag.pool.mn",
+        "extension": "mn"
+    },
+    "1559441283.998903": {
+        "domain": "gsm.suprnova.cc",
+        "extension": "cc"
+    },
+    "1559441285.155158": {
+        "domain": "dash-fl.hashing.space",
+        "extension": "space"
+    },
+    "1559441285.8293388": {
+        "domain": "217.146.190.234.gntl.co.uk",
+        "extension": "uk"
+    },
+    "1559441286.0562434": {
+        "domain": "dgold.suprnova.cc",
+        "extension": "cc"
+    },
+    "1559441295.1013029": {
+        "domain": "avis-mining.co.uk",
+        "extension": "uk"
+    },
+    "1559441295.1218553": {
+        "domain": "www.avis-mining.co.uk",
+        "extension": "uk"
+    },
+    "1559441295.308909": {
+        "domain": "ftc-ca.hashing.space",
+        "extension": "space"
     }
 }
