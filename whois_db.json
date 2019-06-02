@@ -2579,6 +2579,11 @@
         "expiration_date": "01-may-2020",
         "state": "future"
     },
+    "bloc-mining.com": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "blochchauin.com": {
         "epoch": "1576195200",
         "expiration_date": "13-dec-2019",
@@ -5615,7 +5620,7 @@
         "state": "past"
     },
     "hostingcloud.bid": {
-        "epoch": "1554336000",
+        "epoch": 1554336000,
         "expiration_date": "04-apr-2019",
         "state": "past"
     },
