@@ -194,6 +194,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "1q2w3.website": {
+        "epoch": 1582243200,
+        "expiration_date": "21-feb-2020",
+        "state": "future"
+    },
     "1stpool.com": {
         "epoch": 1602892800,
         "expiration_date": "17-oct-2020",
@@ -2307,7 +2312,7 @@
     "cloud-wp.org": {
         "epoch": 1562198400,
         "expiration_date": "04-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "cloudcdn.gdn": {
         "epoch": 1587081600,
@@ -3044,6 +3049,11 @@
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
+    "dnb.io": {
+        "epoch": 1580688000,
+        "expiration_date": "03-feb-2020",
+        "state": "future"
+    },
     "dogecoin.dog": {
         "epoch": 1590278400,
         "expiration_date": "24-may-2020",
@@ -3352,6 +3362,11 @@
     "exrno.com": {
         "epoch": 1576195200,
         "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "extensionsapiversion.space": {
+        "epoch": 1587686400,
+        "expiration_date": "24-apr-2020",
         "state": "future"
     },
     "extremepool.org": {
@@ -3752,7 +3767,7 @@
     "gettate.date": {
         "epoch": 1562025600,
         "expiration_date": "02-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "gettate.faith": {
         "epoch": 1562025600,
@@ -5119,6 +5134,11 @@
         "expiration_date": "28-feb-2020",
         "state": "future"
     },
+    "miningspeed.com": {
+        "epoch": 1599264000,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
     "mmc.center": {
         "epoch": 1593043200,
         "expiration_date": "25-jun-2020",
@@ -6137,6 +6157,11 @@
     "randomsatoshi.win": {
         "epoch": 1585008000,
         "expiration_date": "24-mar-2020",
+        "state": "future"
+    },
+    "rapidpools.com": {
+        "epoch": 1569024000,
+        "expiration_date": "21-sep-2019",
         "state": "future"
     },
     "rapidvideo.com": {
