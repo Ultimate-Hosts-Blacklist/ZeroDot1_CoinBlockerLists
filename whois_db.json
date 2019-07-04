@@ -4504,6 +4504,11 @@
         "expiration_date": "07-sep-2020",
         "state": "future"
     },
+    "kisshentai.net": {
+        "epoch": 1620432000,
+        "expiration_date": "08-may-2021",
+        "state": "future"
+    },
     "kiwifarms.net": {
         "epoch": 1580515200,
         "expiration_date": "01-feb-2020",
@@ -6584,6 +6589,11 @@
         "expiration_date": "14-jan-2022",
         "state": "future"
     },
+    "srcip.com": {
+        "epoch": 1597968000,
+        "expiration_date": "21-aug-2020",
+        "state": "future"
+    },
     "srcu.com": {
         "epoch": 1642118400,
         "expiration_date": "14-jan-2022",
@@ -7004,6 +7014,11 @@
         "expiration_date": "13-mar-2020",
         "state": "future"
     },
+    "ultra-cdn.pl": {
+        "epoch": 1564185600,
+        "expiration_date": "27-jul-2019",
+        "state": "future"
+    },
     "umine.org": {
         "epoch": 1567209600,
         "expiration_date": "31-aug-2019",
@@ -7312,7 +7327,7 @@
     "wpconnect.org": {
         "epoch": 1562198400,
         "expiration_date": "04-jul-2019",
-        "state": "future"
+        "state": "past"
     },
     "wpserve.org": {
         "epoch": 1585958400,
