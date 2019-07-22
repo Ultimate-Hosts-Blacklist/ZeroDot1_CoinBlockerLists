@@ -414,6 +414,11 @@
         "expiration_date": "10-apr-2020",
         "state": "future"
     },
+    "atlantinv.com": {
+        "epoch": 1607385600,
+        "expiration_date": "08-dec-2020",
+        "state": "future"
+    },
     "atmbtc.biz": {
         "epoch": 1568246400,
         "expiration_date": "12-sep-2019",
@@ -1134,6 +1139,11 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "morningdigit.com": {
+        "epoch": 1558569600,
+        "expiration_date": "23-may-2019",
+        "state": "past"
+    },
     "multiminerapp.com": {
         "epoch": 1564185600,
         "expiration_date": "27-jul-2019",
@@ -1562,6 +1572,16 @@
     "wupdomain.com": {
         "epoch": 1593129600,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "www.fr": {
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
+    "xgefmxd.ru": {
+        "epoch": 1564963200,
+        "expiration_date": "05-aug-2019",
         "state": "future"
     },
     "xmrlab.com": {
