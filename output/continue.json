@@ -17361,7 +17361,8 @@
         "ws05.crypto-loot.com",
         "ws03.crypto-loot.com",
         "prousd-ws.btcc.com",
-        "data.btcc.com"
+        "data.btcc.com",
+        "multi.btcc.com"
     ],
     "INACTIVE": [
         "ethereum.cryptopool.online",
@@ -27722,7 +27723,20 @@
         "asia1.execoin.miningpoolhub.com",
         "eps.coin-miners.info",
         "bitcoin.bluematt.me",
-        "bsy.coin-miners.info"
+        "bsy.coin-miners.info",
+        "p2.assetscdn.stream",
+        "www.io.bitpay.com",
+        "seed-17.nimiq.net",
+        "new.xmrpool.com",
+        "aeon.uax.io",
+        "flurbo.youpool.io",
+        "support.pool.golix.com",
+        "sphr.coin-miners.info",
+        "nero.miner.center",
+        "omg.suprnova.cc",
+        "www.x13.hk.nicehash.com",
+        "api.ipbc.spacepools.org",
+        "urod-explorer.coin-miners.info"
     ],
     "INVALID": [
         "194.58.122.146\\032stratum.aikapool.com",
