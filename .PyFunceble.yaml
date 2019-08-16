@@ -62,6 +62,7 @@ http_codes:
         - 204
         - 205
         - 206
+    not_found_default: XXX
 iana_whois_server: whois.iana.org
 idna_conversion: true
 inactive_database: true
@@ -191,6 +192,6 @@ travis_autosave_minutes: 10
 travis_branch: master
 unified: false
 user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko)
-    Chrome/73.0.3683.86 Safari/537.36
+    Chrome/76.0.3809.100 Safari/537.36
 verify_ssl_certificate: false
 whois_database: true
