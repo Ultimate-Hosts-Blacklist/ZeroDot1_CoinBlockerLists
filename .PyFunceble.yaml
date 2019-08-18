@@ -78,7 +78,6 @@ links:
     psl: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/public-suffix.json
     repo: https://github.com/funilrys/PyFunceble
     requirements: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/requirements.txt
-    sqlite: https://raw.githubusercontent.com/funilrys/PyFunceble/dev/db_types/sqlite.sql
 local: false
 logs: true
 maximal_processes: 25
@@ -107,7 +106,6 @@ outputs:
         files:
             mariadb: mariadb.sql
             mysql: mysql.sql
-            sqlite: sqlite.sql
     default_files:
         dir_structure: dir_structure.json
         iana: iana-domains-db.json
@@ -115,7 +113,6 @@ outputs:
         mining: mining.json
         public_suffix: public-suffix.json
         results: results.txt
-        sqlite: pyfunceble.db
         whois_db: whois_db.json
     domains:
         directory: domains
