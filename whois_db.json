@@ -2384,6 +2384,11 @@
         "expiration_date": "15-jan-2020",
         "state": "future"
     },
+    "coinbase.com": {
+        "epoch": 1719878400,
+        "expiration_date": "02-jul-2024",
+        "state": "future"
+    },
     "coinbin.org": {
         "epoch": 1566432000,
         "expiration_date": "22-aug-2019",
@@ -4434,6 +4439,11 @@
         "expiration_date": "14-sep-2019",
         "state": "future"
     },
+    "leafpool.com": {
+        "epoch": 1582588800,
+        "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
     "leak-hub.com": {
         "epoch": 1585785600,
         "expiration_date": "02-apr-2020",
@@ -5703,6 +5713,11 @@
     "pickaxe.online": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
+    "pickaxe.pro": {
+        "epoch": 1580342400,
+        "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "pietpiraat.org": {
@@ -6990,6 +7005,11 @@
         "expiration_date": "18-jun-2020",
         "state": "future"
     },
+    "wafflepool.com": {
+        "epoch": 1583798400,
+        "expiration_date": "10-mar-2020",
+        "state": "future"
+    },
     "wallet-ethereum.com": {
         "epoch": 1587254400,
         "expiration_date": "19-apr-2020",
@@ -7035,6 +7055,11 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "webminepool.com": {
+        "epoch": 1572480000,
+        "expiration_date": "31-oct-2019",
+        "state": "future"
+    },
     "webminer.pro": {
         "epoch": 1586390400,
         "expiration_date": "09-apr-2020",
@@ -7072,7 +7097,7 @@
     },
     "wemineltc.com": {
         "epoch": 1585612800,
-        "expiration_date": "31-mar-2020",
+        "expiration_date": "23-jun-2021",
         "state": "future"
     },
     "whalesburg.com": {
