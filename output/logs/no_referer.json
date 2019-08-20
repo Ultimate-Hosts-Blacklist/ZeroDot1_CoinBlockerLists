@@ -1,766 +1,86 @@
 {
-    "1566145445.585527": {
-        "domain": "dash06.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566145446.0666811": {
-        "domain": "wiki.multipool.us",
-        "extension": "us"
-    },
-    "1566145512.2015097": {
-        "domain": "www.xavieron.us",
-        "extension": "us"
-    },
-    "1566145512.2380807": {
-        "domain": "xavieron.us",
-        "extension": "us"
-    },
-    "1566145782.9961777": {
-        "domain": "pascal3.science",
-        "extension": "science"
-    },
-    "1566145783.0155005": {
-        "domain": "www.pascal3.science",
-        "extension": "science"
-    },
-    "1566145839.264741": {
-        "domain": "us-east.multipool.us",
-        "extension": "us"
-    },
-    "1566145849.4927163": {
-        "domain": "asicpool.us",
-        "extension": "us"
-    },
-    "1566145849.497535": {
-        "domain": "www.asicpool.us",
-        "extension": "us"
-    },
-    "1566145922.4076133": {
-        "domain": "pirl-eu.cryptopros.us",
-        "extension": "us"
-    },
-    "1566146010.1344843": {
-        "domain": "asicpool.us",
-        "extension": "us"
-    },
-    "1566146010.164462": {
-        "domain": "www.asicpool.us",
-        "extension": "us"
-    },
-    "1566146019.9988408": {
-        "domain": "cryptopros.us",
-        "extension": "us"
-    },
-    "1566146020.0428698": {
-        "domain": "www.cryptopros.us",
-        "extension": "us"
-    },
-    "1566146323.973861": {
-        "domain": "lib.rus.ec",
-        "extension": "ec"
-    },
-    "1566146407.749877": {
-        "domain": "pools.cryptopros.us",
-        "extension": "us"
-    },
-    "1566146467.1712024": {
-        "domain": "mine-ltz-asia.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566146492.362534": {
-        "domain": "www.freecontent.science",
-        "extension": "science"
-    },
-    "1566146492.4223597": {
-        "domain": "freecontent.science",
-        "extension": "science"
-    },
-    "1566146518.5997555": {
-        "domain": "dnsseed.gridcoin.us",
-        "extension": "us"
-    },
-    "1566146531.6374393": {
-        "domain": "ww1.asicpool.us",
-        "extension": "us"
-    },
-    "1566146597.0886385": {
-        "domain": "mine-genx-asia.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566146623.736562": {
-        "domain": "mine-safe-euro.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566146686.8004794": {
-        "domain": "nodez-eu.cryptopros.us",
-        "extension": "us"
-    },
-    "1566146727.4399478": {
-        "domain": "btg-eu.cryptopros.us",
-        "extension": "us"
-    },
-    "1566146807.308461": {
-        "domain": "dnsseed.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566146825.971172": {
-        "domain": "www.ethergrab.us",
-        "extension": "us"
-    },
-    "1566146825.976193": {
-        "domain": "ethergrab.us",
-        "extension": "us"
-    },
-    "1566147066.803143": {
-        "domain": "mine.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566147084.1561933": {
-        "domain": "mine-for.us",
-        "extension": "us"
-    },
-    "1566147084.181792": {
-        "domain": "www.mine-for.us",
-        "extension": "us"
-    },
-    "1566147129.0498416": {
-        "domain": "www.hashforcash.us",
-        "extension": "us"
-    },
-    "1566147129.1421268": {
-        "domain": "hashforcash.us",
-        "extension": "us"
-    },
-    "1566147147.9892318": {
-        "domain": "explorer2.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566147253.6756682": {
-        "domain": "mine-zer-euro.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566147425.9142408": {
-        "domain": "bet.webcoin.us",
-        "extension": "us"
-    },
-    "1566147451.6437697": {
-        "domain": "us-east-1.multipool.us",
-        "extension": "us"
-    },
-    "1566147467.988234": {
-        "domain": "ww17.asicpool.us",
-        "extension": "us"
-    },
-    "1566147653.8975053": {
-        "domain": "download.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566147927.6106148": {
-        "domain": "gridcoin.us",
-        "extension": "us"
-    },
-    "1566147927.6367788": {
-        "domain": "www.gridcoin.us",
-        "extension": "us"
-    },
-    "1566147953.2043235": {
-        "domain": "mine-asia.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566148001.0238657": {
-        "domain": "ns2.webcoin.us",
-        "extension": "us"
-    },
-    "1566148122.836134": {
-        "domain": "bitin.us",
-        "extension": "us"
-    },
-    "1566148122.8841267": {
-        "domain": "www.bitin.us",
-        "extension": "us"
-    },
-    "1566148209.2078755": {
-        "domain": "arms01.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566148244.57132": {
-        "domain": "dbix.cryptopros.us",
-        "extension": "us"
-    },
-    "1566149118.6448972": {
-        "domain": "mine-btcz-euro.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566149141.5812979": {
-        "domain": "solid.mine-for.us",
-        "extension": "us"
-    },
-    "1566149150.7543995": {
-        "domain": "webcoin.us",
-        "extension": "us"
-    },
-    "1566149150.781063": {
-        "domain": "www.webcoin.us",
-        "extension": "us"
-    },
-    "1566149356.151879": {
-        "domain": "drk.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566149398.456119": {
-        "domain": "www.ns2.webcoin.us",
-        "extension": "us"
-    },
-    "1566149544.737453": {
-        "domain": "btcz.1ds.us",
-        "extension": "us"
-    },
-    "1566149553.4494925": {
-        "domain": "mine-safe-asia.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566149614.3255262": {
-        "domain": "equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566149637.8250759": {
-        "domain": "eos-mainnet-peer.ec",
-        "extension": "ec"
-    },
-    "1566149637.8563714": {
-        "domain": "www.eos-mainnet-peer.ec",
-        "extension": "ec"
-    },
-    "1566149638.0173035": {
-        "domain": "us-east2.multipool.us",
-        "extension": "us"
-    },
-    "1566149697.7329931": {
-        "domain": "lolkekss.us",
-        "extension": "us"
-    },
-    "1566149697.7414246": {
-        "domain": "www.lolkekss.us",
-        "extension": "us"
-    },
-    "1566149698.1070294": {
-        "domain": "www.multipool.us",
-        "extension": "us"
-    },
-    "1566149698.1501935": {
-        "domain": "multipool.us",
-        "extension": "us"
-    },
-    "1566149995.5881941": {
-        "domain": "mine-ltz-euro.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566150011.8775554": {
-        "domain": "wiki.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566150014.456095": {
-        "domain": "pool2.us.multipool.us",
-        "extension": "us"
-    },
-    "1566150022.5969827": {
-        "domain": "piratebay.tel",
-        "extension": "tel"
-    },
-    "1566150022.638208": {
-        "domain": "www.piratebay.tel",
-        "extension": "tel"
-    },
-    "1566150075.2549665": {
-        "domain": "dash10.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566150151.6283097": {
-        "domain": "calendar.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566150157.0454588": {
-        "domain": "data.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566150167.6388016": {
-        "domain": "mine-euro.1ds.us",
-        "extension": "us"
-    },
-    "1566150402.979629": {
-        "domain": "btg.cryptopros.us",
-        "extension": "us"
-    },
-    "1566150430.5970762": {
-        "domain": "dash03.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566150473.8661895": {
-        "domain": "pool.webcoin.us",
-        "extension": "us"
-    },
-    "1566150483.8670626": {
-        "domain": "us-west2.multipool.us",
-        "extension": "us"
-    },
-    "1566150498.8183777": {
-        "domain": "files.gridcoin.us",
-        "extension": "us"
-    },
-    "1566151433.4198318": {
-        "domain": "quant.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566151525.1973834": {
-        "domain": "clortho.multipool.us",
-        "extension": "us"
-    },
-    "1566151584.2572196": {
-        "domain": "cpid.gridcoin.us",
-        "extension": "us"
-    },
-    "1566151651.2027106": {
-        "domain": "mine-vot-euro.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566151856.4833744": {
-        "domain": "pool1.eu.multipool.us",
-        "extension": "us"
-    },
-    "1566152875.1288245": {
-        "domain": "halibut.multipool.us",
-        "extension": "us"
-    },
-    "1566153113.0382447": {
-        "domain": "pool.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566153113.9198983": {
-        "domain": "eu.multipool.us",
-        "extension": "us"
-    },
-    "1566153157.7138076": {
-        "domain": "chain.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566153174.5311363": {
-        "domain": "www.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566153182.3876498": {
-        "domain": "hostingcloud.science",
-        "extension": "science"
-    },
-    "1566153319.774732": {
-        "domain": "miner.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566153334.7242544": {
-        "domain": "finance.gridcoin.us",
-        "extension": "us"
-    },
-    "1566153409.3649664": {
-        "domain": "drk01.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566154126.2670028": {
-        "domain": "dash04.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566154162.1305733": {
-        "domain": "drk02.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566154254.7249997": {
-        "domain": "dash02.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566154265.2324827": {
-        "domain": "com-http.us",
-        "extension": "us"
-    },
-    "1566154265.2575": {
-        "domain": "www.com-http.us",
-        "extension": "us"
-    },
-    "1566154302.524061": {
-        "domain": "quant.gridcoin.us",
-        "extension": "us"
-    },
-    "1566154322.6987247": {
-        "domain": "minetrtl.us",
-        "extension": "us"
-    },
-    "1566154322.7402937": {
-        "domain": "www.minetrtl.us",
-        "extension": "us"
-    },
-    "1566154329.48617": {
-        "domain": "calendar.gridcoin.us",
-        "extension": "us"
-    },
-    "1566154337.8581197": {
-        "domain": "btg-asia.cryptopros.us",
-        "extension": "us"
-    },
-    "1566154339.330062": {
-        "domain": "www.jshosting.science",
-        "extension": "science"
-    },
-    "1566154339.3676846": {
-        "domain": "jshosting.science",
-        "extension": "science"
-    },
-    "1566154429.0788465": {
-        "domain": "js.pascal1.science",
-        "extension": "science"
-    },
-    "1566154622.2175422": {
-        "domain": "dash05.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566155471.0907872": {
-        "domain": "explorer2.gridcoin.us",
-        "extension": "us"
-    },
-    "1566155518.617384": {
-        "domain": "www.bloc-mining.us",
-        "extension": "us"
-    },
-    "1566155518.6349134": {
-        "domain": "bloc-mining.us",
-        "extension": "us"
-    },
-    "1566155520.2497911": {
-        "domain": "zpool.1ds.us",
-        "extension": "us"
-    },
-    "1566155545.8123314": {
-        "domain": "bitcoin-doubler.us",
-        "extension": "us"
-    },
-    "1566155545.828368": {
-        "domain": "www.bitcoin-doubler.us",
-        "extension": "us"
-    },
-    "1566155564.7850811": {
-        "domain": "mine-genx-euro.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566155578.2492378": {
-        "domain": "mine-xsg-asia.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566155592.0873735": {
-        "domain": "mine-zel-asia.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566155707.7219872": {
-        "domain": "mine.dev-equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566155770.0392683": {
-        "domain": "support.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566155845.5887105": {
-        "domain": "dash01.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566155855.9184353": {
-        "domain": "node.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566155913.460893": {
-        "domain": "gridsql.gridcoin.us",
-        "extension": "us"
-    },
-    "1566155988.0801885": {
-        "domain": "dev.multipool.us",
-        "extension": "us"
-    },
-    "1566156701.55959": {
-        "domain": "mine-buck-euro.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566156825.9028478": {
-        "domain": "drk03.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566156876.0638068": {
-        "domain": "crc.cryptopros.us",
-        "extension": "us"
-    },
-    "1566156908.68974": {
-        "domain": "pool.cryptopros.us",
-        "extension": "us"
-    },
-    "1566157021.1559126": {
-        "domain": "www.altcoinminers.us",
-        "extension": "us"
-    },
-    "1566157056.4522774": {
-        "domain": "cryptopool.1ds.us",
-        "extension": "us"
-    },
-    "1566157082.3095133": {
-        "domain": "cpid.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566158001.476316": {
-        "domain": "mine-euro.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566158011.5633": {
-        "domain": "www.miner.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566158023.8287225": {
-        "domain": "mpool.1ds.us",
-        "extension": "us"
-    },
-    "1566158045.4122937": {
+    "1566318492.0825422": {
         "domain": "brain.multipool.us",
         "extension": "us"
     },
-    "1566158056.261648": {
-        "domain": "mine-euro2.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566158106.3717365": {
-        "domain": "mine-vot-asia.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566158106.5426762": {
-        "domain": "gridsql.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566158257.1544545": {
-        "domain": "graphite.multipool.us",
-        "extension": "us"
-    },
-    "1566158300.8815854": {
-        "domain": "mine.mpool.1ds.us",
-        "extension": "us"
-    },
-    "1566158310.7750678": {
-        "domain": "us-east-2.multipool.us",
-        "extension": "us"
-    },
-    "1566158344.222866": {
-        "domain": "www.pool.webcoin.us",
-        "extension": "us"
-    },
-    "1566158385.0106313": {
-        "domain": "dev-equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566158473.6383317": {
-        "domain": "www.chainblock.science",
-        "extension": "science"
-    },
-    "1566158473.698501": {
-        "domain": "chainblock.science",
-        "extension": "science"
-    },
-    "1566159031.5797024": {
-        "domain": "www.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566159074.354393": {
-        "domain": "pool1.us.multipool.us",
-        "extension": "us"
-    },
-    "1566159216.0121932": {
-        "domain": "api.multipool.us",
-        "extension": "us"
-    },
-    "1566159223.4889872": {
-        "domain": "mine-btcz-asia.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566159239.653965": {
-        "domain": "us-west.multipool.us",
-        "extension": "us"
-    },
-    "1566159302.3936439": {
-        "domain": "ki.multipool.us",
-        "extension": "us"
-    },
-    "1566159329.4544666": {
-        "domain": "beta.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566159380.4874618": {
-        "domain": "ella.cryptopros.us",
-        "extension": "us"
-    },
-    "1566159408.6123989": {
-        "domain": "mine-buck-asia.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566159513.9080427": {
-        "domain": "pirl.cryptopros.us",
-        "extension": "us"
-    },
-    "1566159535.6733515": {
-        "domain": "mine-xsg-euro.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566159556.5980053": {
-        "domain": "nodez.cryptopros.us",
-        "extension": "us"
-    },
-    "1566160571.3624177": {
-        "domain": "supernode.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566160619.2877197": {
-        "domain": "www.50centfreedom.us",
-        "extension": "us"
-    },
-    "1566160619.294519": {
-        "domain": "50centfreedom.us",
-        "extension": "us"
-    },
-    "1566160731.69031": {
-        "domain": "web1.multipool.us",
-        "extension": "us"
-    },
-    "1566160740.1880789": {
+    "1566318492.5904408": {
         "domain": "p2poolmining.us",
         "extension": "us"
     },
-    "1566160740.2280478": {
+    "1566318492.599013": {
         "domain": "www.p2poolmining.us",
         "extension": "us"
     },
-    "1566160799.3667395": {
+    "1566318541.2823927": {
+        "domain": "com-http.us",
+        "extension": "us"
+    },
+    "1566318541.2980359": {
+        "domain": "www.com-http.us",
+        "extension": "us"
+    },
+    "1566318648.1746833": {
+        "domain": "explorer2.gridcoin.us",
+        "extension": "us"
+    },
+    "1566318657.492048": {
+        "domain": "btg-eu.cryptopros.us",
+        "extension": "us"
+    },
+    "1566318709.439418": {
+        "domain": "freecontent.science",
+        "extension": "science"
+    },
+    "1566318709.467235": {
+        "domain": "www.freecontent.science",
+        "extension": "science"
+    },
+    "1566318735.8213131": {
+        "domain": "mine-ltz-euro.equipool.1ds.us",
+        "extension": "us"
+    },
+    "1566318750.976164": {
+        "domain": "www.miner.p2poolmining.us",
+        "extension": "us"
+    },
+    "1566318750.9896603": {
+        "domain": "miner.p2poolmining.us",
+        "extension": "us"
+    },
+    "1566318801.810675": {
+        "domain": "dash02.p2poolmining.us",
+        "extension": "us"
+    },
+    "1566318809.9578545": {
         "domain": "ny.minetrtl.us",
         "extension": "us"
     },
-    "1566160836.0493226": {
-        "domain": "drk04.p2poolmining.us",
+    "1566318817.801361": {
+        "domain": "crc.cryptopros.us",
         "extension": "us"
     },
-    "1566160903.5079906": {
-        "domain": "p2poolmining.us",
-        "extension": "us"
-    },
-    "1566160903.5418031": {
-        "domain": "www.p2poolmining.us",
-        "extension": "us"
-    },
-    "1566161755.8193812": {
-        "domain": "www.bet.webcoin.us",
-        "extension": "us"
-    },
-    "1566161906.5124204": {
+    "1566318823.6981275": {
         "domain": "sopool.us",
         "extension": "us"
     },
-    "1566161906.5255835": {
+    "1566318823.7240167": {
         "domain": "www.sopool.us",
         "extension": "us"
     },
-    "1566161914.489284": {
-        "domain": "download.gridcoin.us",
-        "extension": "us"
-    },
-    "1566161915.5512516": {
-        "domain": "xst.argakiig.us",
-        "extension": "us"
-    },
-    "1566161939.487782": {
-        "domain": "www.mine.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566162007.5028722": {
-        "domain": "us.multipool.us",
-        "extension": "us"
-    },
-    "1566162014.0221612": {
-        "domain": "nodecoin.cryptopros.us",
-        "extension": "us"
-    },
-    "1566162071.065221": {
-        "domain": "chain.gridcoin.us",
-        "extension": "us"
-    },
-    "1566162102.1744568": {
+    "1566318885.1379738": {
         "domain": "ww38.asicpool.us",
         "extension": "us"
     },
-    "1566162181.4395661": {
-        "domain": "mine-zel-euro.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566163204.033988": {
-        "domain": "pega.cryptopros.us",
-        "extension": "us"
-    },
-    "1566163220.4595275": {
-        "domain": "poolweb1.multipool.us",
-        "extension": "us"
-    },
-    "1566163227.2956958": {
-        "domain": "finance.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566163340.691995": {
-        "domain": "ram.gridcoin.us",
-        "extension": "us"
-    },
-    "1566163372.5522547": {
-        "domain": "mine.cryptopool.1ds.us",
-        "extension": "us"
-    },
-    "1566163374.1396508": {
-        "domain": "mine-asia2.equipool.1ds.us",
-        "extension": "us"
-    },
-    "1566163382.3829393": {
-        "domain": "data.gridcoin.us",
-        "extension": "us"
-    },
-    "1566163568.2010863": {
-        "domain": "beta.gridcoin.us",
-        "extension": "us"
-    },
-    "1566163654.9105406": {
-        "domain": "pool.gridcoin.us",
-        "extension": "us"
-    },
-    "1566163672.896763": {
-        "domain": "eos.staked.us",
-        "extension": "us"
-    },
-    "1566164496.7624605": {
-        "domain": "ram.node.gridcoin.us",
-        "extension": "us"
-    },
-    "1566164660.794486": {
-        "domain": "explorer.gridcoin.us",
-        "extension": "us"
-    },
-    "1566164924.7744343": {
-        "domain": "eu2.multipool.us",
-        "extension": "us"
-    },
-    "1566165879.9200814": {
-        "domain": "supernode.gridcoin.us",
-        "extension": "us"
-    },
-    "1566167264.8341842": {
-        "domain": "explorer.cryptopros.us",
-        "extension": "us"
-    },
-    "1566167730.326412": {
+    "1566318909.7460072": {
         "domain": "explorer.node.gridcoin.us",
         "extension": "us"
     },
-    "1566169041.908007": {
-        "domain": "files.node.gridcoin.us",
+    "1566318993.9048462": {
+        "domain": "www.node.gridcoin.us",
+        "extension": "us"
+    },
+    "1566318993.909308": {
+        "domain": "node.gridcoin.us",
         "extension": "us"
     }
 }
