@@ -16683,7 +16683,9 @@
         "pro-data.btcc.com",
         "static.btcc.com",
         "chart-data.btcc.com",
-        "spot.btcc.com"
+        "spot.btcc.com",
+        "websocket.btcc.com",
+        "spotusd-data.btcc.com"
     ],
     "INACTIVE": [
         "stem.node.coin-miners.info",
@@ -27840,6 +27842,8 @@
         "www.norgzpool.net.:",
         "norgzpool.net.:",
         "www.ws3.bmnr.:",
-        "ws3.bmnr.:"
+        "ws3.bmnr.:",
+        "www.370cabd5.spa:",
+        "370cabd5.spa:"
     ]
 }
