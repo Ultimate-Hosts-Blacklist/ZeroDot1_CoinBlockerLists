@@ -1,27 +1,18 @@
 {
-    "current_stats": {
-        "builds": 122,
+    "currently_under_test": "0",
+    "days_until_next_test": 2,
+    "end_datetime": "Mon Sep  9 09:58:52 2019",
+    "end_epoch": 1568023132.507235,
+    "last_autosave_datetime": "Mon Sep  9 09:56:22 2019",
+    "last_autosave_epoch": 1568022982.124098,
+    "name": "ZeroDot1_CoinBlockerLists",
+    "previous_stats": {
+        "builds": 123,
         "counter": {
             "down": 11171,
             "invalid": 29,
             "tested": 27889,
             "up": 16689
-        }
-    },
-    "currently_under_test": "1",
-    "days_until_next_test": 2,
-    "end_datetime": "Fri Sep  6 01:54:09 2019",
-    "end_epoch": 1567734849.053742,
-    "last_autosave_datetime": "Mon Sep  9 09:56:22 2019",
-    "last_autosave_epoch": 1568022982.124098,
-    "name": "ZeroDot1_CoinBlockerLists",
-    "previous_stats": {
-        "builds": 25,
-        "counter": {
-            "down": 11131,
-            "invalid": 7,
-            "tested": 27799,
-            "up": 16661
         },
         "volatile.list": 16760,
         "whitelisted.list": 16756
