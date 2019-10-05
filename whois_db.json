@@ -1114,6 +1114,11 @@
         "expiration_date": "06-mar-2020",
         "state": "future"
     },
+    "bitcoin.cz": {
+        "epoch": 1604793600,
+        "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
     "bitcoinaffiliatenetwork.com": {
         "epoch": 1578528000,
         "expiration_date": "09-jan-2020",
@@ -4592,6 +4597,11 @@
     "waterhole.io": {
         "epoch": 1611100800,
         "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
+    "webassembly.stream": {
+        "epoch": 1575936000,
+        "expiration_date": "10-dec-2019",
         "state": "future"
     },
     "webchain.live": {
