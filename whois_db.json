@@ -1879,6 +1879,11 @@
         "expiration_date": "28-may-2021",
         "state": "future"
     },
+    "cryptopool.org": {
+        "epoch": 1787788800,
+        "expiration_date": "27-aug-2026",
+        "state": "future"
+    },
     "cryptopros.com": {
         "epoch": 1589414400,
         "expiration_date": "14-may-2020",
@@ -2132,6 +2137,11 @@
     "etacontent.com": {
         "epoch": 1577318400,
         "expiration_date": "26-dec-2019",
+        "state": "future"
+    },
+    "etc-poolcrypto.org": {
+        "epoch": 1574726400,
+        "expiration_date": "26-nov-2019",
         "state": "future"
     },
     "eth-pocket.com": {
@@ -4772,6 +4782,11 @@
     "xn--etereum-yt3c.com": {
         "epoch": 1564876800,
         "expiration_date": "04-aug-2019",
+        "state": "past"
+    },
+    "xn--myetherwllet-ncb.org": {
+        "epoch": 1560038400,
+        "expiration_date": "09-jun-2019",
         "state": "past"
     },
     "xn--mymonro-x8a.com": {
