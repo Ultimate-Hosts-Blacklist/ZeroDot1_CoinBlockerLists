@@ -4039,6 +4039,11 @@
         "expiration_date": "01-aug-2020",
         "state": "future"
     },
+    "pushno.com": {
+        "epoch": 1582761600,
+        "expiration_date": "27-feb-2020",
+        "state": "future"
+    },
     "qp.si": {
         "epoch": 1603152000,
         "expiration_date": "20-oct-2020",
@@ -4392,6 +4397,11 @@
     "str1kee.com": {
         "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
+        "state": "past"
+    },
+    "streamdream.ws": {
+        "epoch": 1565568000,
+        "expiration_date": "12-aug-2019",
         "state": "past"
     },
     "streamplay.me": {
