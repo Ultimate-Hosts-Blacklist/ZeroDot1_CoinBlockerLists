@@ -284,6 +284,11 @@
         "expiration_date": "13-sep-2020",
         "state": "future"
     },
+    "365deposit.com": {
+        "epoch": 1599436800,
+        "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
     "365hourly.com": {
         "epoch": 1592611200,
         "expiration_date": "20-jun-2020",
@@ -3482,6 +3487,11 @@
     "miningexpress.com": {
         "epoch": 1578960000,
         "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "miningocean.org": {
+        "epoch": 1580688000,
+        "expiration_date": "03-feb-2020",
         "state": "future"
     },
     "miningpool.africa": {
