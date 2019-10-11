@@ -1,4 +1,9 @@
 {
+    "2fxltd.com": {
+        "epoch": 1584835200,
+        "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
     "800btc.com": {
         "epoch": 1589068800,
         "expiration_date": "10-may-2020",
@@ -39,14 +44,34 @@
         "expiration_date": "24-oct-2019",
         "state": "future"
     },
+    "asiacoin.co": {
+        "epoch": 1564963200,
+        "expiration_date": "05-aug-2019",
+        "state": "past"
+    },
     "automining.io": {
         "epoch": 1589068800,
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "blockfoundry.org": {
+        "epoch": 1587600000,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
+    },
+    "coinminex.com": {
+        "epoch": 1577491200,
+        "expiration_date": "28-dec-2019",
+        "state": "future"
+    },
     "cryptonotemining.org": {
         "epoch": 1595376000,
         "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "ethonline.io": {
+        "epoch": 1591833600,
+        "expiration_date": "11-jun-2020",
         "state": "future"
     },
     "fkpool.cn": {
@@ -83,6 +108,11 @@
         "epoch": 1527033600,
         "expiration_date": "23-may-2018",
         "state": "past"
+    },
+    "penguinpool.net": {
+        "epoch": 1608768000,
+        "expiration_date": "24-dec-2020",
+        "state": "future"
     },
     "rigpool.com": {
         "epoch": 1599091200,
