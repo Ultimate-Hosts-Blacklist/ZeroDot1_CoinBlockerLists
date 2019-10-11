@@ -1,4 +1,9 @@
 {
+    "1x24hours.com": {
+        "epoch": 1573084800,
+        "expiration_date": "07-nov-2019",
+        "state": "future"
+    },
     "2fxltd.com": {
         "epoch": 1584835200,
         "expiration_date": "22-mar-2020",
@@ -54,6 +59,11 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "bajarlo.net": {
+        "epoch": 1582156800,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
     "blockfoundry.org": {
         "epoch": 1587600000,
         "expiration_date": "23-apr-2020",
@@ -67,6 +77,11 @@
     "cryptonotemining.org": {
         "epoch": 1595376000,
         "expiration_date": "22-jul-2020",
+        "state": "future"
+    },
+    "durinsmine.com": {
+        "epoch": 1570924800,
+        "expiration_date": "13-oct-2019",
         "state": "future"
     },
     "ethonline.io": {
@@ -94,9 +109,19 @@
         "expiration_date": "08-may-2021",
         "state": "future"
     },
+    "lambomoon.club": {
+        "epoch": 1586217600,
+        "expiration_date": "07-apr-2020",
+        "state": "future"
+    },
     "like.fund": {
         "epoch": 1600128000,
         "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "lycheebit.com": {
+        "epoch": 1600560000,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "magiccoin.biz": {
@@ -114,14 +139,29 @@
         "expiration_date": "24-dec-2020",
         "state": "future"
     },
+    "ravencoin.world": {
+        "epoch": 1588636800,
+        "expiration_date": "05-may-2020",
+        "state": "future"
+    },
     "rigpool.com": {
         "epoch": 1599091200,
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "slushpool.com": {
+        "epoch": 1604102400,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "thewise.com": {
         "epoch": 1575936000,
         "expiration_date": "10-dec-2019",
+        "state": "future"
+    },
+    "viewyng.com": {
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "xzrm.com": {
