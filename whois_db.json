@@ -524,6 +524,11 @@
         "expiration_date": "29-jul-2019",
         "state": "past"
     },
+    "airbitclub-official.ru": {
+        "epoch": 1580601600,
+        "expiration_date": "02-feb-2020",
+        "state": "future"
+    },
     "airbitclub.com": {
         "epoch": 1726444800,
         "expiration_date": "16-sep-2024",
@@ -957,6 +962,11 @@
     "automoneysurf.com": {
         "epoch": 1600992000,
         "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
+    "auxiliarymine.com": {
+        "epoch": 1577059200,
+        "expiration_date": "23-dec-2019",
         "state": "future"
     },
     "avabitcoin.com": {
@@ -2859,6 +2869,11 @@
         "expiration_date": "05-jan-2020",
         "state": "future"
     },
+    "hellominer.com": {
+        "epoch": 1593820800,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
     "hemnes.win": {
         "epoch": 1579910400,
         "expiration_date": "25-jan-2020",
@@ -3529,12 +3544,7 @@
         "expiration_date": "03-feb-2020",
         "state": "future"
     },
-    "miningpool.africa": {
-        "epoch": 1575158400,
-        "expiration_date": "01-dec-2019",
-        "state": "future"
-    },
-    "miningpool.io": {
+    "mi"miningpool.io": {
         "epoch": 1586390400,
         "expiration_date": "09-apr-2020",
         "state": "future"
@@ -3855,6 +3865,11 @@
         "state": "future"
     },
     "ninaning.com": {
+        "e"epoch": 1585526400,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "ninaning.com": {
         "epoch": 1595980800,
         "expiration_date": "29-jul-2020",
         "state": "future"
@@ -4000,8 +4015,8 @@
         "state": "future"
     },
     "papoto.com": {
-        "epoch": 1570233600,
-        "expiration_date": "05-oct-2019",
+        "epoch": 1601856000,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "pcejuyhjucmkiny.ru": {
@@ -4816,12 +4831,7 @@
     },
     "ucrypto.net": {
         "epoch": 1656979200,
-        "expiration_date": "05-jul-2022",
-        "state": "future"
-    },
-    "ufocoin.co": {
-        "epoch": 1586390400,
-        "expiration_date": "09-apr-2020",
+    "expiration_date": "09-apr-2020",
         "state": "future"
     },
     "ukrpool.com": {
@@ -5145,8 +5155,8 @@
         "state": "future"
     },
     "xmrminingpro.com": {
-        "epoch": 1580083200,
-        "expiration_date": "27-jan-2020",
+        "epoch": 1200,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     },
     "xmrpool.com": {
@@ -5304,6 +5314,12 @@
         "expiration_date": "22-oct-2019",
         "state": "future"
     },
+    "zyrkminer.com": {
+        "epoch": 1592265600,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
+    }
+}
     "zyrkminer.com": {
         "epoch": 1592265600,
         "expiration_date": "16-jun-2020",
