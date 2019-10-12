@@ -94,6 +94,16 @@
         "expiration_date": "24-oct-2019",
         "state": "future"
     },
+    "amazingdeposit.com": {
+        "epoch": 1570838400,
+        "expiration_date": "12-oct-2019",
+        "state": "past"
+    },
+    "anzfinance.com": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
     "aprilcoin.com": {
         "epoch": 1579046400,
         "expiration_date": "15-jan-2020",
@@ -389,6 +399,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "gpuhash.org": {
+        "epoch": 1595462400,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
     "grinmint.com": {
         "epoch": 1593475200,
         "expiration_date": "30-jun-2020",
@@ -602,6 +617,11 @@
     "pool-etn.com": {
         "epoch": 1584316800,
         "expiration_date": "16-mar-2020",
+        "state": "future"
+    },
+    "pool.mn": {
+        "epoch": 1587427200,
+        "expiration_date": "21-apr-2020",
         "state": "future"
     },
     "pooltupi.com": {
