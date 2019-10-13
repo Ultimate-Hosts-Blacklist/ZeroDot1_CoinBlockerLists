@@ -19,6 +19,11 @@
         "expiration_date": "06-mar-2020",
         "state": "future"
     },
+    "12dailycoin.com": {
+        "epoch": 1589760000,
+        "expiration_date": "18-may-2020",
+        "state": "future"
+    },
     "1thash.com": {
         "epoch": 1648684800,
         "expiration_date": "31-mar-2022",
@@ -284,6 +289,11 @@
         "expiration_date": "14-may-2020",
         "state": "future"
     },
+    "coinlab.biz": {
+        "epoch": 1570060800,
+        "expiration_date": "03-oct-2019",
+        "state": "past"
+    },
     "coinminex.com": {
         "epoch": 1577491200,
         "expiration_date": "28-dec-2019",
@@ -483,6 +493,11 @@
         "epoch": 1760054400,
         "expiration_date": "10-oct-2025",
         "state": "future"
+    },
+    "freeproxy.ro": {
+        "epoch": 1567814400,
+        "expiration_date": "07-sep-2019",
+        "state": "past"
     },
     "freeyy.me": {
         "epoch": 1598572800,
@@ -712,6 +727,11 @@
     "mempool.com": {
         "epoch": 1731542400,
         "expiration_date": "14-nov-2024",
+        "state": "future"
+    },
+    "minecraftplay.org": {
+        "epoch": 1590710400,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "minemonero.pro": {
