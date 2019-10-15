@@ -4,6 +4,11 @@
         "expiration_date": "11-jun-2020",
         "state": "future"
     },
+    "agrarian-benefit.com": {
+        "epoch": 1601769600,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
     "altcoinpool.com": {
         "epoch": 1594598400,
         "expiration_date": "13-jul-2020",
@@ -39,6 +44,11 @@
         "expiration_date": "22-jul-2020",
         "state": "future"
     },
+    "directprimal.com": {
+        "epoch": 1604361600,
+        "expiration_date": "03-nov-2020",
+        "state": "future"
+    },
     "flnqmin.org": {
         "epoch": 1586649600,
         "expiration_date": "12-apr-2020",
@@ -47,6 +57,11 @@
     "graftpool.ovh": {
         "epoch": 1580774400,
         "expiration_date": "04-feb-2020",
+        "state": "future"
+    },
+    "haobtc.com": {
+        "epoch": 1771891200,
+        "expiration_date": "24-feb-2026",
         "state": "future"
     },
     "haopool.com": {
@@ -87,6 +102,11 @@
     "miningpoolhub.com": {
         "epoch": 1706313600,
         "expiration_date": "27-jan-2024",
+        "state": "future"
+    },
+    "mmpool.com": {
+        "epoch": 1645920000,
+        "expiration_date": "27-feb-2022",
         "state": "future"
     },
     "nibirupool.com": {
@@ -143,5 +163,10 @@
         "epoch": 1564876800,
         "expiration_date": "04-aug-2019",
         "state": "past"
+    },
+    "zhash.pro": {
+        "epoch": 1597881600,
+        "expiration_date": "20-aug-2020",
+        "state": "future"
     }
 }
