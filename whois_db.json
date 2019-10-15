@@ -1,4 +1,9 @@
 {
+    "100x-bitcoin.com": {
+        "epoch": 1565654400,
+        "expiration_date": "13-aug-2019",
+        "state": "past"
+    },
     "acpool.me": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
@@ -54,6 +59,11 @@
         "expiration_date": "29-apr-2020",
         "state": "future"
     },
+    "coinhive-manager.com": {
+        "epoch": 1577664000,
+        "expiration_date": "30-dec-2019",
+        "state": "future"
+    },
     "cpufan.club": {
         "epoch": 1582502400,
         "expiration_date": "24-feb-2020",
@@ -72,6 +82,11 @@
     "flnqmin.org": {
         "epoch": 1586649600,
         "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "garlicpool.org": {
+        "epoch": 1579564800,
+        "expiration_date": "21-jan-2020",
         "state": "future"
     },
     "graftpool.ovh": {
@@ -119,6 +134,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "minergate.com": {
+        "epoch": 1583280000,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
     "miningpoolhub.com": {
         "epoch": 1706313600,
         "expiration_date": "27-jan-2024",
@@ -152,6 +172,16 @@
     "ppoi.org": {
         "epoch": 1576281600,
         "expiration_date": "14-dec-2019",
+        "state": "future"
+    },
+    "ppxxmr.com": {
+        "epoch": 1609718400,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
+    "qrlmining.info": {
+        "epoch": 1593302400,
+        "expiration_date": "28-jun-2020",
         "state": "future"
     },
     "ravenminer.com": {
