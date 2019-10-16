@@ -4,6 +4,11 @@
         "expiration_date": "13-aug-2019",
         "state": "past"
     },
+    "10xbtc.net": {
+        "epoch": 1582848000,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "4ge.org": {
         "epoch": 1593129600,
         "expiration_date": "26-jun-2020",
@@ -47,6 +52,11 @@
     "bitconnectpool.co": {
         "epoch": 1577491200,
         "expiration_date": "28-dec-2019",
+        "state": "future"
+    },
+    "bloc-mining.com": {
+        "epoch": 1588377600,
+        "expiration_date": "02-may-2020",
         "state": "future"
     },
     "blockcooperation.com": {
@@ -234,9 +244,19 @@
         "expiration_date": "21-aug-2020",
         "state": "future"
     },
+    "stablemoneropool.com": {
+        "epoch": 1580083200,
+        "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
     "sumokoin.com": {
         "epoch": 1580947200,
         "expiration_date": "06-feb-2020",
+        "state": "future"
+    },
+    "sumominer.com": {
+        "epoch": 1582675200,
+        "expiration_date": "26-feb-2020",
         "state": "future"
     },
     "svchost.ru": {
@@ -283,6 +303,11 @@
         "epoch": 1564876800,
         "expiration_date": "04-aug-2019",
         "state": "past"
+    },
+    "zelerius.ru": {
+        "epoch": 1603756800,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
     },
     "zhash.pro": {
         "epoch": 1597881600,
