@@ -59,6 +59,11 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "99btc.net": {
+        "epoch": 1602201600,
+        "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
     "acpool.me": {
         "epoch": 1591833600,
         "expiration_date": "11-jun-2020",
@@ -77,6 +82,11 @@
     "aiomine.com": {
         "epoch": 1584835200,
         "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "alexainvest.com": {
+        "epoch": 1576195200,
+        "expiration_date": "13-dec-2019",
         "state": "future"
     },
     "alliancesystemclub.com": {
@@ -427,6 +437,11 @@
     "fastlink.pl": {
         "epoch": 1601337600,
         "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
+    "fkpool.cn": {
+        "epoch": 1659398400,
+        "expiration_date": "02-aug-2022",
         "state": "future"
     },
     "flnqmin.org": {
@@ -879,6 +894,11 @@
         "expiration_date": "04-jan-2024",
         "state": "future"
     },
+    "uupool.cn": {
+        "epoch": 1582502400,
+        "expiration_date": "24-feb-2020",
+        "state": "future"
+    },
     "uupool.com": {
         "epoch": 1606867200,
         "expiration_date": "02-dec-2020",
@@ -962,6 +982,11 @@
     "zhash.pro": {
         "epoch": 1597881600,
         "expiration_date": "20-aug-2020",
+        "state": "future"
+    },
+    "zlx.com.br": {
+        "epoch": 1602979200,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     }
 }
