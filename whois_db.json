@@ -104,6 +104,11 @@
         "expiration_date": "15-nov-2022",
         "state": "future"
     },
+    "bitstamp.me": {
+        "epoch": 1593561600,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
     "btcnos.com": {
         "epoch": 1601164800,
         "expiration_date": "27-sep-2020",
@@ -268,6 +273,11 @@
         "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
         "state": "past"
+    },
+    "googleanalytcs.com": {
+        "epoch": 1608681600,
+        "expiration_date": "23-dec-2020",
+        "state": "future"
     },
     "gpuhash.org": {
         "epoch": 1595462400,
