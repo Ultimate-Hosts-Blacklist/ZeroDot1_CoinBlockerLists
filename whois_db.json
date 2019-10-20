@@ -414,6 +414,11 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "khsys.pw": {
+        "epoch": 1566432000,
+        "expiration_date": "22-aug-2019",
+        "state": "past"
+    },
     "koto-pool.work": {
         "epoch": 1582848000,
         "expiration_date": "28-feb-2020",
@@ -522,6 +527,16 @@
     "okexysylgzo.ru": {
         "epoch": 1594080000,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "onlinereserchstatistics.online": {
+        "epoch": 1566777600,
+        "expiration_date": "26-aug-2019",
+        "state": "past"
+    },
+    "p2pool.io": {
+        "epoch": 1578528000,
+        "expiration_date": "09-jan-2020",
         "state": "future"
     },
     "pocketminer.co.uk": {
