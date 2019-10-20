@@ -217,7 +217,7 @@
     "exdynsrv.com": {
         "epoch": 1571529600,
         "expiration_date": "20-oct-2019",
-        "state": "future"
+        "state": "past"
     },
     "fairpool.cloud": {
         "epoch": 1579132800,
@@ -258,6 +258,11 @@
         "epoch": 1595462400,
         "expiration_date": "23-jul-2020",
         "state": "future"
+    },
+    "guest-stat.com": {
+        "epoch": 1564790400,
+        "expiration_date": "03-aug-2019",
+        "state": "past"
     },
     "hash4.life": {
         "epoch": 1577577600,
