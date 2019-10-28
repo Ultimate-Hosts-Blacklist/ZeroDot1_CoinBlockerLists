@@ -789,6 +789,11 @@
         "expiration_date": "11-dec-2019",
         "state": "future"
     },
+    "alpha-cash.com": {
+        "epoch": 1811548800,
+        "expiration_date": "29-may-2027",
+        "state": "future"
+    },
     "alpha-t.net": {
         "epoch": 1619049600,
         "expiration_date": "22-apr-2021",
@@ -1177,6 +1182,11 @@
     "atm2you.com": {
         "epoch": 1594771200,
         "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
+    "atomicbitcoin.com": {
+        "epoch": 1593216000,
+        "expiration_date": "27-jun-2020",
         "state": "future"
     },
     "atomminer.com": {
@@ -4694,6 +4704,11 @@
         "expiration_date": "27-feb-2020",
         "state": "future"
     },
+    "minerjet.com": {
+        "epoch": 1594512000,
+        "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
     "minermaniac.com": {
         "epoch": 1576108800,
         "expiration_date": "12-dec-2019",
@@ -4785,9 +4800,9 @@
         "state": "future"
     },
     "mining-room.com": {
-        "epoch": 1571702400,
-        "expiration_date": "22-oct-2019",
-        "state": "past"
+        "epoch": 1603324800,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
     },
     "mining.garden": {
         "epoch": 1581811200,
@@ -5362,6 +5377,11 @@
     "olecintri.com": {
         "epoch": 1572220800,
         "expiration_date": "28-oct-2019",
+        "state": "future"
+    },
+    "omegapool.cc": {
+        "epoch": 1586563200,
+        "expiration_date": "11-apr-2020",
         "state": "future"
     },
     "omine.org": {
@@ -6028,6 +6048,11 @@
         "epoch": 1566000000,
         "expiration_date": "17-aug-2019",
         "state": "past"
+    },
+    "server.com": {
+        "epoch": 1767139200,
+        "expiration_date": "31-dec-2025",
+        "state": "future"
     },
     "serverpower.net": {
         "epoch": 1577750400,
