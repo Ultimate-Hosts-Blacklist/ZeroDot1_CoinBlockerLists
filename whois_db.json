@@ -69,6 +69,11 @@
         "expiration_date": "26-dec-2019",
         "state": "future"
     },
+    "154pack.com": {
+        "epoch": 1567296000,
+        "expiration_date": "01-sep-2019",
+        "state": "past"
+    },
     "15bit.biz": {
         "epoch": 1595808000,
         "expiration_date": "27-jul-2020",
@@ -820,6 +825,11 @@
         "state": "future"
     },
     "binancecash.com": {
+        "epoch": 1585872000,
+        "expiration_date": "03-apr-2020",
+        "state": "future"
+    },
+    "binancesignin.com": {
         "epoch": 1585872000,
         "expiration_date": "03-apr-2020",
         "state": "future"
