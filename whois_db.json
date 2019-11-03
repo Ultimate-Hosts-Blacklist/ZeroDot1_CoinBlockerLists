@@ -259,6 +259,11 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "803mine.com": {
+        "epoch": 1566950400,
+        "expiration_date": "28-aug-2019",
+        "state": "past"
+    },
     "99miners.com": {
         "epoch": 1573516800,
         "expiration_date": "12-nov-2019",
@@ -2522,6 +2527,11 @@
     "serv1swork.com": {
         "epoch": 1604188800,
         "expiration_date": "01-nov-2020",
+        "state": "future"
+    },
+    "service4refresh.info": {
+        "epoch": 1594080000,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "shoptoptop.com": {
