@@ -1,19 +1,19 @@
 {
     "current_stats": {
-        "builds": 34,
+        "builds": 35,
         "counter": {
             "down": 12497,
             "invalid": 0,
-            "tested": 30959,
-            "up": 18462
+            "tested": 31468,
+            "up": 18971
         }
     },
     "currently_under_test": "1",
     "days_until_next_test": 2,
     "end_datetime": "Fri Nov  8 06:45:07 2019",
     "end_epoch": 1573195507.188703,
-    "last_autosave_datetime": "Sun Nov 10 11:54:12 2019",
-    "last_autosave_epoch": 1573386852.998506,
+    "last_autosave_datetime": "Sun Nov 10 12:36:36 2019",
+    "last_autosave_epoch": 1573389396.820302,
     "name": "ZeroDot1_CoinBlockerLists",
     "previous_stats": {
         "builds": 20,
