@@ -49,6 +49,11 @@
         "expiration_date": "27-jan-2020",
         "state": "future"
     },
+    "120bit.com": {
+        "epoch": 1583452800.0,
+        "expiration_date": "06-mar-2020",
+        "state": "future"
+    },
     "13xbtc.com": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
@@ -307,6 +312,11 @@
     "amazingbtcdeposit.com": {
         "epoch": 1581811200.0,
         "expiration_date": "16-feb-2020",
+        "state": "future"
+    },
+    "amazonhash.com": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
         "state": "future"
     },
     "androidapk.world": {
@@ -829,6 +839,11 @@
         "expiration_date": "22-dec-2019",
         "state": "future"
     },
+    "cryptopools.com": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
+        "state": "future"
+    },
     "cuev.in": {
         "epoch": 1606176000.0,
         "expiration_date": "24-nov-2020",
@@ -847,6 +862,11 @@
     "de-nis-ner-mi-5.info": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "deris.info": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "dlsft.com": {
@@ -1064,6 +1084,11 @@
         "expiration_date": "25-oct-2020",
         "state": "future"
     },
+    "hatevery.info": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "havio.pl": {
         "epoch": 1578182400.0,
         "expiration_date": "05-jan-2020",
@@ -1159,6 +1184,11 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "ldvpool.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "leak-hub.com": {
         "epoch": 1585785600.0,
         "expiration_date": "02-apr-2020",
@@ -1187,6 +1217,11 @@
     "litecoinp2pool.com": {
         "epoch": 1589760000.0,
         "expiration_date": "18-may-2020",
+        "state": "future"
+    },
+    "luckyaltcoin.com": {
+        "epoch": 1576627200.0,
+        "expiration_date": "18-dec-2019",
         "state": "future"
     },
     "luckypool.cn": {
@@ -1374,6 +1409,16 @@
         "expiration_date": "26-may-2020",
         "state": "future"
     },
+    "nimiqtest.net": {
+        "epoch": 1585526400.0,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
+    "nimpool.io": {
+        "epoch": 1576540800.0,
+        "expiration_date": "17-dec-2019",
+        "state": "future"
+    },
     "ninaning.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
@@ -1502,6 +1547,11 @@
     "projectpoi.com": {
         "epoch": 1576713600.0,
         "expiration_date": "19-dec-2019",
+        "state": "future"
+    },
+    "proxpool.com": {
+        "epoch": 1576022400.0,
+        "expiration_date": "11-dec-2019",
         "state": "future"
     },
     "proxy4life.org": {
@@ -1744,9 +1794,24 @@
         "expiration_date": "04-apr-2020",
         "state": "future"
     },
+    "www.fr": {
+        "epoch": 1587427200.0,
+        "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
     "xbasfbno.info": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
+    "xn--myetherwllet-ncb.org": {
+        "epoch": 1560038400.0,
+        "expiration_date": "09-jun-2019",
+        "state": "past"
+    },
+    "xpool.net": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
         "state": "future"
     },
     "xpoolx.com": {
