@@ -1,4 +1,9 @@
 {
+    "101010.pl": {
+        "epoch": 1584144000.0,
+        "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
     "10minutebitcoin.com": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
@@ -19,6 +24,11 @@
         "expiration_date": "14-jan-2021",
         "state": "future"
     },
+    "251coins.com": {
+        "epoch": 1596499200.0,
+        "expiration_date": "04-aug-2020",
+        "state": "future"
+    },
     "4kmine.com": {
         "epoch": 1776643200.0,
         "expiration_date": "20-apr-2026",
@@ -27,6 +37,11 @@
     "8bit.lt": {
         "epoch": 1579651200.0,
         "expiration_date": "22-jan-2020",
+        "state": "future"
+    },
+    "aapool.org": {
+        "epoch": 1587340800.0,
+        "expiration_date": "20-apr-2020",
         "state": "future"
     },
     "active-coin.com": {
@@ -49,6 +64,16 @@
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
+    "arionumpool.com": {
+        "epoch": 1581292800.0,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
+    "asiabits.com": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
+        "state": "future"
+    },
     "asicminingequipment.com": {
         "epoch": 1603670400.0,
         "expiration_date": "26-oct-2020",
@@ -59,14 +84,34 @@
         "expiration_date": "10-apr-2020",
         "state": "future"
     },
+    "auroramine.com": {
+        "epoch": 1600041600.0,
+        "expiration_date": "14-sep-2020",
+        "state": "future"
+    },
     "avanthourly.com": {
         "epoch": 1580169600.0,
         "expiration_date": "28-jan-2020",
         "state": "future"
     },
+    "basepush.com": {
+        "epoch": 1580342400.0,
+        "expiration_date": "30-jan-2020",
+        "state": "future"
+    },
     "beatingbytes.com": {
         "epoch": 1578960000.0,
         "expiration_date": "14-jan-2020",
+        "state": "future"
+    },
+    "beepool.org": {
+        "epoch": 1629158400.0,
+        "expiration_date": "17-aug-2021",
+        "state": "future"
+    },
+    "bitcoinhekaton.com": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
         "state": "future"
     },
     "bittrex.com": {
@@ -82,6 +127,11 @@
     "bohemianpool.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "clickfight.net": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "cloud-wp.org": {
@@ -124,6 +174,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "cryptmonero.com": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
     "crypto9coin.cf": {
         "epoch": 1577577600.0,
         "expiration_date": "29-dec-2019",
@@ -144,6 +199,11 @@
         "expiration_date": "09-jul-2020",
         "state": "future"
     },
+    "deltapool.net": {
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
     "dogecoin.dog": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
@@ -152,6 +212,11 @@
     "drkpool.com": {
         "epoch": 1578182400.0,
         "expiration_date": "05-jan-2020",
+        "state": "future"
+    },
+    "dzizsih.ru": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
         "state": "future"
     },
     "estream.nu": {
@@ -169,14 +234,34 @@
         "expiration_date": "10-jul-2020",
         "state": "future"
     },
+    "ethteam.com": {
+        "epoch": 1595289600.0,
+        "expiration_date": "21-jul-2020",
+        "state": "future"
+    },
+    "exdynsrv.com": {
+        "epoch": 1697760000.0,
+        "expiration_date": "20-oct-2023",
+        "state": "future"
+    },
     "fabulouspanda.com": {
         "epoch": 1592179200.0,
         "expiration_date": "15-jun-2020",
         "state": "future"
     },
+    "fastlink.pl": {
+        "epoch": 1601337600.0,
+        "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
     "fatisin.ru": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "fili.cc": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
         "state": "future"
     },
     "freshrefresher.com": {
@@ -189,9 +274,24 @@
         "expiration_date": "12-feb-2020",
         "state": "future"
     },
+    "gltminer.com": {
+        "epoch": 1575417600.0,
+        "expiration_date": "04-dec-2019",
+        "state": "future"
+    },
     "goldiam.org": {
         "epoch": 1575849600.0,
         "expiration_date": "09-dec-2019",
+        "state": "future"
+    },
+    "hashparty.io": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "hashunited.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
         "state": "future"
     },
     "hjnbvg.ru": {
@@ -239,6 +339,16 @@
         "expiration_date": "17-jul-2021",
         "state": "future"
     },
+    "minandoando.com": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
+    "minemonero.pro": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
     "minemoney.co": {
         "epoch": 1579305600.0,
         "expiration_date": "18-jan-2020",
@@ -247,6 +357,11 @@
     "minerclaim.net": {
         "epoch": 1593216000.0,
         "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
+    "minerpool.net": {
+        "epoch": 1595376000.0,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "minether.co": {
@@ -272,6 +387,11 @@
     "monero.farm": {
         "epoch": 1576195200.0,
         "expiration_date": "13-dec-2019",
+        "state": "future"
+    },
+    "nastyfans.org": {
+        "epoch": 1641686400.0,
+        "expiration_date": "09-jan-2022",
         "state": "future"
     },
     "netcodepool.org": {
@@ -304,6 +424,11 @@
         "expiration_date": "30-jan-2020",
         "state": "future"
     },
+    "poloniex.com": {
+        "epoch": 1578614400.0,
+        "expiration_date": "10-jan-2020",
+        "state": "future"
+    },
     "poloniex.support": {
         "epoch": 1603584000.0,
         "expiration_date": "25-oct-2020",
@@ -324,9 +449,24 @@
         "expiration_date": "06-sep-2019",
         "state": "past"
     },
+    "prohash.net": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "pullinfo.info": {
         "epoch": 1596240000.0,
         "expiration_date": "01-aug-2020",
+        "state": "future"
+    },
+    "randomsatoshi.win": {
+        "epoch": 1648080000.0,
+        "expiration_date": "24-mar-2022",
+        "state": "future"
+    },
+    "rmawm7mw.top": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "ron.si": {
@@ -342,6 +482,31 @@
     "sandpool.org": {
         "epoch": 1602806400.0,
         "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
+    "scryptpool.com": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
+    "showcoins.org": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "simplemining.net": {
+        "epoch": 1719792000.0,
+        "expiration_date": "01-jul-2024",
+        "state": "future"
+    },
+    "solopool.org": {
+        "epoch": 1581724800.0,
+        "expiration_date": "15-feb-2020",
+        "state": "future"
+    },
+    "somec.cc": {
+        "epoch": 1576540800.0,
+        "expiration_date": "17-dec-2019",
         "state": "future"
     },
     "sparechange.io": {
@@ -394,6 +559,11 @@
         "expiration_date": "21-aug-2021",
         "state": "future"
     },
+    "webchain.live": {
+        "epoch": 1576886400.0,
+        "expiration_date": "21-dec-2019",
+        "state": "future"
+    },
     "webcoin.me": {
         "epoch": 1583452800.0,
         "expiration_date": "06-mar-2020",
@@ -409,9 +579,24 @@
         "expiration_date": "08-nov-2020",
         "state": "future"
     },
+    "wpconnect.org": {
+        "epoch": 1602115200.0,
+        "expiration_date": "08-oct-2020",
+        "state": "future"
+    },
     "xn--mytherwallet-5vb.com": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "xpool.ca": {
+        "epoch": 1591056000.0,
+        "expiration_date": "02-jun-2020",
+        "state": "future"
+    },
+    "xpool.com": {
+        "epoch": 1637193600.0,
+        "expiration_date": "18-nov-2021",
         "state": "future"
     },
     "xserty.com": {
