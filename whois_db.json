@@ -9,6 +9,11 @@
         "expiration_date": "05-jan-2020",
         "state": "future"
     },
+    "100-btc.com": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
     "1000expert.com": {
         "epoch": 1581724800.0,
         "expiration_date": "15-feb-2020",
@@ -429,9 +434,19 @@
         "expiration_date": "01-nov-2020",
         "state": "future"
     },
+    "antminereurope.com": {
+        "epoch": 1594771200.0,
+        "expiration_date": "15-jul-2020",
+        "state": "future"
+    },
     "antmining.com": {
         "epoch": 1609027200.0,
         "expiration_date": "27-dec-2020",
+        "state": "future"
+    },
+    "apdrive.win": {
+        "epoch": 1686268800.0,
+        "expiration_date": "09-jun-2023",
         "state": "future"
     },
     "aprexfund.com": {
@@ -632,6 +647,11 @@
     "basementpool.org": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "basepush.com": {
+        "epoch": 1580342400.0,
+        "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "bayception.org": {
@@ -1027,6 +1047,11 @@
     "coinerra.com": {
         "epoch": 1600992000.0,
         "expiration_date": "25-sep-2020",
+        "state": "future"
+    },
+    "coinhiveproxy.com": {
+        "epoch": 1604620800.0,
+        "expiration_date": "06-nov-2020",
         "state": "future"
     },
     "coinhub.win": {
