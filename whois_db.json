@@ -424,6 +424,11 @@
         "expiration_date": "03-nov-2020",
         "state": "future"
     },
+    "99btc.net": {
+        "epoch": 1570579200.0,
+        "expiration_date": "09-oct-2019",
+        "state": "past"
+    },
     "9deposit.com": {
         "epoch": 1586908800.0,
         "expiration_date": "15-apr-2020",
@@ -597,6 +602,11 @@
     "aikapool.com": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "aiomine.com": {
+        "epoch": 1584835200.0,
+        "expiration_date": "22-mar-2020",
         "state": "future"
     },
     "airbitclub-official.ru": {
