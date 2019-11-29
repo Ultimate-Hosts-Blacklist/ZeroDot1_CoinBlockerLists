@@ -1439,6 +1439,11 @@
         "expiration_date": "30-may-2020",
         "state": "future"
     },
+    "binance.center": {
+        "epoch": 1583280000.0,
+        "expiration_date": "04-mar-2020",
+        "state": "future"
+    },
     "binance.click": {
         "epoch": 1598745600.0,
         "expiration_date": "30-aug-2020",
@@ -4122,6 +4127,11 @@
     "koto-pool.work": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "krunzy.com": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "kryptonchain.org": {
