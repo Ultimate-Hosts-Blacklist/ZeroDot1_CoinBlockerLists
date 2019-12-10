@@ -1,4 +1,9 @@
 {
+    "12usd.biz": {
+        "epoch": 1610582400.0,
+        "expiration_date": "14-jan-2021",
+        "state": "future"
+    },
     "154pack.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -9,9 +14,19 @@
         "expiration_date": "28-may-2020",
         "state": "future"
     },
+    "42v3.io": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
     "5bit.biz": {
         "epoch": 1576368000.0,
         "expiration_date": "15-dec-2019",
+        "state": "future"
+    },
+    "7blockchain.net": {
+        "epoch": 1586736000.0,
+        "expiration_date": "13-apr-2020",
         "state": "future"
     },
     "accessadv.com": {
@@ -39,6 +54,16 @@
         "expiration_date": "05-feb-2020",
         "state": "future"
     },
+    "anzfinance.com": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
+    "aprilcoin.com": {
+        "epoch": 1579046400.0,
+        "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
     "aquacha.in": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
@@ -47,6 +72,11 @@
     "arrowbtc.com": {
         "epoch": 1617321600.0,
         "expiration_date": "02-apr-2021",
+        "state": "future"
+    },
+    "atomminer.com": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
         "state": "future"
     },
     "atpool.party": {
@@ -104,6 +134,11 @@
         "expiration_date": "12-dec-2019",
         "state": "future"
     },
+    "dapool.me": {
+        "epoch": 1596153600.0,
+        "expiration_date": "31-jul-2020",
+        "state": "future"
+    },
     "dzizsih.ru": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
@@ -112,6 +147,11 @@
     "e-libra.ru": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "eggpool.net": {
+        "epoch": 1602028800.0,
+        "expiration_date": "07-oct-2020",
         "state": "future"
     },
     "elderhash.com": {
@@ -124,14 +164,29 @@
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "etgd.com": {
+        "epoch": 1601164800.0,
+        "expiration_date": "27-sep-2020",
+        "state": "future"
+    },
     "get2mine.com": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
         "state": "future"
     },
+    "hashto.cash": {
+        "epoch": 1569542400.0,
+        "expiration_date": "27-sep-2019",
+        "state": "past"
+    },
     "intrepidpool.com": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "jqassets.download": {
+        "epoch": 1585440000.0,
+        "expiration_date": "29-mar-2020",
         "state": "future"
     },
     "ledhenone.com": {
@@ -167,6 +222,16 @@
     "p2pool.co": {
         "epoch": 1606953600.0,
         "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
+    "p2pool.work": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
+    "pickaxe.pro": {
+        "epoch": 1580342400.0,
+        "expiration_date": "30-jan-2020",
         "state": "future"
     },
     "poolbux.com": {
