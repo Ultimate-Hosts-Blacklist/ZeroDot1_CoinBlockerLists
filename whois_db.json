@@ -1029,6 +1029,11 @@
         "expiration_date": "23-feb-2020",
         "state": "future"
     },
+    "cryptity.com": {
+        "epoch": 1590105600.0,
+        "expiration_date": "22-may-2020",
+        "state": "future"
+    },
     "crypto-daio.co.uk": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
@@ -1127,6 +1132,11 @@
     "cryptopool.net": {
         "epoch": 1604966400.0,
         "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
+    "cryptopool.org": {
+        "epoch": 1787788800.0,
+        "expiration_date": "27-aug-2026",
         "state": "future"
     },
     "cryptopool.xyz": {
@@ -1547,6 +1557,11 @@
     "hdpool.com": {
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
+        "state": "future"
+    },
+    "heato.info": {
+        "epoch": 1602892800.0,
+        "expiration_date": "17-oct-2020",
         "state": "future"
     },
     "hellburn.ru": {
@@ -2629,6 +2644,11 @@
         "expiration_date": "14-may-2020",
         "state": "future"
     },
+    "turtlecoin.fr": {
+        "epoch": 1582329600.0,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
     "ucrypto.net": {
         "epoch": 1656979200.0,
         "expiration_date": "05-jul-2022",
@@ -2733,6 +2753,11 @@
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
         "state": "future"
+    },
+    "xmrminingpool.net": {
+        "epoch": 1571443200.0,
+        "expiration_date": "19-oct-2019",
+        "state": "past"
     },
     "xmrminingproxy.com": {
         "epoch": 1576972800.0,
