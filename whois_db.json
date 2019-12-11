@@ -294,6 +294,11 @@
         "expiration_date": "16-jan-2020",
         "state": "future"
     },
+    "albionunion.com": {
+        "epoch": 1681171200.0,
+        "expiration_date": "11-apr-2023",
+        "state": "future"
+    },
     "alfie.com": {
         "epoch": 1761091200.0,
         "expiration_date": "22-oct-2025",
@@ -442,6 +447,11 @@
     "arbitragecoins.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
+    "arcpool.com": {
+        "epoch": 1605225600.0,
+        "expiration_date": "13-nov-2020",
         "state": "future"
     },
     "arcticrise.com": {
@@ -1169,6 +1179,11 @@
         "expiration_date": "21-jun-2023",
         "state": "future"
     },
+    "durinsmine.com": {
+        "epoch": 1570924800.0,
+        "expiration_date": "13-oct-2019",
+        "state": "past"
+    },
     "dwp3ce9c.top": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
@@ -1284,9 +1299,19 @@
         "expiration_date": "23-may-2020",
         "state": "future"
     },
+    "flightsy.win": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "focus-pool.com": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
+    "formulawire.com": {
+        "epoch": 1592697600.0,
+        "expiration_date": "21-jun-2020",
         "state": "future"
     },
     "freebitco.in": {
@@ -1424,6 +1449,11 @@
         "expiration_date": "09-apr-2022",
         "state": "future"
     },
+    "happysatoshi.com": {
+        "epoch": 1658793600.0,
+        "expiration_date": "26-jul-2022",
+        "state": "future"
+    },
     "hashgang.io": {
         "epoch": 1579737600.0,
         "expiration_date": "23-jan-2020",
@@ -1517,6 +1547,11 @@
     "imhard4.men": {
         "epoch": 1591920000.0,
         "expiration_date": "12-jun-2020",
+        "state": "future"
+    },
+    "innovamine.io": {
+        "epoch": 1673913600.0,
+        "expiration_date": "17-jan-2023",
         "state": "future"
     },
     "insdrbot.com": {
@@ -1759,6 +1794,11 @@
         "expiration_date": "05-feb-2021",
         "state": "future"
     },
+    "miner.tokyo": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "minerall.io": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
@@ -1798,6 +1838,11 @@
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
         "state": "future"
+    },
+    "miningpool.top": {
+        "epoch": 1572307200.0,
+        "expiration_date": "29-oct-2019",
+        "state": "past"
     },
     "miningspeed.com": {
         "epoch": 1599264000.0,
@@ -2032,6 +2077,11 @@
     "pertholin.com": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
+        "state": "future"
+    },
+    "petahash.io": {
+        "epoch": 1595376000.0,
+        "expiration_date": "22-jul-2020",
         "state": "future"
     },
     "phoneum.io": {
@@ -2657,6 +2707,11 @@
     "zona.plus": {
         "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "zyrkminer.com": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     }
 }
