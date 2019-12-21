@@ -579,6 +579,11 @@
         "expiration_date": "30-nov-2020",
         "state": "future"
     },
+    "alfie.com": {
+        "epoch": 1761091200.0,
+        "expiration_date": "22-oct-2025",
+        "state": "future"
+    },
     "alfmine.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -1749,6 +1754,11 @@
         "expiration_date": "11-feb-2020",
         "state": "future"
     },
+    "cloudflare.solutions": {
+        "epoch": 1581379200.0,
+        "expiration_date": "11-feb-2020",
+        "state": "future"
+    },
     "cmmmine.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
@@ -2394,6 +2404,11 @@
         "expiration_date": "04-jul-2021",
         "state": "future"
     },
+    "doctorcoin.cc": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
+        "state": "future"
+    },
     "dodopool.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
@@ -2483,6 +2498,11 @@
         "epoch": 1574812800.0,
         "expiration_date": "27-nov-2019",
         "state": "past"
+    },
+    "elicoin.net": {
+        "epoch": 1580515200.0,
+        "expiration_date": "01-feb-2020",
+        "state": "future"
     },
     "elitehash.net": {
         "epoch": 1584403200.0,
@@ -4787,6 +4807,11 @@
     "qp.si": {
         "epoch": 1603152000.0,
         "expiration_date": "20-oct-2020",
+        "state": "future"
+    },
+    "qpool.info": {
+        "epoch": 1581552000.0,
+        "expiration_date": "13-feb-2020",
         "state": "future"
     },
     "qrlmining.info": {
