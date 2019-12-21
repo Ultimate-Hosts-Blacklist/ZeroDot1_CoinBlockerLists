@@ -45,8 +45,8 @@
 0.0.0.0 0-201.openvpn.f2pool.com
 0.0.0.0 0-208.openvpn.f2pool.com
 0.0.0.0 0-224.openvpn.f2pool.com
-0.0.0.0 0227.openvpn.f2pool.com
 0.0.0.0 0-227.openvpn.f2pool.com
+0.0.0.0 0227.openvpn.f2pool.com
 0.0.0.0 0-231.openvpn.f2pool.com
 0.0.0.0 0-232.openvpn.f2pool.com
 0.0.0.0 0-26.openvpn.f2pool.com
@@ -703,6 +703,7 @@
 0.0.0.0 ablen04.tk
 0.0.0.0 ablen05.tk
 0.0.0.0 ablen06.tk
+0.0.0.0 ablen09.tk
 0.0.0.0 ablen12.tk
 0.0.0.0 abnbtc.com
 0.0.0.0 about.coinfirm.io
@@ -2137,8 +2138,8 @@
 0.0.0.0 btg.bcmonster.com
 0.0.0.0 btg.beepool.org
 0.0.0.0 btg.bitpool.ro
-0.0.0.0 btg_cn.happy2mine.com
 0.0.0.0 btgcn.happy2mine.com
+0.0.0.0 btg_cn.happy2mine.com
 0.0.0.0 btg.dnsseed.minertopia.org
 0.0.0.0 btg_en.happy2mine.com
 0.0.0.0 btg.eqpool.cash
@@ -2828,8 +2829,8 @@
 0.0.0.0 cryptopools.wattpool.net
 0.0.0.0 cryptopool.tk
 0.0.0.0 cryptoprepaidcardglobal.mining.sg
-0.0.0.0 crypto-prepaidcard.mining.sg
 0.0.0.0 cryptoprepaidcard.mining.sg
+0.0.0.0 crypto-prepaidcard.mining.sg
 0.0.0.0 cryptotabstart.cryptobrowser.site
 0.0.0.0 cs1.fix.btcc.com
 0.0.0.0 cs.bitcoin.co.pt
@@ -3129,8 +3130,8 @@
 0.0.0.0 dexim.space
 0.0.0.0 dgb.coinstop.me
 0.0.0.0 dgb-groestl.theblocksfactory.com
-0.0.0.0 dgb.scrypt.coinstop.me
 0.0.0.0 dgb-scrypt.coinstop.me
+0.0.0.0 dgb.scrypt.coinstop.me
 0.0.0.0 dgb-scrypt-nl.hashing.space
 0.0.0.0 dgb-scrypt-sg.hashing.space
 0.0.0.0 dgb-scrypt-tx.hashing.space
@@ -3822,6 +3823,7 @@
 0.0.0.0 eu.black-pool.net
 0.0.0.0 eu.btc.pool.minergate.com
 0.0.0.0 eu.centralcavern.uk
+0.0.0.0 eu.cf
 0.0.0.0 eu.cfcnet.to
 0.0.0.0 eu.cfcnet.top
 0.0.0.0 eu.coinmine.pl
@@ -3916,10 +3918,10 @@
 0.0.0.0 eu.solo.ethereum.wattpool.net
 0.0.0.0 eu.solo.eth.wattpool.net
 0.0.0.0 eu-stratum.mwgrinpool.com
-0.0.0.0 eu-stratum.node.viaxmr.com
 0.0.0.0 eu.stratum.node.viaxmr.com
-0.0.0.0 eu.stratum.viaxmr.com
+0.0.0.0 eu-stratum.node.viaxmr.com
 0.0.0.0 eu-stratum.viaxmr.com
+0.0.0.0 eu.stratum.viaxmr.com
 0.0.0.0 eu.suprnova.cc
 0.0.0.0 eu-swap.sushipool.com
 0.0.0.0 eu-test.sushipool.com
@@ -4229,8 +4231,8 @@
 0.0.0.0 frankfurt01.sumo.nodes.hashvault.pro
 0.0.0.0 frankfurt01.triton.nodes.hashvault.pro
 0.0.0.0 frankfurt01.turtle.nodes.hashvault.pro
-0.0.0.0 frankfurt01.xcash.hashvault.pro
 0.0.0.0 frankfurt01.x-cash.hashvault.pro
+0.0.0.0 frankfurt01.xcash.hashvault.pro
 0.0.0.0 frankfurt01.xcash.nodes.hashvault.pro
 0.0.0.0 frankfurt02.electroneum.hashvault.pro
 0.0.0.0 frankfurt02.electroneum.nodes.hashvault.pro
@@ -5241,10 +5243,10 @@
 0.0.0.0 jps.btcc.com
 0.0.0.0 jp.simplemining.net
 0.0.0.0 jp-stratum.btcc.com
-0.0.0.0 jp.stratum.node.viaxmr.com
 0.0.0.0 jp-stratum.node.viaxmr.com
-0.0.0.0 jp-stratum.viaxmr.com
+0.0.0.0 jp.stratum.node.viaxmr.com
 0.0.0.0 jp.stratum.viaxmr.com
+0.0.0.0 jp-stratum.viaxmr.com
 0.0.0.0 jqassets.do
 0.0.0.0 jqcdn.do
 0.0.0.0 jqcdn.download
@@ -6435,8 +6437,8 @@
 0.0.0.0 mxt.node.coin-miners.info
 0.0.0.0 mx.uupool.com
 0.0.0.0 mx.zpool.ca
-0.0.0.0 my-02.cryptobrowser.site
 0.0.0.0 my02.cryptobrowser.site
+0.0.0.0 my-02.cryptobrowser.site
 0.0.0.0 myadstats.com
 0.0.0.0 myatherwallet.biz
 0.0.0.0 my-builds.ru
@@ -9568,8 +9570,8 @@
 0.0.0.0 todogecoin.biz
 0.0.0.0 toftofcal.com
 0.0.0.0 tokendebitcard.mining.sg
-0.0.0.0 tokensale.pool.golix.com
 0.0.0.0 token-sale.pool.golix.com
+0.0.0.0 tokensale.pool.golix.com
 0.0.0.0 tokio01.minemonero.pro
 0.0.0.0 tokio.minemonero.pro
 0.0.0.0 tokomaru.nimiqpool.com
@@ -10022,8 +10024,8 @@
 0.0.0.0 us.solo.ethereum.wattpool.net
 0.0.0.0 us.solo.eth.wattpool.net
 0.0.0.0 us.stratum.node.viaxmr.com
-0.0.0.0 us.stratum.viaxmr.com
 0.0.0.0 us-stratum.viaxmr.com
+0.0.0.0 us.stratum.viaxmr.com
 0.0.0.0 us.trtl.semipool.com
 0.0.0.0 us.vcsa.n3rd3d.com
 0.0.0.0 us.voidr.net
@@ -10035,8 +10037,8 @@
 0.0.0.0 us-west.datapaw.net
 0.0.0.0 us-west.ethash-hub.miningpoolhub.com
 0.0.0.0 uswest.loki.blockfoundry.org
-0.0.0.0 us-west.multipool.com
 0.0.0.0 uswest.multipool.com
+0.0.0.0 us-west.multipool.com
 0.0.0.0 us-west.pool.gold
 0.0.0.0 us-west.soyminero.es
 0.0.0.0 us-west.sushipool.com
@@ -10251,8 +10253,8 @@
 0.0.0.0 vtx.suprnova.cc
 0.0.0.0 vu-8a2a0.btcc.com
 0.0.0.0 vu-8.static.btcc.com
-0.0.0.0 vu.static.btcc.com
 0.0.0.0 vu-.static.btcc.com
+0.0.0.0 vu.static.btcc.com
 0.0.0.0 vvv.suprnova.cc
 0.0.0.0 vxelkrhl.info
 0.0.0.0 vzlin1.aikapool.com
@@ -11696,8 +11698,8 @@
 0.0.0.0 www.cryptopoolpond.com
 0.0.0.0 www.cryptopool.tk
 0.0.0.0 www.cryptoprepaidcardglobal.mining.sg
-0.0.0.0 www.cryptoprepaidcard.mining.sg
 0.0.0.0 www.crypto-prepaidcard.mining.sg
+0.0.0.0 www.cryptoprepaidcard.mining.sg
 0.0.0.0 www.cryptosales.eu
 0.0.0.0 www.csgoports.com
 0.0.0.0 www.ctlrnwbv.ru
