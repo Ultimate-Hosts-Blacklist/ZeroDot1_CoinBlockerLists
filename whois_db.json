@@ -1854,6 +1854,11 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "catspool.org": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
     "ccminer.org": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
@@ -2892,6 +2897,11 @@
     "etzbnfuigipwvs.ru": {
         "epoch": 1594339200.0,
         "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
+    "eu.cf": {
+        "epoch": 1714867200.0,
+        "expiration_date": "05-may-2024",
         "state": "future"
     },
     "excc.co": {
@@ -4749,6 +4759,11 @@
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
+    "nosuchpool.cloud": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
     "novaexchange.com": {
         "epoch": 1610668800.0,
         "expiration_date": "15-jan-2021",
@@ -6343,6 +6358,11 @@
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
         "state": "future"
+    },
+    "xavieron.us": {
+        "epoch": 1571702400.0,
+        "expiration_date": "22-oct-2019",
+        "state": "past"
     },
     "xbasfbno.info": {
         "epoch": 1582588800.0,
