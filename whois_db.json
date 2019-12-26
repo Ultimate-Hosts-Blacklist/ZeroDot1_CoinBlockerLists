@@ -154,6 +154,11 @@
         "expiration_date": "11-oct-2020",
         "state": "future"
     },
+    "automaticbitcome.com": {
+        "epoch": 1610236800.0,
+        "expiration_date": "10-jan-2021",
+        "state": "future"
+    },
     "avabitcoin.com": {
         "epoch": 1604880000.0,
         "expiration_date": "09-nov-2020",
@@ -239,6 +244,11 @@
         "expiration_date": "28-apr-2020",
         "state": "future"
     },
+    "bloc-mining.us": {
+        "epoch": 1588377600.0,
+        "expiration_date": "02-may-2020",
+        "state": "future"
+    },
     "blockchaiun.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
@@ -314,6 +324,16 @@
         "expiration_date": "15-jan-2020",
         "state": "future"
     },
+    "coincadence.com": {
+        "epoch": 1709596800.0,
+        "expiration_date": "05-mar-2024",
+        "state": "future"
+    },
+    "coinhive.com": {
+        "epoch": 1606780800.0,
+        "expiration_date": "01-dec-2020",
+        "state": "future"
+    },
     "coinminer.space": {
         "epoch": 1591660800.0,
         "expiration_date": "09-jun-2020",
@@ -334,9 +354,19 @@
         "expiration_date": "29-dec-2019",
         "state": "future"
     },
+    "cryptoasiapool.com": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
     "cryptoblocks.site": {
         "epoch": 1596931200.0,
         "expiration_date": "09-aug-2020",
+        "state": "future"
+    },
+    "cryptocoin.club": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
         "state": "future"
     },
     "cryptogreek.cafe": {
@@ -624,6 +654,11 @@
         "expiration_date": "12-dec-2020",
         "state": "future"
     },
+    "minertopia.org": {
+        "epoch": 1585526400.0,
+        "expiration_date": "30-mar-2020",
+        "state": "future"
+    },
     "minetrtl.us": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
@@ -633,6 +668,11 @@
         "epoch": 1581897600.0,
         "expiration_date": "17-feb-2020",
         "state": "future"
+    },
+    "miningpool.africa": {
+        "epoch": 1575158400.0,
+        "expiration_date": "01-dec-2019",
+        "state": "past"
     },
     "miningpoolhouse.com": {
         "epoch": 1599436800.0,
@@ -744,6 +784,11 @@
         "expiration_date": "23-may-2018",
         "state": "past"
     },
+    "p00l.net": {
+        "epoch": 1581033600.0,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
     "pickaxe.pro": {
         "epoch": 1580342400.0,
         "expiration_date": "30-jan-2020",
@@ -767,6 +812,11 @@
     "pool-moscow.ru": {
         "epoch": 1589846400.0,
         "expiration_date": "19-may-2020",
+        "state": "future"
+    },
+    "pool.pink": {
+        "epoch": 1578528000.0,
+        "expiration_date": "09-jan-2020",
         "state": "future"
     },
     "pooldd.com": {
@@ -819,6 +869,11 @@
         "expiration_date": "21-feb-2020",
         "state": "future"
     },
+    "server.com": {
+        "epoch": 1767139200.0,
+        "expiration_date": "31-dec-2025",
+        "state": "future"
+    },
     "silimbompom.com": {
         "epoch": 1588032000.0,
         "expiration_date": "28-apr-2020",
@@ -854,6 +909,16 @@
         "expiration_date": "08-apr-2020",
         "state": "future"
     },
+    "solomining.io": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
+    "spectresecurity.io": {
+        "epoch": 1596067200.0,
+        "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
     "srcu.com": {
         "epoch": 1642118400.0,
         "expiration_date": "14-jan-2022",
@@ -879,6 +944,11 @@
         "expiration_date": "09-may-2020",
         "state": "future"
     },
+    "terethat.ru": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
     "terrahash.cc": {
         "epoch": 1597708800.0,
         "expiration_date": "18-aug-2020",
@@ -894,9 +964,19 @@
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
+    "unrummaged.com": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
+        "state": "future"
+    },
     "viabtc.com": {
         "epoch": 1734912000.0,
         "expiration_date": "23-dec-2024",
+        "state": "future"
+    },
+    "webchain.network": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "webxmr.com": {
