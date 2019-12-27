@@ -159,10 +159,20 @@
         "expiration_date": "17-sep-2020",
         "state": "future"
     },
+    "acpool.me": {
+        "epoch": 1591833600.0,
+        "expiration_date": "11-jun-2020",
+        "state": "future"
+    },
     "adamantbank.com": {
         "epoch": 1602720000.0,
         "expiration_date": "15-oct-2020",
         "state": "future"
+    },
+    "advanced-investors.com": {
+        "epoch": 1571184000.0,
+        "expiration_date": "16-oct-2019",
+        "state": "past"
     },
     "aeonhash.com": {
         "epoch": 1608422400.0,
@@ -467,6 +477,11 @@
     "binance.live": {
         "epoch": 1611792000.0,
         "expiration_date": "28-jan-2021",
+        "state": "future"
+    },
+    "binance.tools": {
+        "epoch": 1590710400.0,
+        "expiration_date": "29-may-2020",
         "state": "future"
     },
     "binanceweb.com": {
@@ -779,6 +794,11 @@
         "expiration_date": "27-jun-2020",
         "state": "future"
     },
+    "digxmr.com": {
+        "epoch": 1595635200.0,
+        "expiration_date": "25-jul-2020",
+        "state": "future"
+    },
     "doubleclick3.xyz": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
@@ -1048,6 +1068,11 @@
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
         "state": "future"
+    },
+    "koinpool.com": {
+        "epoch": 1572307200.0,
+        "expiration_date": "29-oct-2019",
+        "state": "past"
     },
     "kryptonchain.org": {
         "epoch": 1597190400.0,
@@ -1334,6 +1359,11 @@
         "expiration_date": "18-nov-2020",
         "state": "future"
     },
+    "pcejuyhjucmkiny.ru": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
     "pertholin.com": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
@@ -1449,6 +1479,11 @@
         "expiration_date": "13-feb-2020",
         "state": "future"
     },
+    "qrlmining.info": {
+        "epoch": 1593302400.0,
+        "expiration_date": "28-jun-2020",
+        "state": "future"
+    },
     "quantumminingpool.com": {
         "epoch": 1582675200.0,
         "expiration_date": "26-feb-2020",
@@ -1483,6 +1518,11 @@
         "epoch": 1593648000.0,
         "expiration_date": "02-jul-2020",
         "state": "future"
+    },
+    "rig.tokyo": {
+        "epoch": 1573862400.0,
+        "expiration_date": "16-nov-2019",
+        "state": "past"
     },
     "rigminingpool.com": {
         "epoch": 1609545600.0,
