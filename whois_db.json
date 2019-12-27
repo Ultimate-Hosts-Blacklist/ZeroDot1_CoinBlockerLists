@@ -9,6 +9,16 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "5miner.com": {
+        "epoch": 1607731200.0,
+        "expiration_date": "12-dec-2020",
+        "state": "future"
+    },
+    "airproxyunblocked.org": {
+        "epoch": 1603584000.0,
+        "expiration_date": "25-oct-2020",
+        "state": "future"
+    },
     "alfie.com": {
         "epoch": 1761091200.0,
         "expiration_date": "22-oct-2025",
@@ -44,10 +54,60 @@
         "expiration_date": "16-dec-2020",
         "state": "future"
     },
+    "cryptodig.ru": {
+        "epoch": 1603756800.0,
+        "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
+    "cryptonote.social": {
+        "epoch": 1579737600.0,
+        "expiration_date": "23-jan-2020",
+        "state": "future"
+    },
+    "digipools.org": {
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
+    "happypool.co": {
+        "epoch": 1600300800.0,
+        "expiration_date": "17-sep-2020",
+        "state": "future"
+    },
+    "minerworldpools.com": {
+        "epoch": 1605744000.0,
+        "expiration_date": "19-nov-2020",
+        "state": "future"
+    },
+    "monerominers.net": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
+        "state": "future"
+    },
+    "newcpucoins.com": {
+        "epoch": 1579046400.0,
+        "expiration_date": "15-jan-2020",
+        "state": "future"
+    },
+    "offerreality.com": {
+        "epoch": 1598227200.0,
+        "expiration_date": "24-aug-2020",
+        "state": "future"
+    },
     "onvid.club": {
         "epoch": 1571529600.0,
         "expiration_date": "20-oct-2019",
         "state": "past"
+    },
+    "pandaminer.com": {
+        "epoch": 1790035200.0,
+        "expiration_date": "22-sep-2026",
+        "state": "future"
+    },
+    "parspool.net": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
     },
     "plpool.org": {
         "epoch": 1588204800.0,
@@ -57,6 +117,11 @@
     "poolin.com": {
         "epoch": 1747958400.0,
         "expiration_date": "23-may-2025",
+        "state": "future"
+    },
+    "pr0gram.org": {
+        "epoch": 1606176000.0,
+        "expiration_date": "24-nov-2020",
         "state": "future"
     },
     "qp.si": {
@@ -82,6 +147,16 @@
     "wolfpackbot.com": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
+        "state": "future"
+    },
+    "xmrminingproxy.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
+    "xpool.net": {
+        "epoch": 1590192000.0,
+        "expiration_date": "23-may-2020",
         "state": "future"
     }
 }
