@@ -349,6 +349,11 @@
         "expiration_date": "02-apr-2021",
         "state": "future"
     },
+    "arsmine.com": {
+        "epoch": 1571356800.0,
+        "expiration_date": "18-oct-2019",
+        "state": "past"
+    },
     "asiabits.com": {
         "epoch": 1602892800.0,
         "expiration_date": "17-oct-2020",
@@ -422,6 +427,11 @@
     "backup-pool.com": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
+    "bacm.ro": {
+        "epoch": 1660435200.0,
+        "expiration_date": "14-aug-2022",
         "state": "future"
     },
     "baikalmine.com": {
@@ -503,6 +513,16 @@
         "epoch": 1573257600.0,
         "expiration_date": "09-nov-2019",
         "state": "past"
+    },
+    "bitstamp.me": {
+        "epoch": 1593561600.0,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
+    "bixbite.pro": {
+        "epoch": 1587600000.0,
+        "expiration_date": "23-apr-2020",
+        "state": "future"
     },
     "bkkmining.asia": {
         "epoch": 1589673600.0,
@@ -1439,6 +1459,11 @@
         "expiration_date": "24-nov-2020",
         "state": "future"
     },
+    "pro100miners.ru": {
+        "epoch": 1583712000.0,
+        "expiration_date": "09-mar-2020",
+        "state": "future"
+    },
     "protonmine.com": {
         "epoch": 1585267200.0,
         "expiration_date": "27-mar-2020",
@@ -1502,6 +1527,11 @@
     "raptorpool.org": {
         "epoch": 1605571200.0,
         "expiration_date": "17-nov-2020",
+        "state": "future"
+    },
+    "rcyclmnrepv.com": {
+        "epoch": 1579219200.0,
+        "expiration_date": "17-jan-2020",
         "state": "future"
     },
     "rcyclmnrhgntry.com": {
@@ -1584,6 +1614,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "somec.cc": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
+        "state": "future"
+    },
     "soozi-tsf.xyz": {
         "epoch": 1608249600.0,
         "expiration_date": "18-dec-2020",
@@ -1647,6 +1682,11 @@
     "system-update.info": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
+        "state": "future"
+    },
+    "system-update.is": {
+        "epoch": 1585008000.0,
+        "expiration_date": "24-mar-2020",
         "state": "future"
     },
     "systemten.org": {
@@ -1832,6 +1872,11 @@
     "ybcoin.com": {
         "epoch": 1591401600.0,
         "expiration_date": "06-jun-2020",
+        "state": "future"
+    },
+    "yobapool.net": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
         "state": "future"
     },
     "zmine.io": {
