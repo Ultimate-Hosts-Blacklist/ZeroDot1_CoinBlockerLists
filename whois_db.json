@@ -1,4 +1,9 @@
 {
+    "10xbtc.net": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "12level.com": {
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
@@ -24,6 +29,11 @@
         "expiration_date": "31-aug-2020",
         "state": "future"
     },
+    "aeonminingpool.com": {
+        "epoch": 1823385600.0,
+        "expiration_date": "13-oct-2027",
+        "state": "future"
+    },
     "ahashpool.com": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
@@ -32,6 +42,11 @@
     "aiomine.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
+        "state": "future"
+    },
+    "altcoinminers.us": {
+        "epoch": 1599004800.0,
+        "expiration_date": "02-sep-2020",
         "state": "future"
     },
     "altminer.io": {
@@ -49,6 +64,11 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "bitcoal.io": {
+        "epoch": 1586044800.0,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
     "bitfury.com": {
         "epoch": 1695254400.0,
         "expiration_date": "21-sep-2023",
@@ -57,6 +77,16 @@
     "bohemianpool.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
+        "state": "future"
+    },
+    "btccpooleos.com": {
+        "epoch": 1619568000.0,
+        "expiration_date": "28-apr-2021",
+        "state": "future"
+    },
+    "challengecoin.io": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
         "state": "future"
     },
     "clickgem.com": {
@@ -104,6 +134,11 @@
         "expiration_date": "24-apr-2020",
         "state": "future"
     },
+    "cryptocatalyst.net": {
+        "epoch": 1607817600.0,
+        "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
     "cryptocrowdclub.com": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
@@ -112,6 +147,11 @@
     "cryptonote.social": {
         "epoch": 1579737600.0,
         "expiration_date": "23-jan-2020",
+        "state": "future"
+    },
+    "directprimal.com": {
+        "epoch": 1604361600.0,
+        "expiration_date": "03-nov-2020",
         "state": "future"
     },
     "ethermine.org": {
@@ -124,6 +164,16 @@
         "expiration_date": "27-aug-2020",
         "state": "future"
     },
+    "europool.me": {
+        "epoch": 1586736000.0,
+        "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
+    "flypool.org": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
     "fredcoinpool.com": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
@@ -134,6 +184,16 @@
         "expiration_date": "13-nov-2020",
         "state": "future"
     },
+    "fxnow.ru": {
+        "epoch": 1581033600.0,
+        "expiration_date": "07-feb-2020",
+        "state": "future"
+    },
+    "herominers.com": {
+        "epoch": 1837987200.0,
+        "expiration_date": "30-mar-2028",
+        "state": "future"
+    },
     "hospitalcoin.net": {
         "epoch": 1600905600.0,
         "expiration_date": "24-sep-2020",
@@ -142,6 +202,16 @@
     "kingbtc.co": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "ltfn.org": {
+        "epoch": 1607299200.0,
+        "expiration_date": "07-dec-2020",
+        "state": "future"
+    },
+    "masaricoin.com": {
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
         "state": "future"
     },
     "mecryptosolo.club": {
@@ -179,6 +249,16 @@
         "expiration_date": "25-jun-2020",
         "state": "future"
     },
+    "myhost.com": {
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "nddmcconmqsy.ru": {
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
     "nimiqtest.net": {
         "epoch": 1585526400.0,
         "expiration_date": "30-mar-2020",
@@ -188,6 +268,11 @@
         "epoch": 1611619200.0,
         "expiration_date": "26-jan-2021",
         "state": "future"
+    },
+    "olecintri.com": {
+        "epoch": 1572220800.0,
+        "expiration_date": "28-oct-2019",
+        "state": "past"
     },
     "pool.gold": {
         "epoch": 1601337600.0,
@@ -204,6 +289,11 @@
         "expiration_date": "17-oct-2020",
         "state": "future"
     },
+    "reactor.cc": {
+        "epoch": 1583884800.0,
+        "expiration_date": "11-mar-2020",
+        "state": "future"
+    },
     "s7ven.com": {
         "epoch": 1820793600.0,
         "expiration_date": "13-sep-2027",
@@ -212,6 +302,21 @@
     "safelinkconverter.com": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "saltpool.net": {
+        "epoch": 1581552000.0,
+        "expiration_date": "13-feb-2020",
+        "state": "future"
+    },
+    "solopool.org": {
+        "epoch": 1613347200.0,
+        "expiration_date": "15-feb-2021",
+        "state": "future"
+    },
+    "sportstream365.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
         "state": "future"
     },
     "sugarchain.org": {
@@ -239,14 +344,29 @@
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
+    "ulnawoyyzbljc.ru": {
+        "epoch": 1592006400.0,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
     "upool.in": {
         "epoch": 1589328000.0,
         "expiration_date": "13-may-2020",
         "state": "future"
     },
+    "urchintelemetry.com": {
+        "epoch": 1607472000.0,
+        "expiration_date": "09-dec-2020",
+        "state": "future"
+    },
     "verifier.live": {
         "epoch": 1593129600.0,
         "expiration_date": "26-jun-2020",
+        "state": "future"
+    },
+    "viewyng.com": {
+        "epoch": 1602979200.0,
+        "expiration_date": "18-oct-2020",
         "state": "future"
     },
     "voidr.net": {
