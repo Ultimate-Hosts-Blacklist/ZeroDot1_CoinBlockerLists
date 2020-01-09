@@ -469,6 +469,11 @@
         "expiration_date": "05-dec-2020",
         "state": "future"
     },
+    "allibio.com": {
+        "epoch": 1590019200.0,
+        "expiration_date": "21-may-2020",
+        "state": "future"
+    },
     "allinhash.com": {
         "epoch": 1746748800.0,
         "expiration_date": "09-may-2025",
@@ -883,6 +888,11 @@
         "epoch": 1574035200.0,
         "expiration_date": "18-nov-2019",
         "state": "past"
+    },
+    "bittrader.io": {
+        "epoch": 1604188800.0,
+        "expiration_date": "01-nov-2020",
+        "state": "future"
     },
     "bittrexbtc.com": {
         "epoch": 1605744000.0,
@@ -2232,6 +2242,11 @@
     "magical.coffee": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
+    "magiccoin.biz": {
+        "epoch": 1588982400.0,
+        "expiration_date": "09-may-2020",
         "state": "future"
     },
     "magnificentpool.com": {
