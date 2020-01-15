@@ -14,15 +14,30 @@
         "expiration_date": "28-may-2020",
         "state": "future"
     },
+    "50btc.com": {
+        "epoch": 1593561600.0,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
     "91pool.com": {
         "epoch": 1596412800.0,
         "expiration_date": "03-aug-2020",
+        "state": "future"
+    },
+    "aimbtc.com": {
+        "epoch": 1589932800.0,
+        "expiration_date": "20-may-2020",
         "state": "future"
     },
     "aprilcoin.com": {
         "epoch": 1579046400.0,
         "expiration_date": "15-jan-2020",
         "state": "past"
+    },
+    "arionumpool.com": {
+        "epoch": 1581292800.0,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
     },
     "assetscdn.stream": {
         "epoch": 1589241600.0,
@@ -32,6 +47,11 @@
     "bacm.ro": {
         "epoch": 1660435200.0,
         "expiration_date": "14-aug-2022",
+        "state": "future"
+    },
+    "baypirateproxy.org": {
+        "epoch": 1592006400.0,
+        "expiration_date": "13-jun-2020",
         "state": "future"
     },
     "bitcoiner.win": {
@@ -47,6 +67,11 @@
     "blazepool.com": {
         "epoch": 1609804800.0,
         "expiration_date": "05-jan-2021",
+        "state": "future"
+    },
+    "bottlecapspool.com": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
         "state": "future"
     },
     "btcnos.com": {
@@ -69,6 +94,11 @@
         "expiration_date": "05-apr-2020",
         "state": "future"
     },
+    "coinblockers.com": {
+        "epoch": 1603411200.0,
+        "expiration_date": "23-oct-2020",
+        "state": "future"
+    },
     "coinscripts.online": {
         "epoch": 1578009600.0,
         "expiration_date": "03-jan-2020",
@@ -79,6 +109,11 @@
         "expiration_date": "04-jan-2021",
         "state": "future"
     },
+    "crypto-coins.info": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
     "durinsmine.com": {
         "epoch": 1609459200.0,
         "expiration_date": "01-jan-2021",
@@ -87,6 +122,16 @@
     "dwp3ce9c.top": {
         "epoch": 1590969600.0,
         "expiration_date": "01-jun-2020",
+        "state": "future"
+    },
+    "extremepool.org": {
+        "epoch": 1595721600.0,
+        "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "flashx.co": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
         "state": "future"
     },
     "futurecoins.club": {
@@ -104,6 +149,11 @@
         "expiration_date": "07-apr-2021",
         "state": "future"
     },
+    "igrid.org": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "ipominer.com": {
         "epoch": 1612396800.0,
         "expiration_date": "04-feb-2021",
@@ -119,9 +169,19 @@
         "expiration_date": "04-oct-2020",
         "state": "future"
     },
+    "kedtise.com": {
+        "epoch": 1586044800.0,
+        "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
     "kratos.biz": {
         "epoch": 1582588800.0,
         "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
+    "l8nit3-miners.com": {
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
         "state": "future"
     },
     "minersrepublic.com": {
@@ -147,6 +207,26 @@
     "mrycrypto.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "nerdorium.org": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
+    "novablock.com": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
+        "state": "future"
+    },
+    "okpool.top": {
+        "epoch": 1624838400.0,
+        "expiration_date": "28-jun-2021",
+        "state": "future"
+    },
+    "p2pools.us": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
         "state": "future"
     },
     "poloniex.live": {
@@ -187,6 +267,11 @@
     "supportxmr.com": {
         "epoch": 1601856000.0,
         "expiration_date": "05-oct-2020",
+        "state": "future"
+    },
+    "toastpool.com": {
+        "epoch": 1606089600.0,
+        "expiration_date": "23-nov-2020",
         "state": "future"
     },
     "tun4.life": {
