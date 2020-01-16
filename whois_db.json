@@ -59,6 +59,11 @@
         "expiration_date": "30-apr-2020",
         "state": "future"
     },
+    "24hourbtc.com": {
+        "epoch": 1582848000.0,
+        "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
     "2miners.com": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
@@ -604,6 +609,11 @@
         "expiration_date": "22-nov-2020",
         "state": "future"
     },
+    "cryptopoolmining.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
     "cryptorat.pw": {
         "epoch": 1601251200.0,
         "expiration_date": "28-sep-2020",
@@ -667,6 +677,11 @@
     "dmpools.com": {
         "epoch": 1595203200.0,
         "expiration_date": "20-jul-2020",
+        "state": "future"
+    },
+    "drowningpool.net": {
+        "epoch": 1597104000.0,
+        "expiration_date": "11-aug-2020",
         "state": "future"
     },
     "e-libra.ru": {
@@ -747,6 +762,11 @@
     "firehash.net": {
         "epoch": 1580515200.0,
         "expiration_date": "01-feb-2020",
+        "state": "future"
+    },
+    "firstpool.ru": {
+        "epoch": 1582675200.0,
+        "expiration_date": "26-feb-2020",
         "state": "future"
     },
     "flightzy.bid": {
@@ -914,6 +934,11 @@
         "expiration_date": "19-may-2020",
         "state": "future"
     },
+    "hushpool.cloud": {
+        "epoch": 1606694400.0,
+        "expiration_date": "30-nov-2020",
+        "state": "future"
+    },
     "icanmining.ru": {
         "epoch": 1594080000.0,
         "expiration_date": "07-jul-2020",
@@ -999,6 +1024,11 @@
         "expiration_date": "13-aug-2020",
         "state": "future"
     },
+    "lightningcash.gold": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
     "lochjol.com": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
@@ -1054,9 +1084,19 @@
         "expiration_date": "07-dec-2020",
         "state": "future"
     },
+    "minep.it": {
+        "epoch": 1601596800.0,
+        "expiration_date": "02-oct-2020",
+        "state": "future"
+    },
     "miner.ninja": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
+        "state": "future"
+    },
+    "miner.tokyo": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "minerall.io": {
@@ -1102,6 +1142,11 @@
     "monerominer.rocks": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
+    "monerominers.net": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
         "state": "future"
     },
     "monerominingpool.com": {
