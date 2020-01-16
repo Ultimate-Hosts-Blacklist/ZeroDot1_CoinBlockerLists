@@ -9,6 +9,11 @@
         "expiration_date": "13-dec-2020",
         "state": "future"
     },
+    "101010.pl": {
+        "epoch": 1584144000.0,
+        "expiration_date": "14-mar-2020",
+        "state": "future"
+    },
     "10xbtc.net": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
@@ -569,6 +574,11 @@
         "expiration_date": "06-sep-2020",
         "state": "future"
     },
+    "comining.io": {
+        "epoch": 1602806400.0,
+        "expiration_date": "16-oct-2020",
+        "state": "future"
+    },
     "coolmine.top": {
         "epoch": 1630800000.0,
         "expiration_date": "05-sep-2021",
@@ -602,6 +612,16 @@
     "crypto-coins.club": {
         "epoch": 1606608000.0,
         "expiration_date": "29-nov-2020",
+        "state": "future"
+    },
+    "cryptocoinpools.com": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
+        "state": "future"
+    },
+    "cryptogreek.cafe": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "cryptomininggame.com": {
@@ -1259,6 +1279,11 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "nodepow.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
     "nons.xyz": {
         "epoch": 1606521600.0,
         "expiration_date": "28-nov-2020",
@@ -1319,6 +1344,11 @@
         "expiration_date": "26-sep-2020",
         "state": "future"
     },
+    "pema.cl": {
+        "epoch": 1618012800.0,
+        "expiration_date": "10-apr-2021",
+        "state": "future"
+    },
     "penguinpool.net": {
         "epoch": 1608768000.0,
         "expiration_date": "24-dec-2020",
@@ -1339,9 +1369,19 @@
         "expiration_date": "23-dec-2019",
         "state": "past"
     },
+    "pocketminer.co.uk": {
+        "epoch": 1580083200.0,
+        "expiration_date": "27-jan-2020",
+        "state": "future"
+    },
     "pocketwhale.info": {
         "epoch": 1586736000.0,
         "expiration_date": "13-apr-2020",
+        "state": "future"
+    },
+    "poloniex.agency": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "pool-moscow.ru": {
@@ -1729,9 +1769,19 @@
         "expiration_date": "22-dec-2020",
         "state": "future"
     },
+    "xn--blockchan-n5a.com": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
     "xtratum.pro": {
         "epoch": 1590710400.0,
         "expiration_date": "29-may-2020",
+        "state": "future"
+    },
+    "yobapool.net": {
+        "epoch": 1585612800.0,
+        "expiration_date": "31-mar-2020",
         "state": "future"
     },
     "zenpool.io": {
@@ -1752,6 +1802,11 @@
     "zlx.com.br": {
         "epoch": 1602979200.0,
         "expiration_date": "18-oct-2020",
+        "state": "future"
+    },
+    "zmine.io": {
+        "epoch": 1600300800.0,
+        "expiration_date": "17-sep-2020",
         "state": "future"
     },
     "zombiepool.run": {
