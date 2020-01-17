@@ -129,6 +129,11 @@
         "expiration_date": "12-dec-2019",
         "state": "past"
     },
+    "3profit.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
     "42v3.io": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
@@ -1104,9 +1109,19 @@
         "expiration_date": "11-aug-2020",
         "state": "future"
     },
+    "dzizsih.ru": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
     "e-libra.ru": {
         "epoch": 1596067200.0,
         "expiration_date": "30-jul-2020",
+        "state": "future"
+    },
+    "easticoin.org": {
+        "epoch": 1676937600.0,
+        "expiration_date": "21-feb-2023",
         "state": "future"
     },
     "ecoinshub.net": {
@@ -1594,6 +1609,11 @@
         "expiration_date": "02-apr-2020",
         "state": "future"
     },
+    "leetpools.net": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
     "lewd.ninja": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
@@ -1739,6 +1759,11 @@
         "expiration_date": "16-apr-2020",
         "state": "future"
     },
+    "mkt-coin.com": {
+        "epoch": 1587254400.0,
+        "expiration_date": "19-apr-2020",
+        "state": "future"
+    },
     "mmpool.org": {
         "epoch": 1585612800.0,
         "expiration_date": "31-mar-2020",
@@ -1877,6 +1902,11 @@
     "mymoneropool.com": {
         "epoch": 1606348800.0,
         "expiration_date": "26-nov-2020",
+        "state": "future"
+    },
+    "nablabee.com": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
         "state": "future"
     },
     "nahnoji.cz": {
@@ -2267,6 +2297,16 @@
     "server.com": {
         "epoch": 1767139200.0,
         "expiration_date": "31-dec-2025",
+        "state": "future"
+    },
+    "service4refresh.info": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
+    "sevabit.com": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
         "state": "future"
     },
     "sharing-is-caring.info": {
@@ -2702,6 +2742,11 @@
     "zpool.ca": {
         "epoch": 1688342400.0,
         "expiration_date": "03-jul-2023",
+        "state": "future"
+    },
+    "zpool.guru": {
+        "epoch": 1608336000.0,
+        "expiration_date": "19-dec-2020",
         "state": "future"
     }
 }
