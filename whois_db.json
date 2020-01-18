@@ -79,6 +79,16 @@
         "expiration_date": "13-jun-2020",
         "state": "future"
     },
+    "alfmine.com": {
+        "epoch": 1605312000.0,
+        "expiration_date": "14-nov-2020",
+        "state": "future"
+    },
+    "algorithmbit.com": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
     "alliedbtc.com": {
         "epoch": 1588636800.0,
         "expiration_date": "05-may-2020",
@@ -137,6 +147,11 @@
     "avalon-life.com": {
         "epoch": 1774742400.0,
         "expiration_date": "29-mar-2026",
+        "state": "future"
+    },
+    "axletrade.com": {
+        "epoch": 1608163200.0,
+        "expiration_date": "17-dec-2020",
         "state": "future"
     },
     "bestcoinsignals.com": {
@@ -202,6 +217,11 @@
     "btcpool24.com": {
         "epoch": 1592956800.0,
         "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
+    "btcz.app": {
+        "epoch": 1694390400.0,
+        "expiration_date": "11-sep-2023",
         "state": "future"
     },
     "c0banpool.com": {
@@ -274,9 +294,19 @@
         "expiration_date": "16-dec-2020",
         "state": "future"
     },
+    "cryptopay.me": {
+        "epoch": 1622160000.0,
+        "expiration_date": "28-may-2021",
+        "state": "future"
+    },
     "cybtc.info": {
         "epoch": 1593993600.0,
         "expiration_date": "06-jul-2020",
+        "state": "future"
+    },
+    "darkcoin.io": {
+        "epoch": 1580169600.0,
+        "expiration_date": "28-jan-2020",
         "state": "future"
     },
     "dgpool.ru": {
@@ -464,6 +494,11 @@
         "expiration_date": "09-sep-2021",
         "state": "future"
     },
+    "nicehash.com": {
+        "epoch": 1648080000.0,
+        "expiration_date": "24-mar-2022",
+        "state": "future"
+    },
     "ninaning.com": {
         "epoch": 1595980800.0,
         "expiration_date": "29-jul-2020",
@@ -472,6 +507,11 @@
     "p2pmine.com": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "passportinfo.info": {
+        "epoch": 1594857600.0,
+        "expiration_date": "16-jul-2020",
         "state": "future"
     },
     "pigeoncoin.org": {
@@ -494,10 +534,20 @@
         "expiration_date": "20-oct-2020",
         "state": "future"
     },
+    "questionfly.com": {
+        "epoch": 1592697600.0,
+        "expiration_date": "21-jun-2020",
+        "state": "future"
+    },
     "randomsatoshi.win": {
         "epoch": 1648080000.0,
         "expiration_date": "24-mar-2022",
         "state": "future"
+    },
+    "rcyclmnrepv.com": {
+        "epoch": 1579219200.0,
+        "expiration_date": "17-jan-2020",
+        "state": "past"
     },
     "reauthenticator.com": {
         "epoch": 1597536000.0,
