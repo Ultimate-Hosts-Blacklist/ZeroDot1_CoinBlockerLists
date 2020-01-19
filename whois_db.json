@@ -704,6 +704,11 @@
         "expiration_date": "02-dec-2026",
         "state": "future"
     },
+    "celcoin.io": {
+        "epoch": 1605484800.0,
+        "expiration_date": "16-nov-2020",
+        "state": "future"
+    },
     "cieh.mx": {
         "epoch": 1600732800.0,
         "expiration_date": "22-sep-2020",
@@ -1514,6 +1519,11 @@
         "expiration_date": "11-apr-2020",
         "state": "future"
     },
+    "multiminer.us": {
+        "epoch": 1591488000.0,
+        "expiration_date": "07-jun-2020",
+        "state": "future"
+    },
     "multipools.club": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -1780,9 +1790,9 @@
         "state": "future"
     },
     "rcyclmnrepv.com": {
-        "epoch": 1579219200.0,
-        "expiration_date": "17-jan-2020",
-        "state": "past"
+        "epoch": 1610841600.0,
+        "expiration_date": "17-jan-2021",
+        "state": "future"
     },
     "reauthenticator.com": {
         "epoch": 1597536000.0,
@@ -2032,6 +2042,11 @@
     "voiplanparty.com": {
         "epoch": 1612483200.0,
         "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
+    "vuuwd.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "weeminepool.com": {
