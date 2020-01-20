@@ -649,6 +649,11 @@
         "expiration_date": "21-sep-2023",
         "state": "future"
     },
+    "bitmining.zone": {
+        "epoch": 1574035200.0,
+        "expiration_date": "18-nov-2019",
+        "state": "past"
+    },
     "bitminter.com": {
         "epoch": 1619395200.0,
         "expiration_date": "26-apr-2021",
@@ -1694,6 +1699,11 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "ningtoldrop.ru": {
+        "epoch": 1594252800.0,
+        "expiration_date": "09-jul-2020",
+        "state": "future"
+    },
     "nosekefik.com": {
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
@@ -2233,6 +2243,11 @@
         "epoch": 1603065600.0,
         "expiration_date": "19-oct-2020",
         "state": "future"
+    },
+    "xxx.info": {
+        "epoch": 1532995200.0,
+        "expiration_date": "31-jul-2018",
+        "state": "past"
     },
     "yibble.org": {
         "epoch": 1601164800.0,
