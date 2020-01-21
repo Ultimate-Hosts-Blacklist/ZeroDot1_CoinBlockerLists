@@ -174,6 +174,11 @@
         "expiration_date": "22-nov-2019",
         "state": "past"
     },
+    "99miners.com": {
+        "epoch": 1636675200.0,
+        "expiration_date": "12-nov-2021",
+        "state": "future"
+    },
     "abjcoin.org": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
@@ -794,6 +799,11 @@
         "expiration_date": "11-feb-2020",
         "state": "future"
     },
+    "cminors-pool.com": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
     "cnhv.co": {
         "epoch": 1598140800.0,
         "expiration_date": "23-aug-2020",
@@ -1049,6 +1059,11 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "doubleclick4.xyz": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "doubleclick6.xyz": {
         "epoch": 1586131200.0,
         "expiration_date": "06-apr-2020",
@@ -1192,7 +1207,7 @@
     "ghjdthzvcnbkfr.xyz": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "gltminer.com": {
         "epoch": 1607040000.0,
