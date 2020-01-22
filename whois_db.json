@@ -1269,6 +1269,11 @@
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
+    "haopool.com": {
+        "epoch": 1649462400.0,
+        "expiration_date": "09-apr-2022",
+        "state": "future"
+    },
     "happysatoshi.com": {
         "epoch": 1658793600.0,
         "expiration_date": "26-jul-2022",
@@ -1702,7 +1707,7 @@
     "mykings.top": {
         "epoch": 1579564800.0,
         "expiration_date": "21-jan-2020",
-        "state": "future"
+        "state": "past"
     },
     "myo-xmr.com": {
         "epoch": 1590883200.0,
