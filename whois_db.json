@@ -1,4 +1,9 @@
 {
+    "0769.it": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
+        "state": "future"
+    },
     "1-9-90.com": {
         "epoch": 1609804800.0,
         "expiration_date": "05-jan-2021",
@@ -27,6 +32,11 @@
     "10xbtc.net": {
         "epoch": 1582848000.0,
         "expiration_date": "28-feb-2020",
+        "state": "future"
+    },
+    "120profit.com": {
+        "epoch": 1611619200.0,
+        "expiration_date": "26-jan-2021",
         "state": "future"
     },
     "12usd.biz": {
@@ -559,6 +569,11 @@
         "expiration_date": "02-nov-2020",
         "state": "future"
     },
+    "bitcoin-ukraine.com.ua": {
+        "epoch": 1583107200.0,
+        "expiration_date": "02-mar-2020",
+        "state": "future"
+    },
     "bitcoinaffiliatenetwork.com": {
         "epoch": 1610150400.0,
         "expiration_date": "09-jan-2021",
@@ -1029,6 +1044,11 @@
         "expiration_date": "06-apr-2020",
         "state": "future"
     },
+    "doubleclick4.xyz": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "dreamitsystems.com": {
         "epoch": 1585699200.0,
         "expiration_date": "01-apr-2020",
@@ -1484,6 +1504,11 @@
         "expiration_date": "05-sep-2020",
         "state": "future"
     },
+    "ltstyov.ru": {
+        "epoch": 1594080000.0,
+        "expiration_date": "07-jul-2020",
+        "state": "future"
+    },
     "luckypool.org": {
         "epoch": 1609027200.0,
         "expiration_date": "27-dec-2020",
@@ -1594,6 +1619,11 @@
         "expiration_date": "10-may-2020",
         "state": "future"
     },
+    "miningfool.com": {
+        "epoch": 1606953600.0,
+        "expiration_date": "03-dec-2020",
+        "state": "future"
+    },
     "miningfrance.io": {
         "epoch": 1589587200.0,
         "expiration_date": "16-may-2020",
@@ -1652,6 +1682,11 @@
     "monitoringservice.co": {
         "epoch": 1588723200.0,
         "expiration_date": "06-may-2020",
+        "state": "future"
+    },
+    "monkeyminer.net": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
         "state": "future"
     },
     "moonify.io": {
@@ -1969,6 +2004,11 @@
         "expiration_date": "15-nov-2020",
         "state": "future"
     },
+    "rove.cl": {
+        "epoch": 1627948800.0,
+        "expiration_date": "03-aug-2021",
+        "state": "future"
+    },
     "rupool.org": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
@@ -2137,6 +2177,11 @@
     "thepool.life": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "thewhizmarketing.com": {
+        "epoch": 1604534400.0,
+        "expiration_date": "05-nov-2020",
         "state": "future"
     },
     "ticketszones.com": {
@@ -2413,5 +2458,10 @@
         "epoch": 1576713600.0,
         "expiration_date": "19-dec-2019",
         "state": "past"
+    },
+    "zsolo.bid": {
+        "epoch": 1598745600.0,
+        "expiration_date": "30-aug-2020",
+        "state": "future"
     }
 }
