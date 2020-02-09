@@ -1,4 +1,9 @@
 {
+    "10adspay.com": {
+        "epoch": 1617580800.0,
+        "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
     "1337pool.net": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
@@ -67,6 +72,16 @@
     "bis-pool.io": {
         "epoch": 1611532800.0,
         "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
+    "bitcrush.info": {
+        "epoch": 1581292800.0,
+        "expiration_date": "10-feb-2020",
+        "state": "future"
+    },
+    "bitdeer.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
         "state": "future"
     },
     "bleachx.ru": {
@@ -184,9 +199,24 @@
         "expiration_date": "28-oct-2020",
         "state": "future"
     },
+    "msdns.online": {
+        "epoch": 1586563200.0,
+        "expiration_date": "11-apr-2020",
+        "state": "future"
+    },
+    "multipool.xyz": {
+        "epoch": 1595462400.0,
+        "expiration_date": "23-jul-2020",
+        "state": "future"
+    },
     "netcodepool.org": {
         "epoch": 1599609600.0,
         "expiration_date": "09-sep-2020",
+        "state": "future"
+    },
+    "ninaning.com": {
+        "epoch": 1595980800.0,
+        "expiration_date": "29-jul-2020",
         "state": "future"
     },
     "pool.gold": {
@@ -232,6 +262,11 @@
     "slushpool.com": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "srcu.com": {
+        "epoch": 1642118400.0,
+        "expiration_date": "14-jan-2022",
         "state": "future"
     },
     "staticsfs.host": {
