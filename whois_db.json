@@ -219,6 +219,11 @@
         "expiration_date": "26-nov-2019",
         "state": "past"
     },
+    "altenen.com": {
+        "epoch": 1592006400.0,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
     "altminer.io": {
         "epoch": 1654905600.0,
         "expiration_date": "11-jun-2022",
@@ -964,6 +969,11 @@
         "expiration_date": "29-oct-2020",
         "state": "future"
     },
+    "hashwiz.com": {
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
+        "state": "future"
+    },
     "hashwiz.io": {
         "epoch": 1625011200.0,
         "expiration_date": "30-jun-2021",
@@ -1199,6 +1209,11 @@
         "expiration_date": "31-jul-2022",
         "state": "future"
     },
+    "monoset.info": {
+        "epoch": 1606867200.0,
+        "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
     "msdns.online": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
@@ -1227,6 +1242,11 @@
     "mycoinwallet.net": {
         "epoch": 1602201600.0,
         "expiration_date": "09-oct-2020",
+        "state": "future"
+    },
+    "myetheruwallet.com": {
+        "epoch": 1593475200.0,
+        "expiration_date": "30-jun-2020",
         "state": "future"
     },
     "myetheruwallet.info": {
