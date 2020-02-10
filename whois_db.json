@@ -439,6 +439,11 @@
         "expiration_date": "14-dec-2019",
         "state": "past"
     },
+    "bitstamp.me": {
+        "epoch": 1593561600.0,
+        "expiration_date": "01-jul-2020",
+        "state": "future"
+    },
     "bixbite.pro": {
         "epoch": 1587600000.0,
         "expiration_date": "23-apr-2020",
@@ -587,6 +592,11 @@
     "cpuminerpool.com": {
         "epoch": 1596585600.0,
         "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
+    "crazypool.org": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "cryptaliapool.it": {
@@ -872,6 +882,11 @@
     "grin-pool.org": {
         "epoch": 1592352000.0,
         "expiration_date": "17-jun-2020",
+        "state": "future"
+    },
+    "guardcoin.trade": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
         "state": "future"
     },
     "guibopool.com": {
