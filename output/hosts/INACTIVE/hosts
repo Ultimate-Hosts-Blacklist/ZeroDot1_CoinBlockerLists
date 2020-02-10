@@ -179,8 +179,8 @@
 0.0.0.0 100-33.openvpn.btcchina.com
 0.0.0.0 100-3x.com
 0.0.0.0 10045.openvpn.btcchina.com
-0.0.0.0 100-53.openvpn.btcchina.com
 0.0.0.0 10053.openvpn.btcchina.com
+0.0.0.0 100-53.openvpn.btcchina.com
 0.0.0.0 10066.openvpn.f2pool.com
 0.0.0.0 10072.openvpn.f2pool.com
 0.0.0.0 10077.openvpn.f2pool.com
@@ -203,8 +203,8 @@
 0.0.0.0 10-149.openvpn.btcchina.com
 0.0.0.0 101-4.openvpn.btcchina.com
 0.0.0.0 101-50.openvpn.btcchina.com
-0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10152.openvpn.btcchina.com
+0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10179.openvpn.f2pool.com
 0.0.0.0 1017a.openvpn.btcchina.com
 0.0.0.0 101-80.openvpn.btcchina.com
@@ -315,8 +315,8 @@
 0.0.0.0 110-239.btcc.com
 0.0.0.0 11063.openvpn.btcchina.com
 0.0.0.0 1-107.openvpn.f2pool.com
-0.0.0.0 11089.openvpn.btcchina.com
 0.0.0.0 110-89.openvpn.btcchina.com
+0.0.0.0 11089.openvpn.btcchina.com
 0.0.0.0 11096.openvpn.btcchina.com
 0.0.0.0 110b0.openvpn.btcchina.com
 0.0.0.0 11-105.openvpn.btcchina.com
@@ -2647,8 +2647,8 @@
 0.0.0.0 btg.beepool.org
 0.0.0.0 btg.bitpool.ro
 0.0.0.0 btg.cloudpools.net
-0.0.0.0 btgcn.happy2mine.com
 0.0.0.0 btg_cn.happy2mine.com
+0.0.0.0 btgcn.happy2mine.com
 0.0.0.0 btg.cryptopools.com
 0.0.0.0 btg.dnsseed.minertopia.org
 0.0.0.0 btg_en.happy2mine.com
@@ -3033,8 +3033,8 @@
 0.0.0.0 china3m.moneroseeds.ae.org
 0.0.0.0 chinaenter.cn.w.kunlunar.com
 0.0.0.0 china.mibpool.com
-0.0.0.0 china-mmm.moneroseeds.ae.org
 0.0.0.0 chinammm.moneroseeds.ae.org
+0.0.0.0 china-mmm.moneroseeds.ae.org
 0.0.0.0 chip2.suprnova.cc
 0.0.0.0 chips.suprnova.cc
 0.0.0.0 chl-eth.chileminers.cl
@@ -5237,8 +5237,8 @@
 0.0.0.0 fin01.beta.supportxmr.com
 0.0.0.0 fin01.node.supportxmr.com
 0.0.0.0 finance.gridcoin.us
-0.0.0.0 financehouse.moneroseeds.ae.org
 0.0.0.0 finance-house.moneroseeds.ae.org
+0.0.0.0 financehouse.moneroseeds.ae.org
 0.0.0.0 finance.node.gridcoin.us
 0.0.0.0 finance.sparkpool.com
 0.0.0.0 find.aikapool.com
@@ -5395,8 +5395,8 @@
 0.0.0.0 frankfurt01.sumo.nodes.hashvault.pro
 0.0.0.0 frankfurt01.triton.nodes.hashvault.pro
 0.0.0.0 frankfurt01.turtle.nodes.hashvault.pro
-0.0.0.0 frankfurt01.xcash.hashvault.pro
 0.0.0.0 frankfurt01.x-cash.hashvault.pro
+0.0.0.0 frankfurt01.xcash.hashvault.pro
 0.0.0.0 frankfurt01.xcash.nodes.hashvault.pro
 0.0.0.0 frankfurt02.electroneum.hashvault.pro
 0.0.0.0 frankfurt02.electroneum.nodes.hashvault.pro
@@ -5849,8 +5849,8 @@
 0.0.0.0 gtm.paris.elitehash.net
 0.0.0.0 guam.fix.btcc.com
 0.0.0.0 guangdong2-pool.ethfans.org
-0.0.0.0 guard-energi.minecrypto.pro
 0.0.0.0 guard.energi.minecrypto.pro
+0.0.0.0 guard-energi.minecrypto.pro
 0.0.0.0 gua.suprnova.cc
 0.0.0.0 gue.coin-miners.info
 0.0.0.0 gue.node.coin-miners.info
@@ -6816,15 +6816,15 @@
 0.0.0.0 jp-stratum.btcc.com
 0.0.0.0 jp-stratum.node.viaxmr.com
 0.0.0.0 jp.stratum.node.viaxmr.com
-0.0.0.0 jp.stratum.viaxmr.com
 0.0.0.0 jp-stratum.viaxmr.com
+0.0.0.0 jp.stratum.viaxmr.com
 0.0.0.0 jqassets.do
 0.0.0.0 jqcdn.do
 0.0.0.0 jqcdn.download
 0.0.0.0 jqmrqgaunex.ru
 0.0.0.0 jqrcdn.do
-0.0.0.0 jqr-cdn.download
 0.0.0.0 jqrcdn.download
+0.0.0.0 jqr-cdn.download
 0.0.0.0 jqrk.suprnova.cc
 0.0.0.0 jquerrycdn.do
 0.0.0.0 jquerrycdn.download
@@ -7899,6 +7899,7 @@
 0.0.0.0 miner.fee.xmrig.com
 0.0.0.0 miner.nimiq.skypool.org
 0.0.0.0 miner.oozing.co
+0.0.0.0 minero.pw
 0.0.0.0 minerpool.org
 0.0.0.0 miner.ppxxmr.com
 0.0.0.0 miner.pr0gramm.com
@@ -10430,8 +10431,8 @@
 0.0.0.0 proxy-can-1.inf.nimiq.net
 0.0.0.0 proxy-deu-1.inf.nimiq.net
 0.0.0.0 proxy-deu-2.inf.nimiq.net
-0.0.0.0 proxy-fee.xmrig.com
 0.0.0.0 proxy.fee.xmrig.com
+0.0.0.0 proxy-fee.xmrig.com
 0.0.0.0 proxy-fra-1.inf.nimiq.net
 0.0.0.0 proxy-fra-2.inf.nimiq.net
 0.0.0.0 proxy-fra-3.inf.nimiq.net
@@ -12285,8 +12286,8 @@
 0.0.0.0 testnet.pool.gold
 0.0.0.0 testnet.pool.golix.com
 0.0.0.0 testnet.pool.merit.me
-0.0.0.0 test-net.sushipool.com
 0.0.0.0 testnet.sushipool.com
+0.0.0.0 test-net.sushipool.com
 0.0.0.0 testnet.zpool.guru
 0.0.0.0 testng.nicehash.com
 0.0.0.0 testnode2.sushipool.com
@@ -12979,8 +12980,8 @@
 0.0.0.0 us.solo.eth.wattpool.net
 0.0.0.0 us.stack.pirl.network
 0.0.0.0 us.stratum.node.viaxmr.com
-0.0.0.0 us.stratum.viaxmr.com
 0.0.0.0 us-stratum.viaxmr.com
+0.0.0.0 us.stratum.viaxmr.com
 0.0.0.0 us.trtl.semipool.com
 0.0.0.0 us.ultranote.org
 0.0.0.0 us.vcsa.n3rd3d.com
@@ -14035,8 +14036,8 @@
 0.0.0.0 www.100h3x.com
 0.0.0.0 www.100timesbitcoins.com
 0.0.0.0 www.100x-bitcoin.com
-0.0.0.0 www.100x-btc.com
 0.0.0.0 www.100xbtc.com
+0.0.0.0 www.100x-btc.com
 0.0.0.0 www.100x-btc.pw
 0.0.0.0 www.100xbtc.sytes.net
 0.0.0.0 www.100xdoge.com
@@ -14623,8 +14624,8 @@
 0.0.0.0 www.bitcoin.bitaccess.co
 0.0.0.0 www.bitcoin.bitcoin.inc.hk
 0.0.0.0 www.bitcoin.coin-miners.info
-0.0.0.0 www.bitcoin.co.pt
 0.0.0.0 ww.w.bitcoin.co.pt
+0.0.0.0 www.bitcoin.co.pt
 0.0.0.0 www.bitcoin-doubler.us
 0.0.0.0 www.bitcoiner.win
 0.0.0.0 www.bitcoin.inc.hk
@@ -15665,8 +15666,8 @@
 0.0.0.0 www.jqcdn.download
 0.0.0.0 www.jqmrqgaunex.ru
 0.0.0.0 www.jqrcdn.do
-0.0.0.0 www.jqrcdn.download
 0.0.0.0 www.jqr-cdn.download
+0.0.0.0 www.jqrcdn.download
 0.0.0.0 www.jquerrycdn.do
 0.0.0.0 www.jquerrycdn.download
 0.0.0.0 www.jquery-cdn.do
@@ -16843,8 +16844,8 @@
 0.0.0.0 www.test.codpool.com
 0.0.0.0 www.test.coin-miners.info
 0.0.0.0 www.test.cryptonoter.com
-0.0.0.0 www-test-dev.nicehash.com
 0.0.0.0 www.test-dev.nicehash.com
+0.0.0.0 www-test-dev.nicehash.com
 0.0.0.0 www.test.lucky-mining.com.ua
 0.0.0.0 www-test.mining.garden
 0.0.0.0 www.testnet.bitcoinrh.org
