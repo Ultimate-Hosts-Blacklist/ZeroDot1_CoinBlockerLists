@@ -4,6 +4,11 @@
         "expiration_date": "25-dec-2020",
         "state": "future"
     },
+    "antarfund.com": {
+        "epoch": 1611532800.0,
+        "expiration_date": "25-jan-2021",
+        "state": "future"
+    },
     "autobitcoinbuilder.com": {
         "epoch": 1610496000.0,
         "expiration_date": "13-jan-2021",
@@ -14,9 +19,44 @@
         "expiration_date": "19-mar-2020",
         "state": "future"
     },
+    "binancecash.com": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
+    "blake2s.com": {
+        "epoch": 1581984000.0,
+        "expiration_date": "18-feb-2020",
+        "state": "future"
+    },
     "bloc-developer.com": {
         "epoch": 1588377600.0,
         "expiration_date": "02-may-2020",
+        "state": "future"
+    },
+    "bravo-mining.com": {
+        "epoch": 1637366400.0,
+        "expiration_date": "20-nov-2021",
+        "state": "future"
+    },
+    "btcpmine.org": {
+        "epoch": 1609977600.0,
+        "expiration_date": "07-jan-2021",
+        "state": "future"
+    },
+    "bw.com": {
+        "epoch": 1788912000.0,
+        "expiration_date": "09-sep-2026",
+        "state": "future"
+    },
+    "ckpool.org": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
+        "state": "future"
+    },
+    "coin-lab.com": {
+        "epoch": 1609027200.0,
+        "expiration_date": "27-dec-2020",
         "state": "future"
     },
     "coinhiveproxy.com": {
@@ -24,9 +64,24 @@
         "expiration_date": "06-nov-2020",
         "state": "future"
     },
+    "cookiescript.info": {
+        "epoch": 1597276800.0,
+        "expiration_date": "13-aug-2020",
+        "state": "future"
+    },
     "coorp.io": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
+        "state": "future"
+    },
+    "cryptohispano.net": {
+        "epoch": 1585180800.0,
+        "expiration_date": "26-mar-2020",
+        "state": "future"
+    },
+    "cryptoknight.cc": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "dgb-sonicpool.com": {
@@ -44,6 +99,16 @@
         "expiration_date": "01-mar-2020",
         "state": "future"
     },
+    "hashbook.net": {
+        "epoch": 1577145600.0,
+        "expiration_date": "24-dec-2019",
+        "state": "past"
+    },
+    "intoken.ru": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
+        "state": "future"
+    },
     "lanacoin.com": {
         "epoch": 1586563200.0,
         "expiration_date": "11-apr-2020",
@@ -57,6 +122,11 @@
     "lepool.com.cn": {
         "epoch": 1894665600.0,
         "expiration_date": "15-jan-2030",
+        "state": "future"
+    },
+    "lycheebit.com": {
+        "epoch": 1600560000.0,
+        "expiration_date": "20-sep-2020",
         "state": "future"
     },
     "mecryptosolo.club": {
@@ -94,14 +164,34 @@
         "expiration_date": "06-jul-2020",
         "state": "future"
     },
+    "nerdorium.org": {
+        "epoch": 1598832000.0,
+        "expiration_date": "31-aug-2020",
+        "state": "future"
+    },
     "poolarchy.com": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
         "state": "future"
     },
+    "prohash.net": {
+        "epoch": 1600473600.0,
+        "expiration_date": "19-sep-2020",
+        "state": "future"
+    },
     "raasu.org": {
         "epoch": 1610928000.0,
         "expiration_date": "18-jan-2021",
+        "state": "future"
+    },
+    "shockcoin.com": {
+        "epoch": 1582329600.0,
+        "expiration_date": "22-feb-2020",
+        "state": "future"
+    },
+    "steamoctanepool.com": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "tweth.tw": {
@@ -122,6 +212,16 @@
     "wildianing.ru": {
         "epoch": 1594425600.0,
         "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "xmrminerpro.com": {
+        "epoch": 1582588800.0,
+        "expiration_date": "25-feb-2020",
+        "state": "future"
+    },
+    "zellabs.net": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
         "state": "future"
     }
 }
