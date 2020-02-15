@@ -1074,6 +1074,11 @@
         "expiration_date": "16-jun-2021",
         "state": "future"
     },
+    "bitminter.com": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
     "bitpool.pro": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
@@ -1088,6 +1093,11 @@
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
         "state": "past"
+    },
+    "bittrex.com": {
+        "epoch": 1706140800.0,
+        "expiration_date": "25-jan-2024",
+        "state": "future"
     },
     "bittrexbtc.com": {
         "epoch": 1605744000.0,
@@ -1277,6 +1287,11 @@
     "btcprivatepool.club": {
         "epoch": 1589241600.0,
         "expiration_date": "12-may-2020",
+        "state": "future"
+    },
+    "btcwulf.com": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
         "state": "future"
     },
     "btcz.app": {
@@ -1607,6 +1622,11 @@
     "coinking.io": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
+        "state": "future"
+    },
+    "coinlab.biz": {
+        "epoch": 1612051200.0,
+        "expiration_date": "31-jan-2021",
         "state": "future"
     },
     "coinmine.pl": {
@@ -2309,6 +2329,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "flightzy.bid": {
+        "epoch": 1602288000.0,
+        "expiration_date": "10-oct-2020",
+        "state": "future"
+    },
     "flnqmin.org": {
         "epoch": 1586649600.0,
         "expiration_date": "12-apr-2020",
@@ -2422,6 +2447,11 @@
     "gemini.plus": {
         "epoch": 1611100800.0,
         "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
+    "gemini.zone": {
+        "epoch": 1616284800.0,
+        "expiration_date": "21-mar-2021",
         "state": "future"
     },
     "genom.tech": {
@@ -3214,6 +3244,11 @@
         "expiration_date": "26-nov-2020",
         "state": "future"
     },
+    "minerall.io": {
+        "epoch": 1604102400.0,
+        "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
     "minercartel.com": {
         "epoch": 1595030400.0,
         "expiration_date": "18-jul-2020",
@@ -3464,6 +3499,11 @@
         "expiration_date": "02-dec-2020",
         "state": "future"
     },
+    "moonify.io": {
+        "epoch": 1612656000.0,
+        "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
     "moriaxmr.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
@@ -3632,6 +3672,11 @@
     "nilu.tech": {
         "epoch": 1603324800.0,
         "expiration_date": "22-oct-2020",
+        "state": "future"
+    },
+    "nimiq.watch": {
+        "epoch": 1624147200.0,
+        "expiration_date": "20-jun-2021",
         "state": "future"
     },
     "nimiqtest.net": {
@@ -4449,6 +4494,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "traviilo.com": {
+        "epoch": 1608595200.0,
+        "expiration_date": "22-dec-2020",
+        "state": "future"
+    },
     "triplemining.com": {
         "epoch": 1592438400.0,
         "expiration_date": "18-jun-2020",
@@ -4952,6 +5002,11 @@
     "zpool.ca": {
         "epoch": 1688342400.0,
         "expiration_date": "03-jul-2023",
+        "state": "future"
+    },
+    "zyrkminer.com": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
         "state": "future"
     }
 }
