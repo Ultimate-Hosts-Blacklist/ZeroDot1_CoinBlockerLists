@@ -29,6 +29,11 @@
         "expiration_date": "19-oct-2020",
         "state": "future"
     },
+    "1000expert.com": {
+        "epoch": 1581724800.0,
+        "expiration_date": "15-feb-2020",
+        "state": "past"
+    },
     "100pb.online": {
         "epoch": 1593302400.0,
         "expiration_date": "28-jun-2020",
@@ -494,6 +499,11 @@
         "expiration_date": "10-oct-2020",
         "state": "future"
     },
+    "aropool.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
     "arrowbtc.com": {
         "epoch": 1617321600.0,
         "expiration_date": "02-apr-2021",
@@ -577,6 +587,11 @@
     "autofaucet.io": {
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
+        "state": "future"
+    },
+    "automoneysurf.com": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "auxiliarymine.com": {
@@ -929,6 +944,11 @@
         "expiration_date": "06-may-2020",
         "state": "future"
     },
+    "btcprivatepool.club": {
+        "epoch": 1589241600.0,
+        "expiration_date": "12-may-2020",
+        "state": "future"
+    },
     "btcz.app": {
         "epoch": 1694390400.0,
         "expiration_date": "11-sep-2023",
@@ -982,6 +1002,11 @@
     "bytecoin.cloud": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
+        "state": "future"
+    },
+    "bytecoin.uk": {
+        "epoch": 1720483200.0,
+        "expiration_date": "09-jul-2024",
         "state": "future"
     },
     "bytepool.com": {
@@ -1169,6 +1194,11 @@
         "expiration_date": "09-jan-2021",
         "state": "future"
     },
+    "coingive.com": {
+        "epoch": 1599782400.0,
+        "expiration_date": "11-sep-2020",
+        "state": "future"
+    },
     "coinhive.com": {
         "epoch": 1606780800.0,
         "expiration_date": "01-dec-2020",
@@ -1257,6 +1287,11 @@
     "cointrend.club": {
         "epoch": 1587427200.0,
         "expiration_date": "21-apr-2020",
+        "state": "future"
+    },
+    "coinworker.com": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "cookiescript.info": {
@@ -1377,6 +1412,11 @@
     "cryptomena.io": {
         "epoch": 1600387200.0,
         "expiration_date": "18-sep-2020",
+        "state": "future"
+    },
+    "cryptomine.pro": {
+        "epoch": 1592611200.0,
+        "expiration_date": "20-jun-2020",
         "state": "future"
     },
     "cryptonator.com": {
@@ -1577,6 +1617,11 @@
     "easticoin.org": {
         "epoch": 1676937600.0,
         "expiration_date": "21-feb-2023",
+        "state": "future"
+    },
+    "eastshoretrade.ml": {
+        "epoch": 1761782400.0,
+        "expiration_date": "30-oct-2025",
         "state": "future"
     },
     "easy2mine.com": {
@@ -1854,6 +1899,11 @@
         "expiration_date": "15-may-2020",
         "state": "future"
     },
+    "gemini.plus": {
+        "epoch": 1611100800.0,
+        "expiration_date": "20-jan-2021",
+        "state": "future"
+    },
     "genom.tech": {
         "epoch": 1586044800.0,
         "expiration_date": "05-apr-2020",
@@ -1974,6 +2024,11 @@
         "expiration_date": "10-dec-2020",
         "state": "future"
     },
+    "hash4.life": {
+        "epoch": 1609200000.0,
+        "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
     "hashbook.net": {
         "epoch": 1577145600.0,
         "expiration_date": "24-dec-2019",
@@ -2050,6 +2105,11 @@
         "state": "future"
     },
     "hostingcloud.racing": {
+        "epoch": 1585958400.0,
+        "expiration_date": "04-apr-2020",
+        "state": "future"
+    },
+    "hostingcloud.science": {
         "epoch": 1585958400.0,
         "expiration_date": "04-apr-2020",
         "state": "future"
@@ -2659,6 +2719,11 @@
         "expiration_date": "17-jan-2021",
         "state": "future"
     },
+    "mrycrypto.com": {
+        "epoch": 1588550400.0,
+        "expiration_date": "04-may-2020",
+        "state": "future"
+    },
     "multiminer.us": {
         "epoch": 1591488000.0,
         "expiration_date": "07-jun-2020",
@@ -2829,6 +2894,11 @@
         "expiration_date": "08-may-2020",
         "state": "future"
     },
+    "odpool.com": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
     "okpool.top": {
         "epoch": 1624838400.0,
         "expiration_date": "28-jun-2021",
@@ -2877,6 +2947,11 @@
     "p2pool.info": {
         "epoch": 1613520000.0,
         "expiration_date": "17-feb-2021",
+        "state": "future"
+    },
+    "p2pool.org": {
+        "epoch": 1669248000.0,
+        "expiration_date": "24-nov-2022",
         "state": "future"
     },
     "pandaminer.com": {
@@ -3164,6 +3239,16 @@
         "expiration_date": "15-dec-2023",
         "state": "future"
     },
+    "serie-vostfr.com": {
+        "epoch": 1601078400.0,
+        "expiration_date": "26-sep-2020",
+        "state": "future"
+    },
+    "sevabit.com": {
+        "epoch": 1604880000.0,
+        "expiration_date": "09-nov-2020",
+        "state": "future"
+    },
     "shockcoin.com": {
         "epoch": 1582329600.0,
         "expiration_date": "22-feb-2020",
@@ -3347,6 +3432,11 @@
     "thecoin.pw": {
         "epoch": 1612569600.0,
         "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
+    "thecryptominerpool.com": {
+        "epoch": 1630627200.0,
+        "expiration_date": "03-sep-2021",
         "state": "future"
     },
     "thepool.life": {
@@ -3724,9 +3814,19 @@
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "ypool.net": {
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
     "yrdrtzmsmt.com": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "z-pool.com": {
+        "epoch": 1602633600.0,
+        "expiration_date": "14-oct-2020",
         "state": "future"
     },
     "zelerius.org": {
