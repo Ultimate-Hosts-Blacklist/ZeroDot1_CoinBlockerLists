@@ -434,6 +434,11 @@
         "expiration_date": "13-dec-2019",
         "state": "past"
     },
+    "alfie.com": {
+        "epoch": 1761091200.0,
+        "expiration_date": "22-oct-2025",
+        "state": "future"
+    },
     "alfmine.com": {
         "epoch": 1605312000.0,
         "expiration_date": "14-nov-2020",
@@ -1108,6 +1113,11 @@
         "epoch": 1576281600.0,
         "expiration_date": "14-dec-2019",
         "state": "past"
+    },
+    "bittank.club": {
+        "epoch": 1608076800.0,
+        "expiration_date": "16-dec-2020",
+        "state": "future"
     },
     "bittrex.com": {
         "epoch": 1706140800.0,
@@ -2389,6 +2399,11 @@
         "expiration_date": "21-jun-2020",
         "state": "future"
     },
+    "forre.st": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
     "fortpush.com": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
@@ -2397,6 +2412,11 @@
     "fortrader.ru": {
         "epoch": 1584748800.0,
         "expiration_date": "21-mar-2020",
+        "state": "future"
+    },
+    "frackingminer.com": {
+        "epoch": 1588809600.0,
+        "expiration_date": "07-may-2020",
         "state": "future"
     },
     "free4faucet.com": {
@@ -2962,6 +2982,11 @@
     "koinpool.io": {
         "epoch": 1615248000.0,
         "expiration_date": "09-mar-2021",
+        "state": "future"
+    },
+    "korbit.top": {
+        "epoch": 1606262400.0,
+        "expiration_date": "25-nov-2020",
         "state": "future"
     },
     "kosmoplovci.org": {
