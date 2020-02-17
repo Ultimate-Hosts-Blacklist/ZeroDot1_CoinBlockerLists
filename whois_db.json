@@ -765,9 +765,9 @@
         "state": "future"
     },
     "amazingbtcdeposit.com": {
-        "epoch": 1581811200.0,
-        "expiration_date": "16-feb-2020",
-        "state": "past"
+        "epoch": 1613433600.0,
+        "expiration_date": "16-feb-2021",
+        "state": "future"
     },
     "amazingdeposit.com": {
         "epoch": 1602460800.0,
@@ -3197,6 +3197,11 @@
     "ghash.io": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "ghjdthzvcnbkfr.xyz": {
+        "epoch": 1611187200.0,
+        "expiration_date": "21-jan-2021",
         "state": "future"
     },
     "globefx24.com": {
