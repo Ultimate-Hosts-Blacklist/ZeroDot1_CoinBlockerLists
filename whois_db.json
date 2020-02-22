@@ -219,6 +219,11 @@
         "expiration_date": "06-mar-2021",
         "state": "future"
     },
+    "binancecash.com": {
+        "epoch": 1617408000.0,
+        "expiration_date": "03-apr-2021",
+        "state": "future"
+    },
     "bis-pool.io": {
         "epoch": 1611532800.0,
         "expiration_date": "25-jan-2021",
@@ -514,6 +519,11 @@
         "expiration_date": "27-jun-2020",
         "state": "future"
     },
+    "gridcoin.us": {
+        "epoch": 1621209600.0,
+        "expiration_date": "17-may-2021",
+        "state": "future"
+    },
     "hashcoins.com": {
         "epoch": 1639180800.0,
         "expiration_date": "11-dec-2021",
@@ -594,6 +604,11 @@
         "expiration_date": "01-aug-2020",
         "state": "future"
     },
+    "losital.ru": {
+        "epoch": 1589846400.0,
+        "expiration_date": "19-may-2020",
+        "state": "future"
+    },
     "ltfn.org": {
         "epoch": 1607299200.0,
         "expiration_date": "07-dec-2020",
@@ -637,6 +652,11 @@
     "miner.id": {
         "epoch": 1612483200.0,
         "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
+    "miner.tokyo": {
+        "epoch": 1606348800.0,
+        "expiration_date": "26-nov-2020",
         "state": "future"
     },
     "minerclaim.net": {
@@ -1047,6 +1067,11 @@
     "zclmine.pro": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
+        "state": "future"
+    },
+    "zettapool.com": {
+        "epoch": 1656547200.0,
+        "expiration_date": "30-jun-2022",
         "state": "future"
     }
 }
