@@ -1,7 +1,17 @@
 {
+    "120bitcoins.com": {
+        "epoch": 1614556800.0,
+        "expiration_date": "01-mar-2021",
+        "state": "future"
+    },
     "365deposit.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
+        "state": "future"
+    },
+    "42v3.io": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
         "state": "future"
     },
     "alisepool.xyz": {
@@ -24,6 +34,11 @@
         "expiration_date": "18-oct-2024",
         "state": "future"
     },
+    "arqma.com": {
+        "epoch": 1589414400.0,
+        "expiration_date": "14-may-2020",
+        "state": "future"
+    },
     "binancebtc.com": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
@@ -32,6 +47,16 @@
     "bizoninvest.com": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
+        "state": "future"
+    },
+    "cryptaloot.pro": {
+        "epoch": 1582416000.0,
+        "expiration_date": "23-feb-2020",
+        "state": "future"
+    },
+    "cryptocartel.one": {
+        "epoch": 1584057600.0,
+        "expiration_date": "13-mar-2020",
         "state": "future"
     },
     "cryptocommunity.network": {
@@ -49,14 +74,34 @@
         "expiration_date": "30-oct-2020",
         "state": "future"
     },
+    "gigarho.com": {
+        "epoch": 1594598400.0,
+        "expiration_date": "13-jul-2020",
+        "state": "future"
+    },
     "graft.community": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
         "state": "future"
     },
+    "hellominer.com": {
+        "epoch": 1593820800.0,
+        "expiration_date": "04-jul-2020",
+        "state": "future"
+    },
     "huobipool.com": {
         "epoch": 1611964800.0,
         "expiration_date": "30-jan-2021",
+        "state": "future"
+    },
+    "jquery-js.com": {
+        "epoch": 1577923200.0,
+        "expiration_date": "02-jan-2020",
+        "state": "past"
+    },
+    "jroqvbvw.info": {
+        "epoch": 1613692800.0,
+        "expiration_date": "19-feb-2021",
         "state": "future"
     },
     "lightergame.com": {
@@ -94,9 +139,29 @@
         "expiration_date": "27-feb-2022",
         "state": "future"
     },
+    "mpoolhr.pro": {
+        "epoch": 1594425600.0,
+        "expiration_date": "11-jul-2020",
+        "state": "future"
+    },
+    "odpool.com": {
+        "epoch": 1602720000.0,
+        "expiration_date": "15-oct-2020",
+        "state": "future"
+    },
+    "polza.cc": {
+        "epoch": 1592956800.0,
+        "expiration_date": "24-jun-2020",
+        "state": "future"
+    },
     "poolovich.pro": {
         "epoch": 1613088000.0,
         "expiration_date": "12-feb-2021",
+        "state": "future"
+    },
+    "prohashing.com": {
+        "epoch": 1676678400.0,
+        "expiration_date": "18-feb-2023",
         "state": "future"
     },
     "satowallet.com": {
@@ -114,9 +179,19 @@
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "thenorb.com": {
+        "epoch": 1589673600.0,
+        "expiration_date": "17-may-2020",
+        "state": "future"
+    },
     "ucrypto.net": {
         "epoch": 1656979200.0,
         "expiration_date": "05-jul-2022",
+        "state": "future"
+    },
+    "vuuwd.com": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
         "state": "future"
     },
     "warphash.com": {
