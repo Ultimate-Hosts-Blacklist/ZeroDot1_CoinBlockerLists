@@ -24,6 +24,11 @@
         "expiration_date": "19-feb-2021",
         "state": "future"
     },
+    "2xbits.com": {
+        "epoch": 1616025600.0,
+        "expiration_date": "18-mar-2021",
+        "state": "future"
+    },
     "365deposit.com": {
         "epoch": 1599436800.0,
         "expiration_date": "07-sep-2020",
@@ -79,6 +84,11 @@
         "expiration_date": "14-may-2020",
         "state": "future"
     },
+    "autobtcbuilder.com": {
+        "epoch": 1594684800.0,
+        "expiration_date": "14-jul-2020",
+        "state": "future"
+    },
     "axerc.com": {
         "epoch": 1808697600.0,
         "expiration_date": "26-apr-2027",
@@ -97,6 +107,16 @@
     "binancebtc.com": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
+        "state": "future"
+    },
+    "bitdeer.com": {
+        "epoch": 1599350400.0,
+        "expiration_date": "06-sep-2020",
+        "state": "future"
+    },
+    "bitfury.com": {
+        "epoch": 1695254400.0,
+        "expiration_date": "21-sep-2023",
         "state": "future"
     },
     "bizoninvest.com": {
@@ -164,6 +184,11 @@
         "expiration_date": "03-sep-2020",
         "state": "future"
     },
+    "cryptowide.io": {
+        "epoch": 1610323200.0,
+        "expiration_date": "11-jan-2021",
+        "state": "future"
+    },
     "ekanembtc.com": {
         "epoch": 1592265600.0,
         "expiration_date": "16-jun-2020",
@@ -212,6 +237,16 @@
     "g1thub.com": {
         "epoch": 1667088000.0,
         "expiration_date": "30-oct-2022",
+        "state": "future"
+    },
+    "gazanew.com": {
+        "epoch": 1589500800.0,
+        "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "geolocationsystem.com": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
         "state": "future"
     },
     "gigarho.com": {
@@ -279,6 +314,11 @@
         "expiration_date": "07-dec-2020",
         "state": "future"
     },
+    "luckypool.io": {
+        "epoch": 1605398400.0,
+        "expiration_date": "15-nov-2020",
+        "state": "future"
+    },
     "lycheebit.com": {
         "epoch": 1600560000.0,
         "expiration_date": "20-sep-2020",
@@ -319,6 +359,11 @@
         "expiration_date": "11-jul-2020",
         "state": "future"
     },
+    "mwgrinpool.com": {
+        "epoch": 1600214400.0,
+        "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
     "mycryrpto.com": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
@@ -327,6 +372,11 @@
     "myetheruwallet.com": {
         "epoch": 1593475200.0,
         "expiration_date": "30-jun-2020",
+        "state": "future"
+    },
+    "myoffers.bid": {
+        "epoch": 1669766400.0,
+        "expiration_date": "30-nov-2022",
         "state": "future"
     },
     "nimpool.io": {
@@ -359,9 +409,19 @@
         "expiration_date": "12-feb-2021",
         "state": "future"
     },
+    "profithash.com": {
+        "epoch": 1612483200.0,
+        "expiration_date": "05-feb-2021",
+        "state": "future"
+    },
     "prohashing.com": {
         "epoch": 1676678400.0,
         "expiration_date": "18-feb-2023",
+        "state": "future"
+    },
+    "proxytpb.pw": {
+        "epoch": 1613779200.0,
+        "expiration_date": "20-feb-2021",
         "state": "future"
     },
     "qpool.info": {
@@ -389,9 +449,19 @@
         "expiration_date": "13-jul-2020",
         "state": "future"
     },
+    "theminingpool.online": {
+        "epoch": 1584489600.0,
+        "expiration_date": "18-mar-2020",
+        "state": "future"
+    },
     "thenorb.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
+        "state": "future"
+    },
+    "topmining.co.kr": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
         "state": "future"
     },
     "traffic-tech-service.info": {
@@ -422,6 +492,11 @@
     "warphash.com": {
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
+        "state": "future"
+    },
+    "xdagmine.com": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
         "state": "future"
     }
 }
