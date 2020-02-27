@@ -119,6 +119,11 @@
         "expiration_date": "16-feb-2021",
         "state": "future"
     },
+    "analytics.blue": {
+        "epoch": 1613952000.0,
+        "expiration_date": "22-feb-2021",
+        "state": "future"
+    },
     "anobtc.com": {
         "epoch": 1611014400.0,
         "expiration_date": "19-jan-2021",
@@ -232,6 +237,11 @@
     "binance.financial": {
         "epoch": 1591142400.0,
         "expiration_date": "03-jun-2020",
+        "state": "future"
+    },
+    "bitbackoffice.com": {
+        "epoch": 1727395200.0,
+        "expiration_date": "27-sep-2024",
         "state": "future"
     },
     "bitclubpool.com": {
@@ -484,6 +494,11 @@
         "expiration_date": "22-jul-2020",
         "state": "future"
     },
+    "cryptopool.net": {
+        "epoch": 1604966400.0,
+        "expiration_date": "10-nov-2020",
+        "state": "future"
+    },
     "cryptopoolclub.com": {
         "epoch": 1609545600.0,
         "expiration_date": "02-jan-2021",
@@ -577,6 +592,11 @@
     "estream.nu": {
         "epoch": 1588550400.0,
         "expiration_date": "04-may-2020",
+        "state": "future"
+    },
+    "etcpool.pl": {
+        "epoch": 1583280000.0,
+        "expiration_date": "04-mar-2020",
         "state": "future"
     },
     "etherdelta.site": {
@@ -964,9 +984,24 @@
         "expiration_date": "29-jul-2020",
         "state": "future"
     },
+    "omargpools.ca": {
+        "epoch": 1614297600.0,
+        "expiration_date": "26-feb-2021",
+        "state": "future"
+    },
+    "p2pool.org": {
+        "epoch": 1669248000.0,
+        "expiration_date": "24-nov-2022",
+        "state": "future"
+    },
     "passportinfo.info": {
         "epoch": 1594857600.0,
         "expiration_date": "16-jul-2020",
+        "state": "future"
+    },
+    "poloniex.partners": {
+        "epoch": 1600214400.0,
+        "expiration_date": "16-sep-2020",
         "state": "future"
     },
     "pool.gold": {
@@ -992,6 +1027,11 @@
     "prohashing.com": {
         "epoch": 1676678400.0,
         "expiration_date": "18-feb-2023",
+        "state": "future"
+    },
+    "proxpool.com": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
         "state": "future"
     },
     "proxyfl.info": {
@@ -1222,6 +1262,11 @@
     "yrdrtzmsmt.com": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "zenprotocolpool.com": {
+        "epoch": 1625788800.0,
+        "expiration_date": "09-jul-2021",
         "state": "future"
     },
     "zombiepool.run": {
