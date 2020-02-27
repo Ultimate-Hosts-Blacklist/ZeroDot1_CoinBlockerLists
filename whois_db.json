@@ -1,12 +1,32 @@
 {
+    "advancedbit.net": {
+        "epoch": 1586131200.0,
+        "expiration_date": "06-apr-2020",
+        "state": "future"
+    },
     "altusfund.com": {
         "epoch": 1609286400.0,
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "aod-tech.com": {
+        "epoch": 1607990400.0,
+        "expiration_date": "15-dec-2020",
+        "state": "future"
+    },
+    "argobyte.com": {
+        "epoch": 1601769600.0,
+        "expiration_date": "04-oct-2020",
+        "state": "future"
+    },
     "auxiliarymine.com": {
         "epoch": 1608681600.0,
         "expiration_date": "23-dec-2020",
+        "state": "future"
+    },
+    "blockchaiun.com": {
+        "epoch": 1591401600.0,
+        "expiration_date": "06-jun-2020",
         "state": "future"
     },
     "boldprivate.network": {
@@ -17,6 +37,11 @@
     "ccminer.org": {
         "epoch": 1612656000.0,
         "expiration_date": "07-feb-2021",
+        "state": "future"
+    },
+    "cecked.men": {
+        "epoch": 1679184000.0,
+        "expiration_date": "19-mar-2023",
         "state": "future"
     },
     "cloudflane.com": {
@@ -32,6 +57,16 @@
     "code.ws": {
         "epoch": 1587859200.0,
         "expiration_date": "26-apr-2020",
+        "state": "future"
+    },
+    "copay.io": {
+        "epoch": 1616889600.0,
+        "expiration_date": "28-mar-2021",
+        "state": "future"
+    },
+    "cryptogreek.cafe": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
         "state": "future"
     },
     "cryptopoolclub.com": {
@@ -54,6 +89,11 @@
         "expiration_date": "05-jul-2020",
         "state": "future"
     },
+    "mollnia.com": {
+        "epoch": 1599868800.0,
+        "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
     "proxyfl.info": {
         "epoch": 1610841600.0,
         "expiration_date": "17-jan-2021",
@@ -74,9 +114,29 @@
         "expiration_date": "17-jan-2021",
         "state": "future"
     },
+    "statpipe.ru": {
+        "epoch": 1603065600.0,
+        "expiration_date": "19-oct-2020",
+        "state": "future"
+    },
     "theappguruz.com": {
         "epoch": 1722729600.0,
         "expiration_date": "04-aug-2024",
+        "state": "future"
+    },
+    "trtlbutton.com": {
+        "epoch": 1586390400.0,
+        "expiration_date": "09-apr-2020",
+        "state": "future"
+    },
+    "twystidmining.com": {
+        "epoch": 1583539200.0,
+        "expiration_date": "07-mar-2020",
+        "state": "future"
+    },
+    "westcoastxmr.ca": {
+        "epoch": 1585440000.0,
+        "expiration_date": "29-mar-2020",
         "state": "future"
     }
 }
