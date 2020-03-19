@@ -1,6 +1,6 @@
 {
     "current_stats": {
-        "builds": 324,
+        "builds": 325,
         "counter": {
             "down": 0,
             "invalid": 0,
@@ -15,10 +15,13 @@
     },
     "currently_under_test": true,
     "days_until_next_test": 2,
+    "description": "Simple lists that can help prevent cryptomining in the browser or other applications.",
     "end_datetime": "2020-03-03T15:33:08.495360",
     "end_epoch": 1582857431.400668,
+    "issue_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=",
     "last_autosave_datetime": "2020-03-03T15:33:08.495373",
     "last_autosave_epoch": 1583247403.67008,
+    "link": "https://zerodot1.gitlab.io/CoinBlockerListsWeb/",
     "name": "ZeroDot1_CoinBlockerLists",
     "previous_stats": {
         "builds": 117,
@@ -35,9 +38,6 @@
         "whitelisted.list": 29329
     },
     "raw_link": "https://zerodot1.gitlab.io/CoinBlockerLists/list.txt",
-    "link": "https://zerodot1.gitlab.io/CoinBlockerListsWeb/",
-    "issue_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=",
-    "description": "Simple lists that can help prevent cryptomining in the browser or other applications.",
     "start_datetime": "2020-03-03T15:33:08.499140",
     "start_epoch": 1583000939.578644
 }
