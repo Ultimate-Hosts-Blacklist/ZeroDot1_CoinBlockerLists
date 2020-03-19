@@ -231,8 +231,8 @@
 0.0.0.0 10-149.openvpn.btcchina.com
 0.0.0.0 101-4.openvpn.btcchina.com
 0.0.0.0 101-50.openvpn.btcchina.com
-0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10152.openvpn.btcchina.com
+0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10179.openvpn.f2pool.com
 0.0.0.0 1017a.openvpn.btcchina.com
 0.0.0.0 101-80.openvpn.btcchina.com
@@ -358,8 +358,8 @@
 0.0.0.0 110-239.btcc.com
 0.0.0.0 11063.openvpn.btcchina.com
 0.0.0.0 1-107.openvpn.f2pool.com
-0.0.0.0 11089.openvpn.btcchina.com
 0.0.0.0 110-89.openvpn.btcchina.com
+0.0.0.0 11089.openvpn.btcchina.com
 0.0.0.0 11096.openvpn.btcchina.com
 0.0.0.0 110b0.openvpn.btcchina.com
 0.0.0.0 11-105.openvpn.btcchina.com
@@ -1084,8 +1084,8 @@
 0.0.0.0 37593.btcc.com
 0.0.0.0 3764.openvpn.f2pool.com
 0.0.0.0 3790.openvpn.f2pool.com
-0.0.0.0 379.btcc.com
 0.0.0.0 3-79.btcc.com
+0.0.0.0 379.btcc.com
 0.0.0.0 37f0.openvpn.f2pool.com
 0.0.0.0 38773.btcc.com
 0.0.0.0 394-152.btcc.com
@@ -1381,6 +1381,7 @@
 0.0.0.0 87034.btcc.com
 0.0.0.0 876-155-16.btcc.com
 0.0.0.0 876-155.btcc.com
+0.0.0.0 88.161.hpool.com
 0.0.0.0 882-83.btcc.com
 0.0.0.0 882-hz.btcc.com
 0.0.0.0 883-131.btcc.com
@@ -1392,11 +1393,13 @@
 0.0.0.0 8994.btcc.com
 0.0.0.0 8a2a0.btcc.com
 0.0.0.0 8a66446ab5.pw
+0.0.0.0 8a75e.coinpoolit.webhop.me
 0.0.0.0 8an.btcc.com
 0.0.0.0 8bit.coin-miners.info
 0.0.0.0 8bit.node.coin-miners.info
 0.0.0.0 8bit.suprnova.cc
 0.0.0.0 8dailycoin.com
+0.0.0.0 8ipaksnet.onlycash.ddns.net
 0.0.0.0 8jd2lfsq.me
 0.0.0.0 8l64-52.btcc.com
 0.0.0.0 8ncelueluntan.btcc.com
@@ -1410,6 +1413,7 @@
 0.0.0.0 92-181.btcc.com
 0.0.0.0 925d.btcc.com
 0.0.0.0 929-240.btcc.com
+0.0.0.0 92996688.onlycash.ddns.net
 0.0.0.0 93019.btcc.com
 0.0.0.0 931.btcc.com
 0.0.0.0 935-167.btcc.com
@@ -1426,8 +1430,10 @@
 0.0.0.0 96.114.157.78.krunzy.com
 0.0.0.0 962-247.btcc.com
 0.0.0.0 964-245.btcc.com
+0.0.0.0 97.160.2.hpool.com
 0.0.0.0 97.74.135.143.coinminerz.com
 0.0.0.0 97.74.135.143.krunzy.com
+0.0.0.0 97steve.miningpool.thruhere.net
 0.0.0.0 981.btcc.com
 0.0.0.0 9825.openvpn.f2pool.com
 0.0.0.0 9876543210zyxwvuts.btcc.com
@@ -1437,6 +1443,7 @@
 0.0.0.0 9b02.btcc.com
 0.0.0.0 9baoboyulewang.btcc.com
 0.0.0.0 9.bitcoin.de
+0.0.0.0 9.coinpoolit.webhop.me
 0.0.0.0 9d24c.btcc.com
 0.0.0.0 9.us.hashrefinery.com
 0.0.0.0 9x.bitcoin.co.pt
@@ -1547,6 +1554,9 @@
 0.0.0.0 a.mx.cryptomininggame.com
 0.0.0.0 a.pool.ml
 0.0.0.0 a.u.bitcoin.co.pt
+0.0.0.0 _dmarc.mx.mx.cryptopool.net
+0.0.0.0 _dmarc.mx.mx.mx.cryptopool.net
+0.0.0.0 _dmarc.mx.mx.mx.mx.mx.cryptopool.net
 0.0.0.0 _mta-sts.mx01.arsmine.com
 0.0.0.0 _spfext.bitcoin.de
 0.0.0.0 www.01crypto.net
