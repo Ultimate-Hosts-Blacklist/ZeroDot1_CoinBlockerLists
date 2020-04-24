@@ -1487,7 +1487,7 @@
     "binance.media": {
         "epoch": 1583539200.0,
         "expiration_date": "07-mar-2020",
-        "state": "future"
+        "state": "past"
     },
     "binance.tools": {
         "epoch": 1590710400.0,
@@ -1539,6 +1539,11 @@
         "expiration_date": "27-sep-2024",
         "state": "future"
     },
+    "bitcanna.io": {
+        "epoch": 1607644800.0,
+        "expiration_date": "11-dec-2020",
+        "state": "future"
+    },
     "bitclub.network": {
         "epoch": 1765843200.0,
         "expiration_date": "16-dec-2025",
@@ -1587,6 +1592,11 @@
     "bitcoin.it": {
         "epoch": 1616284800.0,
         "expiration_date": "21-mar-2021",
+        "state": "future"
+    },
+    "bitcoindark.ca": {
+        "epoch": 1599264000.0,
+        "expiration_date": "05-sep-2020",
         "state": "future"
     },
     "bitcoiner.win": {
@@ -1762,6 +1772,11 @@
     "blackarrowsoftware.com": {
         "epoch": 1620864000.0,
         "expiration_date": "13-may-2021",
+        "state": "future"
+    },
+    "blake2s.com": {
+        "epoch": 1613606400.0,
+        "expiration_date": "18-feb-2021",
         "state": "future"
     },
     "blazepool.com": {
@@ -1958,6 +1973,11 @@
         "epoch": 1583625600.0,
         "expiration_date": "08-mar-2020",
         "state": "past"
+    },
+    "btcz.app": {
+        "epoch": 1694390400.0,
+        "expiration_date": "11-sep-2023",
+        "state": "future"
     },
     "btgmine.com": {
         "epoch": 1601683200.0,
@@ -3102,6 +3122,11 @@
     "earning-surf.com": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
+    "easticoin.io": {
+        "epoch": 1676937600.0,
+        "expiration_date": "21-feb-2023",
         "state": "future"
     },
     "easticoin.org": {
@@ -4739,6 +4764,11 @@
         "expiration_date": "12-jul-2020",
         "state": "future"
     },
+    "miner-world.com": {
+        "epoch": 1611446400.0,
+        "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
     "miner.hosting": {
         "epoch": 1593820800.0,
         "expiration_date": "04-jul-2020",
@@ -4797,6 +4827,11 @@
     "minerjet.com": {
         "epoch": 1594512000.0,
         "expiration_date": "12-jul-2020",
+        "state": "future"
+    },
+    "minerlagoon.co.uk": {
+        "epoch": 1598572800.0,
+        "expiration_date": "28-aug-2020",
         "state": "future"
     },
     "minermaniac.com": {
@@ -5177,6 +5212,11 @@
     "mwgrinpool.com": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "mwor.gq": {
+        "epoch": 1885680000.0,
+        "expiration_date": "03-oct-2029",
         "state": "future"
     },
     "mybtccoin.com": {
@@ -5879,6 +5919,11 @@
         "expiration_date": "26-nov-2020",
         "state": "future"
     },
+    "ppxxmr.com": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
     "pr0gram.org": {
         "epoch": 1613952000.0,
         "expiration_date": "22-feb-2021",
@@ -6252,6 +6297,11 @@
     "shoptoptop.com": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "showcoins.org": {
+        "epoch": 1597449600.0,
+        "expiration_date": "15-aug-2020",
         "state": "future"
     },
     "shscrypto.net": {
