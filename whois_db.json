@@ -794,6 +794,11 @@
         "expiration_date": "25-feb-2020",
         "state": "past"
     },
+    "after50days.com": {
+        "epoch": 1592006400.0,
+        "expiration_date": "13-jun-2020",
+        "state": "future"
+    },
     "agilital.com": {
         "epoch": 1609718400.0,
         "expiration_date": "04-jan-2021",
@@ -2132,6 +2137,11 @@
     "bottlecapspool.com": {
         "epoch": 1608076800.0,
         "expiration_date": "16-dec-2020",
+        "state": "future"
+    },
+    "bpool.com": {
+        "epoch": 1660694400.0,
+        "expiration_date": "17-aug-2022",
         "state": "future"
     },
     "bpool.id": {
@@ -4482,6 +4492,11 @@
     "hash4.life": {
         "epoch": 1609200000.0,
         "expiration_date": "29-dec-2020",
+        "state": "future"
+    },
+    "hashbag.cc": {
+        "epoch": 1600992000.0,
+        "expiration_date": "25-sep-2020",
         "state": "future"
     },
     "hashbook.net": {
@@ -7164,6 +7179,11 @@
         "expiration_date": "29-may-2020",
         "state": "future"
     },
+    "rmc.one": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "rocks.io": {
         "epoch": 1605398400.0,
         "expiration_date": "15-nov-2020",
@@ -7663,6 +7683,11 @@
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
         "state": "future"
+    },
+    "stringengines.com": {
+        "epoch": 1582156800.0,
+        "expiration_date": "20-feb-2020",
+        "state": "past"
     },
     "suchcoins.com": {
         "epoch": 1616025600.0,
