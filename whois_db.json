@@ -1549,6 +1549,11 @@
         "expiration_date": "27-oct-2020",
         "state": "future"
     },
+    "biberukalap.com": {
+        "epoch": 1599091200.0,
+        "expiration_date": "03-sep-2020",
+        "state": "future"
+    },
     "bibop.net": {
         "epoch": 1609027200.0,
         "expiration_date": "27-dec-2020",
@@ -3237,6 +3242,11 @@
     "dllinjector.com": {
         "epoch": 1616112000.0,
         "expiration_date": "19-mar-2021",
+        "state": "future"
+    },
+    "dlsft.com": {
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
         "state": "future"
     },
     "dmpools.com": {
@@ -5049,6 +5059,11 @@
         "expiration_date": "15-sep-2020",
         "state": "future"
     },
+    "mempool.com": {
+        "epoch": 1731542400.0,
+        "expiration_date": "14-nov-2024",
+        "state": "future"
+    },
     "mergemining.com": {
         "epoch": 1612828800.0,
         "expiration_date": "09-feb-2021",
@@ -5647,6 +5662,11 @@
     "mwor.gq": {
         "epoch": 1885680000.0,
         "expiration_date": "03-oct-2029",
+        "state": "future"
+    },
+    "my-rigs.com": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "mybtccoin.com": {
@@ -6889,6 +6909,11 @@
         "expiration_date": "24-aug-2026",
         "state": "future"
     },
+    "siamining.com": {
+        "epoch": 1593216000.0,
+        "expiration_date": "27-jun-2020",
+        "state": "future"
+    },
     "sighash.info": {
         "epoch": 1614556800.0,
         "expiration_date": "01-mar-2021",
@@ -7259,6 +7284,11 @@
         "expiration_date": "18-aug-2020",
         "state": "future"
     },
+    "tgtvbngp.ru": {
+        "epoch": 1594339200.0,
+        "expiration_date": "10-jul-2020",
+        "state": "future"
+    },
     "thathislitt.ru": {
         "epoch": 1594252800.0,
         "expiration_date": "09-jul-2020",
@@ -7302,6 +7332,11 @@
     "thepool.life": {
         "epoch": 1604793600.0,
         "expiration_date": "08-nov-2020",
+        "state": "future"
+    },
+    "theskynet.xyz": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
         "state": "future"
     },
     "thetapool.com": {
@@ -8158,5 +8193,10 @@
         "epoch": 1576713600.0,
         "expiration_date": "19-dec-2019",
         "state": "past"
+    },
+    "zyrkminer.com": {
+        "epoch": 1592265600.0,
+        "expiration_date": "16-jun-2020",
+        "state": "future"
     }
 }
