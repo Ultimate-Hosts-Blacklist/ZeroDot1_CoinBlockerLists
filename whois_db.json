@@ -1359,6 +1359,11 @@
         "expiration_date": "08-may-2021",
         "state": "future"
     },
+    "asicminermarket.com": {
+        "epoch": 1620086400.0,
+        "expiration_date": "04-may-2021",
+        "state": "future"
+    },
     "asiconminer.com": {
         "epoch": 1616284800.0,
         "expiration_date": "21-mar-2021",
@@ -1957,6 +1962,11 @@
     "bitcoininterest.io": {
         "epoch": 1607817600.0,
         "expiration_date": "13-dec-2020",
+        "state": "future"
+    },
+    "bitcoinlatina.org": {
+        "epoch": 1605830400.0,
+        "expiration_date": "20-nov-2020",
         "state": "future"
     },
     "bitcoinmonkey.com": {
@@ -6514,6 +6524,11 @@
         "expiration_date": "14-may-2020",
         "state": "future"
     },
+    "mmpool.com": {
+        "epoch": 1645920000.0,
+        "expiration_date": "27-feb-2022",
+        "state": "future"
+    },
     "mnmnnm.com": {
         "epoch": 1584835200.0,
         "expiration_date": "22-mar-2020",
@@ -7774,6 +7789,11 @@
         "expiration_date": "13-jan-2021",
         "state": "future"
     },
+    "publicvm.com": {
+        "epoch": 1626652800.0,
+        "expiration_date": "19-jul-2021",
+        "state": "future"
+    },
     "pubyun.com": {
         "epoch": 1614988800.0,
         "expiration_date": "06-mar-2021",
@@ -8657,6 +8677,16 @@
     "systemten.org": {
         "epoch": 1617062400.0,
         "expiration_date": "30-mar-2021",
+        "state": "future"
+    },
+    "taler-pool.online": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
+        "state": "future"
+    },
+    "talleo.org": {
+        "epoch": 1603324800.0,
+        "expiration_date": "22-oct-2020",
         "state": "future"
     },
     "tastiger.net": {
@@ -9717,6 +9747,11 @@
     "zergpool.com": {
         "epoch": 1640390400.0,
         "expiration_date": "25-dec-2021",
+        "state": "future"
+    },
+    "zeropool.io": {
+        "epoch": 1611273600.0,
+        "expiration_date": "22-jan-2021",
         "state": "future"
     },
     "zeropool.org": {
