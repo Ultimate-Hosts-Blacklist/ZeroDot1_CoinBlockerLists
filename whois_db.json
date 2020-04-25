@@ -2119,6 +2119,11 @@
         "expiration_date": "25-jan-2024",
         "state": "future"
     },
+    "bittrex.family": {
+        "epoch": 1596585600.0,
+        "expiration_date": "05-aug-2020",
+        "state": "future"
+    },
     "bittrexbtc.com": {
         "epoch": 1605744000.0,
         "expiration_date": "19-nov-2020",
@@ -7452,6 +7457,11 @@
     "pool.gold": {
         "epoch": 1601337600.0,
         "expiration_date": "29-sep-2020",
+        "state": "future"
+    },
+    "pool.pink": {
+        "epoch": 1610150400.0,
+        "expiration_date": "09-jan-2021",
         "state": "future"
     },
     "pool.se": {
