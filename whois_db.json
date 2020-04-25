@@ -3974,6 +3974,11 @@
         "expiration_date": "14-dec-2020",
         "state": "future"
     },
+    "ether1.org": {
+        "epoch": 1616716800.0,
+        "expiration_date": "26-mar-2021",
+        "state": "future"
+    },
     "ether1pool.org": {
         "epoch": 1617408000.0,
         "expiration_date": "03-apr-2021",
@@ -4097,6 +4102,11 @@
     "extremepool.org": {
         "epoch": 1595721600.0,
         "expiration_date": "26-jul-2020",
+        "state": "future"
+    },
+    "ezil.me": {
+        "epoch": 1619049600.0,
+        "expiration_date": "22-apr-2021",
         "state": "future"
     },
     "f1tbit.com": {
@@ -4604,6 +4614,11 @@
         "expiration_date": "23-mar-2020",
         "state": "past"
     },
+    "gpugold.com": {
+        "epoch": 1603929600.0,
+        "expiration_date": "29-oct-2020",
+        "state": "future"
+    },
     "gpuhash.org": {
         "epoch": 1595462400.0,
         "expiration_date": "23-jul-2020",
@@ -4772,7 +4787,7 @@
     "hashcoins.ee": {
         "epoch": 1586304000.0,
         "expiration_date": "08-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "hashcoins.ru": {
         "epoch": 1620691200.0,
@@ -6079,6 +6094,11 @@
         "expiration_date": "18-jul-2020",
         "state": "future"
     },
+    "minether.co": {
+        "epoch": 1599955200.0,
+        "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
     "minetrtl.us": {
         "epoch": 1611187200.0,
         "expiration_date": "21-jan-2021",
@@ -6592,6 +6612,11 @@
     "newcpucoins.com": {
         "epoch": 1617580800.0,
         "expiration_date": "05-apr-2021",
+        "state": "future"
+    },
+    "newpool.cool": {
+        "epoch": 1610755200.0,
+        "expiration_date": "16-jan-2021",
         "state": "future"
     },
     "newpool.pw": {
@@ -7179,6 +7204,11 @@
         "expiration_date": "19-may-2021",
         "state": "future"
     },
+    "pool-node.com": {
+        "epoch": 1614902400.0,
+        "expiration_date": "05-mar-2021",
+        "state": "future"
+    },
     "pool-pay.com": {
         "epoch": 1602460800.0,
         "expiration_date": "12-oct-2020",
@@ -7292,6 +7322,11 @@
     "poolin.com": {
         "epoch": 1747958400.0,
         "expiration_date": "23-may-2025",
+        "state": "future"
+    },
+    "poolium.win": {
+        "epoch": 1659312000.0,
+        "expiration_date": "01-aug-2022",
         "state": "future"
     },
     "poolmin.com": {
@@ -9347,6 +9382,11 @@
     "zombiepool.run": {
         "epoch": 1599177600.0,
         "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
+    "zona.plus": {
+        "epoch": 1612137600.0,
+        "expiration_date": "01-feb-2021",
         "state": "future"
     },
     "zpool.ca": {
