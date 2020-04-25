@@ -994,6 +994,11 @@
         "expiration_date": "16-apr-2021",
         "state": "future"
     },
+    "altcoincash.xyz": {
+        "epoch": 1619654400.0,
+        "expiration_date": "29-apr-2021",
+        "state": "future"
+    },
     "altcoiner.net": {
         "epoch": 1613952000.0,
         "expiration_date": "22-feb-2021",
@@ -2759,6 +2764,11 @@
         "expiration_date": "17-apr-2022",
         "state": "future"
     },
+    "coinmaster.store": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
     "coinmine.pl": {
         "epoch": 1620345600.0,
         "expiration_date": "07-may-2021",
@@ -3292,6 +3302,11 @@
     "cryptopool.network": {
         "epoch": 1603238400.0,
         "expiration_date": "21-oct-2020",
+        "state": "future"
+    },
+    "cryptopool.online": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "cryptopool.org": {
@@ -3950,9 +3965,9 @@
         "state": "future"
     },
     "extensionsapiversion.space": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
-        "state": "past"
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
+        "state": "future"
     },
     "extremehash.io": {
         "epoch": 1590969600.0,
@@ -8565,8 +8580,8 @@
         "state": "future"
     },
     "webxmr.com": {
-        "epoch": 1586563200.0,
-        "expiration_date": "11-apr-2020",
+        "epoch": 1618099200.0,
+        "expiration_date": "11-apr-2021",
         "state": "future"
     },
     "weekendpool.info": {
