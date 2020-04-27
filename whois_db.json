@@ -290,8 +290,8 @@
         "state": "future"
     },
     "20dailycoin.com": {
-        "epoch": 1587686400.0,
-        "expiration_date": "24-apr-2020",
+        "epoch": 1619222400.0,
+        "expiration_date": "24-apr-2021",
         "state": "future"
     },
     "212btc.com": {
@@ -1873,6 +1873,11 @@
         "epoch": 1603756800.0,
         "expiration_date": "27-oct-2020",
         "state": "future"
+    },
+    "bezoglasa.online": {
+        "epoch": 1581724800.0,
+        "expiration_date": "15-feb-2020",
+        "state": "past"
     },
     "biberukalap.com": {
         "epoch": 1599091200.0,
@@ -5072,6 +5077,11 @@
     "gemius.pl": {
         "epoch": 1621036800.0,
         "expiration_date": "15-may-2021",
+        "state": "future"
+    },
+    "genesis-mining.com": {
+        "epoch": 1612569600.0,
+        "expiration_date": "06-feb-2021",
         "state": "future"
     },
     "genom.tech": {
@@ -10547,6 +10557,11 @@
     "xn--polonex-cza.com": {
         "epoch": 1589500800.0,
         "expiration_date": "15-may-2020",
+        "state": "future"
+    },
+    "xnpool.com": {
+        "epoch": 1614729600.0,
+        "expiration_date": "03-mar-2021",
         "state": "future"
     },
     "xpoloniex.com": {
