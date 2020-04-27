@@ -2519,6 +2519,11 @@
         "expiration_date": "08-jun-2020",
         "state": "future"
     },
+    "boompool.ru": {
+        "epoch": 1605657600.0,
+        "expiration_date": "18-nov-2020",
+        "state": "future"
+    },
     "bot.tips": {
         "epoch": 1597881600.0,
         "expiration_date": "20-aug-2020",
@@ -5358,6 +5363,11 @@
         "epoch": 1583280000.0,
         "expiration_date": "04-mar-2020",
         "state": "past"
+    },
+    "grin-pool.org": {
+        "epoch": 1592352000.0,
+        "expiration_date": "17-jun-2020",
+        "state": "future"
     },
     "grinmint.com": {
         "epoch": 1593475200.0,
@@ -9877,6 +9887,11 @@
     "trackerbuzz.info": {
         "epoch": 1613347200.0,
         "expiration_date": "15-feb-2021",
+        "state": "future"
+    },
+    "traffic-tech-service.info": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "traviilo.com": {
