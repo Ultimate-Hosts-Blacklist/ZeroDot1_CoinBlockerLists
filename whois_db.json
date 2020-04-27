@@ -1555,9 +1555,9 @@
         "state": "future"
     },
     "austpool.com": {
-        "epoch": 1587772800.0,
-        "expiration_date": "25-apr-2020",
-        "state": "past"
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
+        "state": "future"
     },
     "authcaptcha.com": {
         "epoch": 1593129600.0,
@@ -3173,6 +3173,11 @@
         "epoch": 1607558400.0,
         "expiration_date": "10-dec-2020",
         "state": "future"
+    },
+    "coineasybuy.com": {
+        "epoch": 1583539200.0,
+        "expiration_date": "07-mar-2020",
+        "state": "past"
     },
     "coinerra.com": {
         "epoch": 1600992000.0,
