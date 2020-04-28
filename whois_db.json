@@ -7594,6 +7594,11 @@
         "expiration_date": "27-mar-2021",
         "state": "future"
     },
+    "moonsade.com": {
+        "epoch": 1617494400.0,
+        "expiration_date": "04-apr-2021",
+        "state": "future"
+    },
     "moriaxmr.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
@@ -8573,6 +8578,11 @@
         "epoch": 1610236800.0,
         "expiration_date": "10-jan-2021",
         "state": "future"
+    },
+    "poloniex.live": {
+        "epoch": 1582329600.0,
+        "expiration_date": "22-feb-2020",
+        "state": "past"
     },
     "poloniex.partners": {
         "epoch": 1600214400.0,
