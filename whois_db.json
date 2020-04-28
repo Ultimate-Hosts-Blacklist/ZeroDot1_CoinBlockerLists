@@ -1129,6 +1129,11 @@
         "expiration_date": "16-feb-2020",
         "state": "past"
     },
+    "amazingdeposit.com": {
+        "epoch": 1602460800.0,
+        "expiration_date": "12-oct-2020",
+        "state": "future"
+    },
     "amazonhash.com": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
@@ -2402,7 +2407,7 @@
     "bleachx.ru": {
         "epoch": 1588032000.0,
         "expiration_date": "28-apr-2020",
-        "state": "future"
+        "state": "past"
     },
     "bloc-developer.com": {
         "epoch": 1588377600.0,
@@ -7032,6 +7037,11 @@
     "miner-world.com": {
         "epoch": 1611446400.0,
         "expiration_date": "24-jan-2021",
+        "state": "future"
+    },
+    "miner.center": {
+        "epoch": 1592870400.0,
+        "expiration_date": "23-jun-2020",
         "state": "future"
     },
     "miner.hosting": {
