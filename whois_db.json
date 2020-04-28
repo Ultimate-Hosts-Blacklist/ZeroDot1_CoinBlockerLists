@@ -3504,6 +3504,11 @@
         "expiration_date": "16-oct-2020",
         "state": "future"
     },
+    "communitypool.org": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
     "conhive.com": {
         "epoch": 1594684800.0,
         "expiration_date": "14-jul-2020",
@@ -7668,6 +7673,11 @@
         "epoch": 1620518400.0,
         "expiration_date": "09-may-2021",
         "state": "future"
+    },
+    "multiblockchains.com": {
+        "epoch": 1581811200.0,
+        "expiration_date": "16-feb-2020",
+        "state": "past"
     },
     "multicoin.co": {
         "epoch": 1587340800.0,
