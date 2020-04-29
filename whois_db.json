@@ -2819,6 +2819,11 @@
         "expiration_date": "16-aug-2021",
         "state": "future"
     },
+    "buyandfun.review": {
+        "epoch": 1584316800.0,
+        "expiration_date": "16-mar-2020",
+        "state": "past"
+    },
     "bw.com": {
         "epoch": 1788912000.0,
         "expiration_date": "09-sep-2026",
@@ -11142,6 +11147,11 @@
     "xmrig.info": {
         "epoch": 1600214400.0,
         "expiration_date": "16-sep-2020",
+        "state": "future"
+    },
+    "xmrlab.com": {
+        "epoch": 1601856000.0,
+        "expiration_date": "05-oct-2020",
         "state": "future"
     },
     "xmrminerpro.com": {
