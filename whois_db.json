@@ -5019,6 +5019,11 @@
         "expiration_date": "30-dec-2020",
         "state": "future"
     },
+    "fcpool.com": {
+        "epoch": 1583625600.0,
+        "expiration_date": "08-mar-2020",
+        "state": "past"
+    },
     "feesocrald.com": {
         "epoch": 1634169600.0,
         "expiration_date": "14-oct-2021",
@@ -7262,6 +7267,11 @@
     "minerall.io": {
         "epoch": 1604102400.0,
         "expiration_date": "31-oct-2020",
+        "state": "future"
+    },
+    "minercartel.com": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "minercircle.com": {
