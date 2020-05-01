@@ -5189,6 +5189,11 @@
         "expiration_date": "04-sep-2020",
         "state": "future"
     },
+    "flightsy.win": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "flightzy.bid": {
         "epoch": 1602288000.0,
         "expiration_date": "10-oct-2020",
@@ -5887,7 +5892,7 @@
     "hashfaster.com": {
         "epoch": 1588291200.0,
         "expiration_date": "01-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "hashflare.io": {
         "epoch": 1734220800.0,
