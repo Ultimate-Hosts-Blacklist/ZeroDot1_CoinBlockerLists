@@ -3729,6 +3729,11 @@
         "expiration_date": "07-may-2021",
         "state": "future"
     },
+    "cpu-pool.com": {
+        "epoch": 1590451200.0,
+        "expiration_date": "26-may-2020",
+        "state": "future"
+    },
     "cpu-pool.net": {
         "epoch": 1594771200.0,
         "expiration_date": "15-jul-2020",
@@ -8152,7 +8157,7 @@
     "mycryptopool.info": {
         "epoch": 1588464000.0,
         "expiration_date": "03-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "mycryrpto.com": {
         "epoch": 1588550400.0,
