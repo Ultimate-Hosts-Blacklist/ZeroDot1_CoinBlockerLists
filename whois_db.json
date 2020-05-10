@@ -3605,9 +3605,9 @@
         "state": "future"
     },
     "coinpot.co": {
-        "epoch": 1588636800.0,
-        "expiration_date": "05-may-2020",
-        "state": "past"
+        "epoch": 1620172800.0,
+        "expiration_date": "05-may-2021",
+        "state": "future"
     },
     "coinrelay.com": {
         "epoch": 1616630400.0,
@@ -8670,9 +8670,9 @@
         "state": "future"
     },
     "oddpools.org": {
-        "epoch": 1588896000.0,
-        "expiration_date": "08-may-2020",
-        "state": "past"
+        "epoch": 1620432000.0,
+        "expiration_date": "08-may-2021",
+        "state": "future"
     },
     "odpool.com": {
         "epoch": 1602720000.0,
@@ -8992,6 +8992,11 @@
     "persianmine.com": {
         "epoch": 1610582400.0,
         "expiration_date": "14-jan-2021",
+        "state": "future"
+    },
+    "pertholin.com": {
+        "epoch": 1618185600.0,
+        "expiration_date": "12-apr-2021",
         "state": "future"
     },
     "petahash.io": {
