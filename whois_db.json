@@ -1730,9 +1730,9 @@
         "state": "future"
     },
     "automining.io": {
-        "epoch": 1589068800.0,
-        "expiration_date": "10-may-2020",
-        "state": "past"
+        "epoch": 1620604800.0,
+        "expiration_date": "10-may-2021",
+        "state": "future"
     },
     "automoneysurf.com": {
         "epoch": 1600992000.0,
@@ -7059,6 +7059,11 @@
         "expiration_date": "09-oct-2020",
         "state": "future"
     },
+    "loki-pool.com": {
+        "epoch": 1617926400.0,
+        "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
     "lokipool.net": {
         "epoch": 1609977600.0,
         "expiration_date": "07-jan-2021",
@@ -7942,6 +7947,11 @@
     "mkt-coin.com": {
         "epoch": 1618790400.0,
         "expiration_date": "19-apr-2021",
+        "state": "future"
+    },
+    "mmc.center": {
+        "epoch": 1620259200.0,
+        "expiration_date": "06-may-2021",
         "state": "future"
     },
     "mmmoneropool.com": {
