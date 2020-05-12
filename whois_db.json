@@ -2644,6 +2644,11 @@
         "expiration_date": "20-dec-2020",
         "state": "future"
     },
+    "blockfinders.co.uk": {
+        "epoch": 1587772800.0,
+        "expiration_date": "25-apr-2020",
+        "state": "past"
+    },
     "blockfoundry.org": {
         "epoch": 1619136000.0,
         "expiration_date": "23-apr-2021",
@@ -11167,6 +11172,11 @@
     "ufocoin.co": {
         "epoch": 1617926400.0,
         "expiration_date": "09-apr-2021",
+        "state": "future"
+    },
+    "ufocoin.net": {
+        "epoch": 1595030400.0,
+        "expiration_date": "18-jul-2020",
         "state": "future"
     },
     "ukkey3.space": {
