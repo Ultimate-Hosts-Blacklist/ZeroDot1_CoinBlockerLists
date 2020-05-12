@@ -165,8 +165,8 @@
 0.0.0.0 100-33.openvpn.btcchina.com
 0.0.0.0 100-3x.com
 0.0.0.0 10045.openvpn.btcchina.com
-0.0.0.0 10053.openvpn.btcchina.com
 0.0.0.0 100-53.openvpn.btcchina.com
+0.0.0.0 10053.openvpn.btcchina.com
 0.0.0.0 10066.openvpn.f2pool.com
 0.0.0.0 10072.openvpn.f2pool.com
 0.0.0.0 10073.btcc.com
@@ -188,8 +188,8 @@
 0.0.0.0 101-201.openvpn.btcchina.com
 0.0.0.0 10145.btcc.com
 0.0.0.0 10-149.openvpn.btcchina.com
-0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 10152.openvpn.btcchina.com
+0.0.0.0 101-52.openvpn.btcchina.com
 0.0.0.0 1017a.openvpn.btcchina.com
 0.0.0.0 101-80.openvpn.btcchina.com
 0.0.0.0 10-181.openvpn.btcchina.com
@@ -429,6 +429,7 @@
 0.0.0.0 15.108.hpool.com
 0.0.0.0 1512f.btcc.com
 0.0.0.0 15.154.cryptopool.eu
+0.0.0.0 15.154.hpool.com
 0.0.0.0 151-61.btcc.com
 0.0.0.0 15193.btcc.com
 0.0.0.0 15230.btcc.com
@@ -895,8 +896,8 @@
 0.0.0.0 352b6cd4a00b.coinpoolit.webhop.me
 0.0.0.0 35df.openvpn.f2pool.com
 0.0.0.0 360caa42.space
-0.0.0.0 360kci.moneroseeds.ae.org
 0.0.0.0 360.kci.moneroseeds.ae.org
+0.0.0.0 360kci.moneroseeds.ae.org
 0.0.0.0 360.miningpool.thruhere.net
 0.0.0.0 36-202.btcc.com
 0.0.0.0 367-242.btcc.com
@@ -909,8 +910,8 @@
 0.0.0.0 374-18.btcc.com
 0.0.0.0 37593.btcc.com
 0.0.0.0 3790.openvpn.f2pool.com
-0.0.0.0 379.btcc.com
 0.0.0.0 3-79.btcc.com
+0.0.0.0 379.btcc.com
 0.0.0.0 3924.evolution-project.go.ro
 0.0.0.0 394-152.btcc.com
 0.0.0.0 3982.openvpn.f2pool.com
@@ -975,6 +976,7 @@
 0.0.0.0 43britney.btcc.com
 0.0.0.0 44.41.224.static.nocroom.com
 0.0.0.0 44.41.228.static.nocroom.com
+0.0.0.0 44.41.229.static.nocroom.com
 0.0.0.0 44.41.231.static.nocroom.com
 0.0.0.0 44.41.234.static.nocroom.com
 0.0.0.0 44.41.237.static.nocroom.com
@@ -1107,6 +1109,7 @@
 0.0.0.0 6tsbe1zs.me
 0.0.0.0 6west.miningpool.thruhere.net
 0.0.0.0 6ww.static.btcc.com
+0.0.0.0 710-230.btcc.com
 0.0.0.0 71hgfe.btcc.com
 0.0.0.0 725-129.btcc.com
 0.0.0.0 729-30.btcc.com
@@ -1290,6 +1293,7 @@
 0.0.0.0 accesid-token-idcloud.miningpool.thruhere.net
 0.0.0.0 access-cash.moneroseeds.ae.org
 0.0.0.0 access.clona.ru
+0.0.0.0 access.miningpool.thruhere.net
 0.0.0.0 accessmyaccount.coinpoolit.webhop.me
 0.0.0.0 accesstgp.onlycash.ddns.net
 0.0.0.0 accessupportapps.coinpoolit.webhop.me
@@ -2133,8 +2137,8 @@
 0.0.0.0 appleid-lockedverif.coinpoolit.webhop.me
 0.0.0.0 appleid-login.coinpoolit.webhop.me
 0.0.0.0 appleid.onlycash.ddns.net
-0.0.0.0 appleid-review.coinpoolit.webhop.me
 0.0.0.0 apple-idreview.coinpoolit.webhop.me
+0.0.0.0 appleid-review.coinpoolit.webhop.me
 0.0.0.0 appleids.coinpoolit.webhop.me
 0.0.0.0 appleidsecures.coinpoolit.webhop.me
 0.0.0.0 appleid-server.onlycash.ddns.net
@@ -2478,8 +2482,8 @@
 0.0.0.0 atus.onlycash.ddns.net
 0.0.0.0 atvaark.onlycash.ddns.net
 0.0.0.0 atzilut.onlycash.ddns.net
-0.0.0.0 au.bitcoin.co.pt
 0.0.0.0 a.u.bitcoin.co.pt
+0.0.0.0 au.bitcoin.co.pt
 0.0.0.0 au.btc.com
 0.0.0.0 au.coin-miners.info
 0.0.0.0 audadem.evolution-project.go.ro
@@ -2499,6 +2503,7 @@
 0.0.0.0 aura-pplns.ehashcoins.org
 0.0.0.0 auras.mole-pool.net
 0.0.0.0 aura.upool.in
+0.0.0.0 aur.coin-lab.com
 0.0.0.0 aur.mine-vn.com
 0.0.0.0 aur.nordicp2pool.org
 0.0.0.0 auro.nordicp2pool.org
@@ -2752,8 +2757,8 @@
 0.0.0.0 bam.suprnova.cc
 0.0.0.0 banana-dc.evolution-project.go.ro
 0.0.0.0 bancnoteleromanesti.evolution-project.go.ro
-0.0.0.0 bancobradesco.coinpoolit.webhop.me
 0.0.0.0 banco-bradesco.coinpoolit.webhop.me
+0.0.0.0 bancobradesco.coinpoolit.webhop.me
 0.0.0.0 bandboxical.safex.org
 0.0.0.0 baneasa-ap.evolution-project.go.ro
 0.0.0.0 banesvim.onlycash.ddns.net
@@ -4568,8 +4573,8 @@
 0.0.0.0 communitypool.stellite.ca
 0.0.0.0 community-staging.node.xmr.to
 0.0.0.0 community-staging.staging.xmr.to
-0.0.0.0 community-staging.xmr.to
 0.0.0.0 community.staging.xmr.to
+0.0.0.0 community-staging.xmr.to
 0.0.0.0 co.moneroseeds.ae.org
 0.0.0.0 compass.coinpoolit.webhop.me
 0.0.0.0 comp.minertopia.org
@@ -4998,6 +5003,7 @@
 0.0.0.0 crypto.webmine.pro
 0.0.0.0 crypto.wlink-net.com
 0.0.0.0 crypt-term.net
+0.0.0.0 crystal.hashlink.eu
 0.0.0.0 cs10-1-chi.fix.btcc.com
 0.0.0.0 cs1.fix.btcc.com
 0.0.0.0 csaba.evolution-project.go.ro
@@ -5328,6 +5334,7 @@
 0.0.0.0 dc-2746c4d989f5.pickaxe.pro
 0.0.0.0 dc-2dfdd43047b6.bitcanna.io
 0.0.0.0 dc-30e1bd1e7a6c.llama.horse
+0.0.0.0 dc-3c0d77cc399d.ispace.co.uk
 0.0.0.0 dc-42915ab3.cryptoescrow.eu
 0.0.0.0 dc-42d8716d7420.arqma.com
 0.0.0.0 dc-459ba6fdaea6.antminers-bitmain.com
@@ -5868,6 +5875,7 @@
 0.0.0.0 donate.xmrig.com
 0.0.0.0 donate.xmrminingpool.net
 0.0.0.0 donner.coinpoolit.webhop.me
+0.0.0.0 donot.coinpoolit.webhop.me
 0.0.0.0 dont.coinpoolit.webhop.me
 0.0.0.0 doogs.onlycash.ddns.net
 0.0.0.0 doolyk.onlycash.ddns.net
@@ -6074,6 +6082,7 @@
 0.0.0.0 dzcamvip.onlycash.ddns.net
 0.0.0.0 dzpr.zzszgz.com
 0.0.0.0 e06577rodriguez.onlycash.ddns.net
+0.0.0.0 e167.btcc.com
 0.0.0.0 e1.coinpoolit.webhop.me
 0.0.0.0 e219.btcc.com
 0.0.0.0 e2.btcc.com
@@ -6924,8 +6933,8 @@
 0.0.0.0 eu.s.smartpool.by
 0.0.0.0 eu.stratum.node.viaxmr.com
 0.0.0.0 eu-stratum.node.viaxmr.com
-0.0.0.0 eu.stratum.viaxmr.com
 0.0.0.0 eu-stratum.viaxmr.com
+0.0.0.0 eu.stratum.viaxmr.com
 0.0.0.0 eu.suprnova.cc
 0.0.0.0 eu-swap.sushipool.com
 0.0.0.0 eu-test.sushipool.com
@@ -7270,6 +7279,7 @@
 0.0.0.0 ffinwwfpqi.gq
 0.0.0.0 ffjk.space
 0.0.0.0 ffvp.em.bitcoin.co.pt
+0.0.0.0 ffzu.onlycash.ddns.net
 0.0.0.0 fg7452wepol.coinpoolit.webhop.me
 0.0.0.0 fgbhcvbxcvxcvxc.coinpoolit.webhop.me
 0.0.0.0 fge9vbrzwt.bid
@@ -7533,8 +7543,8 @@
 0.0.0.0 frankfurt01.sumokoin.nodes.hashvault.pro
 0.0.0.0 frankfurt01.sumo.nodes.hashvault.pro
 0.0.0.0 frankfurt01.turtle.nodes.hashvault.pro
-0.0.0.0 frankfurt01.xcash.hashvault.pro
 0.0.0.0 frankfurt01.x-cash.hashvault.pro
+0.0.0.0 frankfurt01.xcash.hashvault.pro
 0.0.0.0 frankfurt01.xcash.nodes.hashvault.pro
 0.0.0.0 frankfurt02.electroneum.hashvault.pro
 0.0.0.0 frankfurt03.electroneum.hashvault.pro
@@ -7580,8 +7590,8 @@
 0.0.0.0 freedomfirearms.miningpool.thruhere.net
 0.0.0.0 freeelectron.evolution-project.go.ro
 0.0.0.0 freefire118.coinpoolit.webhop.me
-0.0.0.0 freefire18-event.coinpoolit.webhop.me
 0.0.0.0 freefire18event.coinpoolit.webhop.me
+0.0.0.0 freefire18-event.coinpoolit.webhop.me
 0.0.0.0 freefire-2018.coinpoolit.webhop.me
 0.0.0.0 freefire2018h.coinpoolit.webhop.me
 0.0.0.0 freefire.coinpoolit.webhop.me
@@ -7879,6 +7889,7 @@
 0.0.0.0 gep.cryptobrowser.site
 0.0.0.0 gerritschwerthelm.onlycash.ddns.net
 0.0.0.0 gestluz.em.bitcoin.co.pt
+0.0.0.0 gestsys.onlycash.ddns.net
 0.0.0.0 ge.suprnova.cc
 0.0.0.0 getamitrut.evolution-project.go.ro
 0.0.0.0 getbetter.evolution-project.go.ro
@@ -8222,8 +8233,8 @@
 0.0.0.0 gtwgd.evolution-project.go.ro
 0.0.0.0 guam.fix.btcc.com
 0.0.0.0 gua.onlycash.ddns.net
-0.0.0.0 guard-energi.minecrypto.pro
 0.0.0.0 guard.energi.minecrypto.pro
+0.0.0.0 guard-energi.minecrypto.pro
 0.0.0.0 gu.btcc.com
 0.0.0.0 gucky24.coinpoolit.webhop.me
 0.0.0.0 gue.node.coin-miners.info
@@ -8673,8 +8684,8 @@
 0.0.0.0 hosting.moneroseeds.ae.org
 0.0.0.0 hosting.node.coin-miners.info
 0.0.0.0 hosting.pool.golix.com
-0.0.0.0 hostmaster0769.it
 0.0.0.0 hostmaster.0769.it
+0.0.0.0 hostmaster0769.it
 0.0.0.0 hostmaster.216.futurecoins.club
 0.0.0.0 hostmaster.akroma.org
 0.0.0.0 hostmaster.altcoinpool.club
@@ -9374,6 +9385,7 @@
 0.0.0.0 inx.cryptonote.club
 0.0.0.0 ioe.suprnova.cc
 0.0.0.0 ioeu.evolution-project.go.ro
+0.0.0.0 ioinf.coinpoolit.webhop.me
 0.0.0.0 iojdioewdwe.xyz
 0.0.0.0 ionelmc.evolution-project.go.ro
 0.0.0.0 ionescu77.evolution-project.go.ro
@@ -9691,15 +9703,15 @@
 0.0.0.0 jp-new.nicehash.com.nicehash.com
 0.0.0.0 jp.simplemining.net
 0.0.0.0 jp-stratum.btcc.com
-0.0.0.0 jp.stratum.node.viaxmr.com
 0.0.0.0 jp-stratum.node.viaxmr.com
+0.0.0.0 jp.stratum.node.viaxmr.com
 0.0.0.0 jp-stratum.viaxmr.com
 0.0.0.0 jp.stratum.viaxmr.com
 0.0.0.0 jpyfmkpu.coinpoolit.webhop.me
 0.0.0.0 jqcdn.do
 0.0.0.0 jqrcdn.do
-0.0.0.0 jqrcdn.download
 0.0.0.0 jqr-cdn.download
+0.0.0.0 jqrcdn.download
 0.0.0.0 jquerrycdn.do
 0.0.0.0 jquerrycdn.download
 0.0.0.0 jquery-cdn.do
@@ -10108,6 +10120,7 @@
 0.0.0.0 lastmx.bluematt.me
 0.0.0.0 lastsheltersurvival.coinpoolit.webhop.me
 0.0.0.0 latam.sucrecoin.org
+0.0.0.0 latihan.coinpoolit.webhop.me
 0.0.0.0 latitude.miningpool.thruhere.net
 0.0.0.0 laundromation.onlycash.ddns.net
 0.0.0.0 laurentiu.evolution-project.go.ro
@@ -10245,8 +10258,8 @@
 0.0.0.0 liligardin.evolution-project.go.ro
 0.0.0.0 limejuly.onlycash.ddns.net
 0.0.0.0 limi.suprnova.cc
-0.0.0.0 limited-account.coinpoolit.webhop.me
 0.0.0.0 limitedaccount.coinpoolit.webhop.me
+0.0.0.0 limited-account.coinpoolit.webhop.me
 0.0.0.0 limited-verify.onlycash.ddns.net
 0.0.0.0 lim.poolto.be
 0.0.0.0 lincelogos.onlycash.ddns.net
@@ -10353,8 +10366,8 @@
 0.0.0.0 lns.youpool.io
 0.0.0.0 lo1.btcc.com
 0.0.0.0 lo4.btcc.com
-0.0.0.0 lo7.btcc.com
 0.0.0.0 lo-7.btcc.com
+0.0.0.0 lo7.btcc.com
 0.0.0.0 loach.safex.org
 0.0.0.0 load1.jsecoin.com
 0.0.0.0 loaderskypetm.coinpoolit.webhop.me
@@ -10802,6 +10815,7 @@
 0.0.0.0 mail.minershq.net
 0.0.0.0 mail.minersisland.com
 0.0.0.0 mail.minerspool.cc
+0.0.0.0 mail.minertopia.org
 0.0.0.0 mail.mine-this.com
 0.0.0.0 mail.mining-pool.fr
 0.0.0.0 mail.miningpool.online
@@ -11817,6 +11831,7 @@
 0.0.0.0 mosnita-gw.evolution-project.go.ro
 0.0.0.0 motion.1ds.us
 0.0.0.0 motion.equipool.1ds.us
+0.0.0.0 motion.minerspool.cc
 0.0.0.0 motiu.evolution-project.go.ro
 0.0.0.0 moto.evolution-project.go.ro
 0.0.0.0 mov.btcc.com
@@ -12062,8 +12077,8 @@
 0.0.0.0 mx.thecoin.pw
 0.0.0.0 mx.www.cryptopool.net
 0.0.0.0 mx.www.cryptopool.xyz
-0.0.0.0 my02.cryptobrowser.site
 0.0.0.0 my-02.cryptobrowser.site
+0.0.0.0 my02.cryptobrowser.site
 0.0.0.0 my-3.mining.garden
 0.0.0.0 myaccount-lockedapp.coinpoolit.webhop.me
 0.0.0.0 myaccount-update21.coinpoolit.webhop.me
@@ -12289,6 +12304,7 @@
 0.0.0.0 naur.thecoin.pw
 0.0.0.0 nautoconfig.coinminerz.com
 0.0.0.0 nautoconfig.cryptopool.eu
+0.0.0.0 navbar.dev.cloud.bitcoin.com
 0.0.0.0 navtest.evolution-project.go.ro
 0.0.0.0 nb3.thecoin.pw
 0.0.0.0 nba6.onlycash.ddns.net
@@ -13875,6 +13891,7 @@
 0.0.0.0 pfc.node.coin-miners.info
 0.0.0.0 pfs50w.onlycash.ddns.net
 0.0.0.0 pfservice.onlycash.ddns.net
+0.0.0.0 pgadmin.serveurjb.onlycash.ddns.net
 0.0.0.0 pgc.mine-vn.com
 0.0.0.0 pgc.node.coin-miners.info
 0.0.0.0 pgc.reidocoin.com.br
@@ -14510,6 +14527,7 @@
 0.0.0.0 pool.thulani.za.net
 0.0.0.0 pool.torque.nodes.hashvault.pro
 0.0.0.0 pool.traaittplatform.com
+0.0.0.0 pool.traid.tv
 0.0.0.0 pool.triton.nodes.hashvault.pro
 0.0.0.0 pool.trtl.cryptopool.space
 0.0.0.0 pool.trtl.hackerknowledge.de
@@ -14818,6 +14836,7 @@
 0.0.0.0 pta.coin-miners.info
 0.0.0.0 pta.node.coin-miners.info
 0.0.0.0 pth.onlycash.ddns.net
+0.0.0.0 pt.miningpool.thruhere.net
 0.0.0.0 pt.okcash.co
 0.0.0.0 ptrax.evolution-project.go.ro
 0.0.0.0 pttot.miningpool.thruhere.net
@@ -15142,6 +15161,7 @@
 0.0.0.0 redis-uk.turtlepool.space
 0.0.0.0 reditre.onlycash.ddns.net
 0.0.0.0 redkraken.onlycash.ddns.net
+0.0.0.0 redlabel.evolution-project.go.ro
 0.0.0.0 redmine.coin-lab.com
 0.0.0.0 redmine.coinpoolit.webhop.me
 0.0.0.0 redmine.reidocoin.com.br
@@ -16392,6 +16412,7 @@
 0.0.0.0 soilcoin.pools.hppcg.com
 0.0.0.0 soil.litepool.ru
 0.0.0.0 soil.minertopia.org
+0.0.0.0 soil.suprnova.cc
 0.0.0.0 soj.btcc.com
 0.0.0.0 sok.btcc.com
 0.0.0.0 solace.asiapool.io
@@ -16544,8 +16565,8 @@
 0.0.0.0 spf1.suprnova.cc
 0.0.0.0 spf2.suprnova.cc
 0.0.0.0 spf3.suprnova.cc
-0.0.0.0 _spfext.bitcoin.de
 0.0.0.0 spfext.bitcoin.de
+0.0.0.0 _spfext.bitcoin.de
 0.0.0.0 spf.mining.garden
 0.0.0.0 sphalman2.onlycash.ddns.net
 0.0.0.0 sphere.evolution-project.go.ro
@@ -17400,6 +17421,7 @@
 0.0.0.0 test.darkcoin.io
 0.0.0.0 test.ea.bitcoin.co.pt
 0.0.0.0 test.e-libra.ru
+0.0.0.0 testelph.clevery.xyz
 0.0.0.0 test-env.1thash.top
 0.0.0.0 tester.rustpool.com
 0.0.0.0 test.etherdig.org
@@ -17449,8 +17471,8 @@
 0.0.0.0 testnet.pool.golix.com
 0.0.0.0 testnet.pool.merit.me
 0.0.0.0 testnet.ravenminer.com
-0.0.0.0 test-net.sushipool.com
 0.0.0.0 testnet.sushipool.com
+0.0.0.0 test-net.sushipool.com
 0.0.0.0 testnet.ubiqpool.io
 0.0.0.0 testnet.ultranote.org
 0.0.0.0 testnet.webxmr.com
@@ -17876,6 +17898,7 @@
 0.0.0.0 tube2.herominers.com
 0.0.0.0 tube-api.semipool.com
 0.0.0.0 tube.asiapool.io
+0.0.0.0 tube.baikalmine.com
 0.0.0.0 tube.heigh-ho.funkypenguin.co.nz
 0.0.0.0 tube.pool.pool.gntl.co.uk
 0.0.0.0 tube.semipool.com
@@ -18215,6 +18238,7 @@
 0.0.0.0 usa.minexpool.nl
 0.0.0.0 usa.myzen.cash
 0.0.0.0 usa-new.nicehash.com
+0.0.0.0 usa.nicehash.com
 0.0.0.0 usa.thecryptominerpool.com
 0.0.0.0 usatodaysinder.coinpoolit.webhop.me
 0.0.0.0 usa.tompool.org
@@ -18321,8 +18345,8 @@
 0.0.0.0 us.stack.pirl.network
 0.0.0.0 us.stratum.ltc.nushor.net
 0.0.0.0 us.stratum.node.viaxmr.com
-0.0.0.0 us-stratum.viaxmr.com
 0.0.0.0 us.stratum.viaxmr.com
+0.0.0.0 us-stratum.viaxmr.com
 0.0.0.0 ustdatasciences.coinmine.pl
 0.0.0.0 us.ultranote.org
 0.0.0.0 us.upool.in
@@ -19229,6 +19253,7 @@
 0.0.0.0 wiki.node.gridcoin.us
 0.0.0.0 wilch.coinpoolit.webhop.me
 0.0.0.0 wildcard.hiddenlane.miningpool.thruhere.net
+0.0.0.0 wildman4ever.evolution-project.go.ro
 0.0.0.0 wildwook.onlycash.ddns.net
 0.0.0.0 willacrit.com
 0.0.0.0 willbeeching.onlycash.ddns.net
@@ -20198,8 +20223,8 @@
 0.0.0.0 www.bitcoin.bitaccess.co
 0.0.0.0 www.bitcoin.bitcoin.inc.hk
 0.0.0.0 www.bitcoin.coin-miners.info
-0.0.0.0 ww.w.bitcoin.co.pt
 0.0.0.0 www.bitcoin.co.pt
+0.0.0.0 ww.w.bitcoin.co.pt
 0.0.0.0 www.bitcoin-doubler.us
 0.0.0.0 www.bitcoiner.win
 0.0.0.0 www.bitcoin.inc.hk
@@ -20552,8 +20577,8 @@
 0.0.0.0 www.cryptopoolpond.com
 0.0.0.0 www.cryptopool.tk
 0.0.0.0 www.cryptopool.xyz
-0.0.0.0 www.cryptoprepaidcard.mining.sg
 0.0.0.0 www.crypto-prepaidcard.mining.sg
+0.0.0.0 www.cryptoprepaidcard.mining.sg
 0.0.0.0 www.cryptoprizepool.com
 0.0.0.0 www.cryptoquarry.com.au
 0.0.0.0 www.cryptosales.eu
@@ -21640,6 +21665,7 @@
 0.0.0.0 www.mx.thecoin.pw
 0.0.0.0 www.myadstats.com
 0.0.0.0 www.myatherwallet.biz
+0.0.0.0 www.my.atomminer.com
 0.0.0.0 www.my-builds.ru
 0.0.0.0 www.mycoinwallet.net
 0.0.0.0 www.myeherwalliet.com
@@ -22820,6 +22846,7 @@
 0.0.0.0 www.ybjfsqcevow.ru
 0.0.0.0 www.yelts.net
 0.0.0.0 www.yiimp.eu
+0.0.0.0 www.yiimp.gos.cx
 0.0.0.0 www.yiimp.hopto.org
 0.0.0.0 www.yiimp.mofumofu.me
 0.0.0.0 www.yizaiwl.cc
@@ -23188,6 +23215,7 @@
 0.0.0.0 xmr-on3.node.crypto-pool.fr
 0.0.0.0 xmr-on4.node.crypto-pool.fr
 0.0.0.0 xmr-on5.node.crypto-pool.fr
+0.0.0.0 xmr-on6.node.crypto-pool.fr
 0.0.0.0 xmr-on7.node.crypto-pool.fr
 0.0.0.0 xmr.pool.golix.com
 0.0.0.0 xmrpool.hashanywhere.com
@@ -23291,6 +23319,7 @@
 0.0.0.0 xrn.solopool.org
 0.0.0.0 xrqwig7erykgll4z.onion
 0.0.0.0 xry.mine2gether.com
+0.0.0.0 xs.btcc.com
 0.0.0.0 xsc.f2pool.com
 0.0.0.0 xsecurity.fblaster.com
 0.0.0.0 x-server.evolution-project.go.ro
@@ -23307,6 +23336,7 @@
 0.0.0.0 xst.coin-miners.info
 0.0.0.0 xst.node.coin-miners.info
 0.0.0.0 xsu.cryptonote.club
+0.0.0.0 xt1.btcc.com
 0.0.0.0 xt4.btcc.com
 0.0.0.0 xt7.btcc.com
 0.0.0.0 xta.bloc.llama.horse
