@@ -2669,6 +2669,11 @@
         "expiration_date": "11-mar-2021",
         "state": "future"
     },
+    "blockcruncher.com": {
+        "epoch": 1584316800.0,
+        "expiration_date": "16-mar-2020",
+        "state": "past"
+    },
     "blockcrushers.xyz": {
         "epoch": 1608422400.0,
         "expiration_date": "20-dec-2020",
@@ -4377,7 +4382,7 @@
     "cryptopros.com": {
         "epoch": 1589414400.0,
         "expiration_date": "14-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "cryptopros.us": {
         "epoch": 1636156800.0,
@@ -8302,6 +8307,11 @@
     "monoset.info": {
         "epoch": 1606867200.0,
         "expiration_date": "02-dec-2020",
+        "state": "future"
+    },
+    "monxpool.com": {
+        "epoch": 1892505600.0,
+        "expiration_date": "21-dec-2029",
         "state": "future"
     },
     "moonbit.co.in": {
