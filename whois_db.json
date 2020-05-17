@@ -7109,6 +7109,11 @@
         "expiration_date": "29-apr-2021",
         "state": "future"
     },
+    "lidonia.com": {
+        "epoch": 1609718400.0,
+        "expiration_date": "04-jan-2021",
+        "state": "future"
+    },
     "lightergame.com": {
         "epoch": 1653868800.0,
         "expiration_date": "30-may-2022",
@@ -8512,7 +8517,7 @@
     "mupool.com": {
         "epoch": 1589673600.0,
         "expiration_date": "17-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "musicoin.tw": {
         "epoch": 1617062400.0,
