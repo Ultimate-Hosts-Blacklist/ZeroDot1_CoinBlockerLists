@@ -8475,9 +8475,9 @@
         "state": "past"
     },
     "multicoin.co": {
-        "epoch": 1587340800.0,
-        "expiration_date": "20-apr-2020",
-        "state": "past"
+        "epoch": 1618876800.0,
+        "expiration_date": "20-apr-2021",
+        "state": "future"
     },
     "multiminer.us": {
         "epoch": 1591488000.0,
@@ -11817,6 +11817,11 @@
     "wallpool.com": {
         "epoch": 1644969600.0,
         "expiration_date": "16-feb-2022",
+        "state": "future"
+    },
+    "walpool.com": {
+        "epoch": 1593648000.0,
+        "expiration_date": "02-jul-2020",
         "state": "future"
     },
     "warphash.com": {
