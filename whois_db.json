@@ -2974,6 +2974,11 @@
         "expiration_date": "05-may-2020",
         "state": "past"
     },
+    "bthmine.site": {
+        "epoch": 1619395200.0,
+        "expiration_date": "26-apr-2021",
+        "state": "future"
+    },
     "bubblemine.com": {
         "epoch": 1618617600.0,
         "expiration_date": "17-apr-2021",
@@ -7607,6 +7612,11 @@
     "micepool.com": {
         "epoch": 1599955200.0,
         "expiration_date": "13-sep-2020",
+        "state": "future"
+    },
+    "middlecoin.com": {
+        "epoch": 1620000000.0,
+        "expiration_date": "03-may-2021",
         "state": "future"
     },
     "minanagency.com": {
