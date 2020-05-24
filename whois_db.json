@@ -4737,7 +4737,7 @@
     "dogecoin.dog": {
         "epoch": 1590278400.0,
         "expiration_date": "24-may-2020",
-        "state": "future"
+        "state": "past"
     },
     "doipool.com": {
         "epoch": 1602028800.0,
@@ -7635,8 +7635,8 @@
         "state": "future"
     },
     "mibpool.com": {
-        "epoch": 1590278400.0,
-        "expiration_date": "24-may-2020",
+        "epoch": 1621814400.0,
+        "expiration_date": "24-may-2021",
         "state": "future"
     },
     "micepool.com": {
