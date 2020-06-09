@@ -455,8 +455,8 @@
         "state": "future"
     },
     "4dayprofit.com": {
-        "epoch": 1591660800.0,
-        "expiration_date": "09-jun-2020",
+        "epoch": 1623196800.0,
+        "expiration_date": "09-jun-2021",
         "state": "future"
     },
     "4finance.biz": {
@@ -8119,6 +8119,11 @@
         "expiration_date": "04-jan-2021",
         "state": "future"
     },
+    "mining-pool.pw": {
+        "epoch": 1586822400.0,
+        "expiration_date": "14-apr-2020",
+        "state": "past"
+    },
     "mining.best": {
         "epoch": 1617667200.0,
         "expiration_date": "06-apr-2021",
@@ -11752,6 +11757,11 @@
     "urp.best": {
         "epoch": 1599868800.0,
         "expiration_date": "12-sep-2020",
+        "state": "future"
+    },
+    "us2mine.com": {
+        "epoch": 1620691200.0,
+        "expiration_date": "11-may-2021",
         "state": "future"
     },
     "usapool.live": {
