@@ -9024,6 +9024,11 @@
         "expiration_date": "01-oct-2020",
         "state": "future"
     },
+    "nimiq.agency": {
+        "epoch": 1599177600.0,
+        "expiration_date": "04-sep-2020",
+        "state": "future"
+    },
     "nimiq.com": {
         "epoch": 1672531200.0,
         "expiration_date": "01-jan-2023",
@@ -10420,8 +10425,8 @@
         "state": "future"
     },
     "rustpool.xyz": {
-        "epoch": 1590969600.0,
-        "expiration_date": "01-jun-2020",
+        "epoch": 1622505600.0,
+        "expiration_date": "01-jun-2021",
         "state": "future"
     },
     "rwinfo.club": {
