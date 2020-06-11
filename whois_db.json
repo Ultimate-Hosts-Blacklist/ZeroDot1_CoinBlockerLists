@@ -1959,6 +1959,11 @@
         "expiration_date": "14-jul-2020",
         "state": "future"
     },
+    "balkanminingpool.com": {
+        "epoch": 1648166400.0,
+        "expiration_date": "25-mar-2022",
+        "state": "future"
+    },
     "bandaomodel.com": {
         "epoch": 1599264000.0,
         "expiration_date": "05-sep-2020",
@@ -3200,8 +3205,8 @@
         "state": "future"
     },
     "cdn-code.host": {
-        "epoch": 1591574400.0,
-        "expiration_date": "08-jun-2020",
+        "epoch": 1623110400.0,
+        "expiration_date": "08-jun-2021",
         "state": "future"
     },
     "cecked.men": {
@@ -4602,6 +4607,11 @@
     "dashninja.pl": {
         "epoch": 1741910400.0,
         "expiration_date": "14-mar-2025",
+        "state": "future"
+    },
+    "dashu.gold": {
+        "epoch": 1619308800.0,
+        "expiration_date": "25-apr-2021",
         "state": "future"
     },
     "datapaw.net": {
@@ -6687,7 +6697,7 @@
     "iegservers.com": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "igrid.org": {
         "epoch": 1614470400.0,
