@@ -3515,8 +3515,8 @@
         "state": "future"
     },
     "coin-miners.info": {
-        "epoch": 1591833600.0,
-        "expiration_date": "11-jun-2020",
+        "epoch": 1623369600.0,
+        "expiration_date": "11-jun-2021",
         "state": "future"
     },
     "coin-mining.net": {
@@ -6377,7 +6377,7 @@
     "hashinvest.net": {
         "epoch": 1591833600.0,
         "expiration_date": "11-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "hashinvest.ws": {
         "epoch": 1742342400.0,
@@ -11369,6 +11369,11 @@
         "expiration_date": "03-sep-2021",
         "state": "future"
     },
+    "thedailyminer.com": {
+        "epoch": 1598054400.0,
+        "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
     "thekingstat.com": {
         "epoch": 1617753600.0,
         "expiration_date": "07-apr-2021",
@@ -11497,6 +11502,11 @@
     "topmining.co.kr": {
         "epoch": 1598054400.0,
         "expiration_date": "22-aug-2020",
+        "state": "future"
+    },
+    "toppool.top": {
+        "epoch": 1621036800.0,
+        "expiration_date": "15-may-2021",
         "state": "future"
     },
     "torrent.pw": {
