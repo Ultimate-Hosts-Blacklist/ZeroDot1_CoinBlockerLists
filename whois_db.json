@@ -9024,6 +9024,11 @@
         "expiration_date": "24-mar-2022",
         "state": "future"
     },
+    "nicepool.fun": {
+        "epoch": 1585267200.0,
+        "expiration_date": "27-mar-2020",
+        "state": "past"
+    },
     "nicepool.net": {
         "epoch": 1623024000.0,
         "expiration_date": "07-jun-2021",
@@ -12442,6 +12447,11 @@
     "xmr.cool": {
         "epoch": 1678147200.0,
         "expiration_date": "07-mar-2023",
+        "state": "future"
+    },
+    "xmr.org.uk": {
+        "epoch": 1604275200.0,
+        "expiration_date": "02-nov-2020",
         "state": "future"
     },
     "xmr.pt": {
