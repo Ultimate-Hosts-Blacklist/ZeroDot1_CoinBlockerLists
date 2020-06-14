@@ -834,6 +834,11 @@
         "expiration_date": "13-jun-2020",
         "state": "past"
     },
+    "agamamining.xyz": {
+        "epoch": 1620518400.0,
+        "expiration_date": "09-may-2021",
+        "state": "future"
+    },
     "agilital.com": {
         "epoch": 1609718400.0,
         "expiration_date": "04-jan-2021",
@@ -8347,7 +8352,7 @@
     "miningspace.net": {
         "epoch": 1592006400.0,
         "expiration_date": "13-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "miningspeed.com": {
         "epoch": 1599264000.0,
