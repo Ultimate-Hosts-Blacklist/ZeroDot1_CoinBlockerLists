@@ -162,7 +162,7 @@
     "1337pool.net": {
         "epoch": 1592611200.0,
         "expiration_date": "20-jun-2020",
-        "state": "future"
+        "state": "past"
     },
     "13xbtc.com": {
         "epoch": 1593820800.0,
@@ -9975,8 +9975,8 @@
         "state": "future"
     },
     "poolhost.com": {
-        "epoch": 1592006400.0,
-        "expiration_date": "13-jun-2020",
+        "epoch": 1623542400.0,
+        "expiration_date": "13-jun-2021",
         "state": "future"
     },
     "poolhub.org": {
@@ -11202,6 +11202,11 @@
     "streamplay.me": {
         "epoch": 1607126400.0,
         "expiration_date": "05-dec-2020",
+        "state": "future"
+    },
+    "stringclass.com": {
+        "epoch": 1684454400.0,
+        "expiration_date": "19-may-2023",
         "state": "future"
     },
     "stringengines.com": {
