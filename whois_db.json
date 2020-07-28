@@ -1617,7 +1617,7 @@
     "asiacryptobank.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "asiapool.trade": {
         "epoch": 1582761600.0,
@@ -6200,9 +6200,9 @@
         "state": "future"
     },
     "gpuhash.org": {
-        "epoch": 1595462400.0,
-        "expiration_date": "23-jul-2020",
-        "state": "past"
+        "epoch": 1626998400.0,
+        "expiration_date": "23-jul-2021",
+        "state": "future"
     },
     "gpuhot.com": {
         "epoch": 1597536000.0,
@@ -6932,7 +6932,7 @@
     "istgahkhabar.com": {
         "epoch": 1595894400.0,
         "expiration_date": "28-jul-2020",
-        "state": "future"
+        "state": "past"
     },
     "istlandoll.com": {
         "epoch": 1625270400.0,
@@ -12570,8 +12570,8 @@
         "state": "future"
     },
     "xhash.net": {
-        "epoch": 1595721600.0,
-        "expiration_date": "26-jul-2020",
+        "epoch": 1627257600.0,
+        "expiration_date": "26-jul-2021",
         "state": "future"
     },
     "xingyun.io": {
