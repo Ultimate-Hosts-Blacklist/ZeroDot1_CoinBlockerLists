@@ -332,7 +332,7 @@
     "251coins.com": {
         "epoch": 1596499200.0,
         "expiration_date": "04-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "2btc.io": {
         "epoch": 1615766400.0,
@@ -3690,9 +3690,9 @@
         "state": "future"
     },
     "coinhive.net": {
-        "epoch": 1595894400.0,
-        "expiration_date": "28-jul-2020",
-        "state": "past"
+        "epoch": 1627430400.0,
+        "expiration_date": "28-jul-2021",
+        "state": "future"
     },
     "coinhive.org": {
         "epoch": 1624752000.0,
