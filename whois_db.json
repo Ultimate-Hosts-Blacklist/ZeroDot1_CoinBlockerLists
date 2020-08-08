@@ -4022,7 +4022,7 @@
     "coolmining.club": {
         "epoch": 1596844800.0,
         "expiration_date": "08-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "coolpool.top": {
         "epoch": 1627689600.0,
@@ -8802,6 +8802,11 @@
     "morningdigit.com": {
         "epoch": 1597017600.0,
         "expiration_date": "10-aug-2020",
+        "state": "future"
+    },
+    "mpool.biz": {
+        "epoch": 1604016000.0,
+        "expiration_date": "30-oct-2020",
         "state": "future"
     },
     "mpool.su": {
