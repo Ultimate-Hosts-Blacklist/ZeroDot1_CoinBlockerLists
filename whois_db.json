@@ -4352,7 +4352,7 @@
     "cryptogaming.club": {
         "epoch": 1596758400.0,
         "expiration_date": "07-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "cryptogreek.cafe": {
         "epoch": 1602460800.0,
@@ -5987,6 +5987,11 @@
     "gamemachine.tech": {
         "epoch": 1600128000.0,
         "expiration_date": "15-sep-2020",
+        "state": "future"
+    },
+    "gandalph3000.com": {
+        "epoch": 1626220800.0,
+        "expiration_date": "14-jul-2021",
         "state": "future"
     },
     "garlicpool.org": {
