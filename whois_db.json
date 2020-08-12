@@ -2684,6 +2684,11 @@
         "expiration_date": "19-nov-2020",
         "state": "future"
     },
+    "bittube.app": {
+        "epoch": 1609632000.0,
+        "expiration_date": "03-jan-2021",
+        "state": "future"
+    },
     "bittylicious.com": {
         "epoch": 1621382400.0,
         "expiration_date": "19-may-2021",
@@ -7357,7 +7362,7 @@
     "kryptonchain.org": {
         "epoch": 1597190400.0,
         "expiration_date": "12-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "kwaiwa.com": {
         "epoch": 1609027200.0,
