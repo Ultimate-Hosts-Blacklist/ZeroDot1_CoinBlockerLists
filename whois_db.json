@@ -87,7 +87,7 @@
     "10daysprofit.co.uk": {
         "epoch": 1597276800.0,
         "expiration_date": "13-aug-2020",
-        "state": "future"
+        "state": "past"
     },
     "10in10trading.com": {
         "epoch": 1617753600.0,
@@ -9422,6 +9422,11 @@
     "noobpool.com": {
         "epoch": 1599523200.0,
         "expiration_date": "08-sep-2020",
+        "state": "future"
+    },
+    "noobxmr.com": {
+        "epoch": 1633478400.0,
+        "expiration_date": "06-oct-2021",
         "state": "future"
     },
     "norespar.ru": {
