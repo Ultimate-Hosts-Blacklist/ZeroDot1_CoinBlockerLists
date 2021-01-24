@@ -1,41 +1,19 @@
 {
-    "current_stats": {
-        "builds": 2775,
-        "counter": {
-            "down": 0,
-            "invalid": 0,
-            "malicious": 0,
-            "sane": 0,
-            "tested": 0,
-            "up": 0,
-            "valid": 0
-        },
-        "volatile.list": 29334,
-        "whitelisted.list": 29328
-    },
     "currently_under_test": true,
+    "custom_pyfunceble_config": {},
     "days_until_next_test": 2,
     "description": "Simple lists that can help prevent cryptomining in the browser or other applications.",
     "end_datetime": "2020-03-03T15:33:08.495360",
     "end_epoch": 1582857431.400668,
     "issue_link": "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/issues/new?issue%5Bassignee_id%5D=&issue%5Bmilestone_id%5D=",
-    "last_autosave_datetime": "2020-03-03T15:33:08.495373",
-    "last_autosave_epoch": 1583247403.67008,
     "link": "https://zerodot1.gitlab.io/CoinBlockerListsWeb/",
     "name": "ZeroDot1_CoinBlockerLists",
-    "previous_stats": {
-        "builds": 117,
-        "clean.list": 29331,
-        "counter": {
-            "down": 18877,
-            "invalid": 0,
-            "tested": 48208,
-            "up": 29331
-        },
-        "domains.list": 48208,
-        "ip.list": 0,
-        "volatile.list": 29335,
-        "whitelisted.list": 29329
+    "previous_end_datetime": "2020-01-25T04:16:26.877031",
+    "previous_end_epoch": 1579925786.877035,
+    "previous_start_datetime": "2020-01-25T04:16:26.877019",
+    "previous_start_epoch": 1579925786.877033,
+    "pyfunceble": {
+        "config": {}
     },
     "raw_link": "https://zerodot1.gitlab.io/CoinBlockerLists/list.txt",
     "start_datetime": "2020-03-03T15:33:08.499140",
