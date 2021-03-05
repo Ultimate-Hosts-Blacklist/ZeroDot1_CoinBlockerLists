@@ -168,13 +168,16 @@
         "wnext.app",
         "platform0.app",
         "ondigitalocean.app",
+        "edgecompute.app",
         "fireweb.app",
+        "framer.app",
         "run.app",
         "a.run.app",
         "web.app",
         "hasura.app",
         "loginline.app",
         "netlify.app",
+        "northflank.app",
         "telebit.app",
         "vercel.app"
     ],
@@ -325,6 +328,7 @@
         "webhosting.be",
         "blogspot.be",
         "cloud.interhostsolutions.be",
+        "ezproxy.kuleuven.be",
         "transurl.be"
     ],
     "bf": [
@@ -678,6 +682,9 @@
         "net.bt",
         "org.bt"
     ],
+    "builders": [
+        "cloudsite.builders"
+    ],
     "business": [
         "co.business"
     ],
@@ -812,6 +819,7 @@
         "us.reclaim.cloud",
         "ch.trendhosting.cloud",
         "de.trendhosting.cloud",
+        "kuleuven.cloud",
         "linkyard.cloud",
         "magentosite.cloud",
         "perspecta.cloud",
@@ -940,6 +948,7 @@
         "us-west-1.elasticbeanstalk.com",
         "us-west-2.elasticbeanstalk.com",
         "elb.amazonaws.com",
+        "awsglobalaccelerator.com",
         "s3.amazonaws.com",
         "s3-ap-northeast-1.amazonaws.com",
         "s3-ap-northeast-2.amazonaws.com",
@@ -993,6 +1002,8 @@
         "s3-website.eu-west-2.amazonaws.com",
         "s3-website.eu-west-3.amazonaws.com",
         "s3-website.us-east-2.amazonaws.com",
+        "appspacehosted.com",
+        "appspaceusercontent.com",
         "on-aptible.com",
         "myasustor.com",
         "balena-devices.com",
@@ -1209,6 +1220,7 @@
         "fastvps-server.com",
         "mydobiss.com",
         "firebaseapp.com",
+        "framercanvas.com",
         "freebox-os.com",
         "freeboxos.com",
         "freemyip.com",
@@ -1522,7 +1534,9 @@
     ],
     "dev": [
         "lcl.dev",
+        "lclstage.dev",
         "stg.dev",
+        "stgstage.dev",
         "pages.dev",
         "workers.dev",
         "curv.dev",
@@ -2604,6 +2618,7 @@
         "name.jo"
     ],
     "jp": [
+        "xn--0trq7p7nn.jp",
         "ac.jp",
         "ad.jp",
         "co.jp",
@@ -2668,7 +2683,6 @@
         "xn--uist22h.jp",
         "xn--djrs72d6uy.jp",
         "xn--mkru45i.jp",
-        "xn--0trq7p7nn.jp",
         "xn--8ltr62k.jp",
         "xn--2m4a15e.jp",
         "xn--efvn9s.jp",
@@ -4701,6 +4715,7 @@
         "lohmus.me",
         "barsy.me",
         "mcpe.me",
+        "mcdir.me",
         "nctu.me",
         "soundcast.me",
         "tcp4.me",
@@ -5401,13 +5416,14 @@
         "nym.mx"
     ],
     "my": [
+        "biz.my",
         "com.my",
-        "net.my",
-        "org.my",
-        "gov.my",
         "edu.my",
+        "gov.my",
         "mil.my",
         "name.my",
+        "net.my",
+        "org.my",
         "blogspot.my"
     ],
     "mz": [
@@ -5464,6 +5480,7 @@
         "uk.net",
         "in.net",
         "clic2000.net",
+        "clickrising.net",
         "cloudaccess.net",
         "cdn77-ssl.net",
         "r.cdn77.net",
@@ -5591,6 +5608,8 @@
         "serveminecraft.net",
         "sytes.net",
         "cloudycluster.net",
+        "webpaas.ovh.net",
+        "hosting.ovh.net",
         "bar0.net",
         "bar1.net",
         "bar2.net",
@@ -5604,6 +5623,8 @@
         "user.srcf.net",
         "dsmynas.net",
         "familyds.net",
+        "torproject.net",
+        "pages.torproject.net",
         "fastblog.net",
         "community-pro.net",
         "meinforum.net",
@@ -5618,6 +5639,9 @@
         "arvo.network",
         "azimuth.network",
         "tlon.network"
+    ],
+    "news": [
+        "noticeable.news"
     ],
     "nf": [
         "com.nf",
@@ -7121,6 +7145,7 @@
         "int.ru",
         "mil.ru",
         "test.ru",
+        "eurodir.ru",
         "adygeya.ru",
         "bashkiria.ru",
         "bir.ru",
@@ -7151,6 +7176,7 @@
         "vps.myjino.ru",
         "hb.cldmail.ru",
         "mcdir.ru",
+        "mcpre.ru",
         "vps.mcdir.ru",
         "net.ru",
         "org.ru",
@@ -7164,6 +7190,7 @@
         "hs.run",
         "development.run",
         "ravendb.run",
+        "code.run",
         "repl.run"
     ],
     "rw": [
@@ -7207,7 +7234,8 @@
     ],
     "scot": [
         "edu.scot",
-        "gov.scot"
+        "gov.scot",
+        "service.gov.scot"
     ],
     "sd": [
         "com.sd",
@@ -7316,6 +7344,7 @@
         "opensocial.site",
         "platformsh.site",
         "byen.site",
+        "srht.site",
         "mintere.site"
     ],
     "sk": [
