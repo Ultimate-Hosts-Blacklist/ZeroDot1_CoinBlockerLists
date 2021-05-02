@@ -3,7 +3,6 @@
 This is an input source of the Ultimate Hosts Blacklist project.
 Its objective is to test and provide a cleaned version the upstream list.
 
-## THIS INPUT SOURCE IS MANAGED BY THE [ULTIMATE HOST BLACKLIST](https://github.com/Ultimate-Hosts-Blacklist) COMMUNITY!
 
 ## Understanding the structure
 
