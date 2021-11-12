@@ -694,7 +694,8 @@
         "org.bt"
     ],
     "builders": [
-        "cloudsite.builders"
+        "cloudsite.builders",
+        "spdns.de"
     ],
     "business": [
         "co.business"
@@ -7290,6 +7291,7 @@
         "turystyka.pl",
         "tychy.pl",
         "ug.gov.pl",
+        "ugim.gov.pl",
         "um.gov.pl",
         "umig.gov.pl",
         "unicloud.pl",
@@ -7656,7 +7658,6 @@
         "net.sh",
         "now.sh",
         "org.sh",
-        "ugim.gov.pl",
         "us.platform.sh",
         "vxl.sh",
         "wedeploy.sh"
