@@ -1810,6 +1810,9 @@
         "nom.es",
         "org.es"
     ],
+    "estate": [
+        "compute.estate"
+    ],
     "et": [
         "biz.et",
         "com.et",
@@ -5178,7 +5181,6 @@
         "dscloud.mobi"
     ],
     "mp": [
-        "compute.estate",
         "ju.mp"
     ],
     "mr": [
@@ -8684,6 +8686,7 @@
         "0e.vc",
         "com.vc",
         "d.gv.vc",
+        "edu.vc",
         "gov.vc",
         "gv.vc",
         "mil.vc",
@@ -8829,7 +8832,6 @@
     "zw": [
         "ac.zw",
         "co.zw",
-        "edu.vc",
         "gov.zw",
         "mil.zw",
         "org.zw"
