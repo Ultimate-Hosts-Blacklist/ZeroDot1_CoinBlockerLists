@@ -1,18 +1,18 @@
 {
     "chrome": {
-        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/104.0.5112.81Safari/537.36",
+        "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36",
         "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10_7_3)AppleWebKit/537.36(KHTML,likeGecko,Mediapartners-Google)Chrome/109.0.5414.101Safari/537.36",
         "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36"
     },
     "edge": {
         "linux": null,
         "macosx": null,
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.61Config/100.2.1151.52"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/109.0.0.0Safari/537.36Edg/109.0.1518.61"
     },
     "firefox": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64;rv:109.0)Gecko/20100101Firefox/109.0",
         "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10.11;rv:78.0)Gecko/20100101Firefox/78.0",
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:109.0)Gecko/20100101Firefox/109.0Config/92.2.4561.62"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64;rv:109.0)Gecko/20100101Firefox/109.0"
     },
     "ie": {
         "linux": null,
@@ -22,7 +22,7 @@
     "opera": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/107.0.5304.91Safari/537.36OPR/92.0.4561.11",
         "macosx": "Mozilla/5.0(Macintosh;IntelMacOSX10_11_6)AppleWebKit/537.36(KHTML,likeGecko)Chrome/103.0.5060.134Safari/537.36OPR/89.0.4447.98",
-        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/108.0.0.0Safari/537.36OPR/94.0.0.0"
+        "win10": "Mozilla/5.0(WindowsNT10.0;Win64;x64)AppleWebKit/537.36(KHTML,likeGecko)Chrome/105.0.0.0Safari/537.36OPR/91.0.4516.77/otF2ipPK-54"
     },
     "safari": {
         "linux": "Mozilla/5.0(X11;Linuxx86_64)AppleWebKit/537.36(KHTML,likeGecko)Version/4.0Chrome/109.0.5414.86MobileSafari/537.36",
