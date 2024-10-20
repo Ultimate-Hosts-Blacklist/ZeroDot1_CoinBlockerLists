@@ -1781,7 +1781,6 @@
         "s3-accesspoint.dualstack.eu-south-1.amazonaws.com",
         "s3-accesspoint.dualstack.eu-south-2.amazonaws.com",
         "s3-accesspoint.dualstack.eu-west-1.amazonaws.com",
-        "s3-accesspoint.dualstack.eu-west-2.amazonaws.com",
         "s3-accesspoint.dualstack.eu-west-3.amazonaws.com",
         "s3-accesspoint.dualstack.il-central-1.amazonaws.com",
         "s3-accesspoint.dualstack.me-central-1.amazonaws.com",
@@ -8046,6 +8045,7 @@
         "onporter.run",
         "ravendb.run",
         "repl.run",
+        "s3-accesspoint.dualstack.eu-west-2.amazonaws.com",
         "servers.run",
         "stackit.run",
         "web.val.run",
@@ -8073,6 +8073,7 @@
     "sb": [
         "com.sb",
         "edu.sb",
+        "gov.sb",
         "net.sb",
         "org.sb"
     ],
@@ -9173,7 +9174,6 @@
     "zw": [
         "ac.zw",
         "co.zw",
-        "gov.sb",
         "gov.zw",
         "mil.zw",
         "org.zw"
