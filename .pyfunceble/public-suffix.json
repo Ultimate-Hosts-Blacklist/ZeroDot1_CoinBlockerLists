@@ -8043,7 +8043,6 @@
         "database.run",
         "development.run",
         "express.val.run",
-        "hs.run",
         "migration.run",
         "onporter.run",
         "ravendb.run",
@@ -9168,7 +9167,6 @@
     ],
     "zone": [
         "cloud66.zone",
-        "hs.zone",
         "lima.zone",
         "stackit.zone",
         "triton.zone"
