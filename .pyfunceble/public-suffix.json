@@ -2435,6 +2435,7 @@
         "store.dk"
     ],
     "dm": [
+        "co.dm",
         "com.dm",
         "edu.dm",
         "gov.dm",
@@ -5894,8 +5895,7 @@
         "mil.mg",
         "nom.mg",
         "org.mg",
-        "prd.mg",
-        "tm.mg"
+        "prd.mg"
     ],
     "mk": [
         "blogspot.mk",
@@ -8491,23 +8491,17 @@
         "web.tr"
     ],
     "tt": [
-        "aero.tt",
         "biz.tt",
         "co.tt",
         "com.tt",
-        "coop.tt",
         "edu.tt",
         "gov.tt",
         "info.tt",
-        "int.tt",
-        "jobs.tt",
-        "mobi.tt",
-        "museum.tt",
+        "mil.tt",
         "name.tt",
         "net.tt",
         "org.tt",
-        "pro.tt",
-        "travel.tt"
+        "pro.tt"
     ],
     "tv": [
         "better-than.tv",
